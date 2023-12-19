@@ -532,6 +532,10 @@ strong {
     cursor: pointer; /* Изменение курсора при наведении */
 }
 
+.swiper-slide {
+    position: relative;
+}
+
 .overlay {
     position: absolute;
     top: 0;
