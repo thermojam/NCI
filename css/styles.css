@@ -459,6 +459,14 @@ strong {
     font-size: 20px;
 }
 
+.calculation-button:hover {
+    position: relative;
+    background: linear-gradient(to right, #185f8c 0%, #185f8c 100%); /* Начальный и конечный цвета градиента */
+    background-size: 200% 100%; /* Размер градиента: 200% ширина, 100% высота */
+    color: #fff; /* Цвет текста кнопки */
+    transition: background-position 0.3s ease; /* Длительность анимации и функция сглаживания */
+}
+
 /*review*/
 .review {
     padding: 40px 0 60px 0;
