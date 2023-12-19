@@ -28,8 +28,9 @@ let swiper = new Swiper(".mySwiper", {
         },
     },
     pagination: {
-        el: '.swiper-pagination', // Селектор контейнера для пагинации
-        clickable: true, // Сделать пагинацию кликабельной
+        el: ".swiper-pagination",
+        dynamicBullets: true,
+        clickable: true,
     },
 });
 
