@@ -3,10 +3,6 @@ let swiper1 = new Swiper('#swiper1', {
     slidesPerView: 3,
     spaceBetween: 20,
     grabCursor: true,
-    loop: true,
-    autoplay: {
-        delay: 5000,
-    },
 });
 
 // Инициализация Swiper 2
@@ -14,6 +10,9 @@ let swiper2 = new Swiper('#swiper2', {
     slidesPerView: 3,
     spaceBetween: 20,
     grabCursor: true,
+    autoplay: {
+        delay: 4000,
+    },
 
     pagination: {
         el: ".swiper-pagination-catalog",
@@ -30,19 +29,20 @@ swiper2.controller.control = swiper1;
 
 //slider-modal
 let swiper3 = new Swiper(".mySwiper3", {
-    loop: true,
     spaceBetween: 10,
     slidesPerView: 4,
-    freeMode: true,
-    watchSlidesProgress: true,
+    allowTouchMove: false,
+    autoplay: {
+        delay: 2000,
+    },
 });
 
 let swiper4 = new Swiper(".mySwiper4", {
     loop: true,
     spaceBetween: 10,
-    autoplay: {
-        delay: 5000,
-    },
+    // autoplay: {
+    //     delay: 5000,
+    // },
 });
 
 
