@@ -192,6 +192,11 @@
     overflow: hidden;
 }
 
+.slider-container {
+    width: 140%;
+    height: 150%;
+}
+
 .swiper {
     width: 140%;
     height: 100%;
@@ -209,7 +214,7 @@
 }
 
 
-.mySwiper3 {
+.main-slider {
     width: 100%;
     height: 20%;
     box-sizing: border-box;
@@ -232,17 +237,6 @@
 .card-body {
     border-radius: 0 0 20px 20px;
 }
-
-/*.swiper-pagination {*/
-/*    position: relative;*/
-/*    bottom: 20px;*/
-/*}*/
-
-/*.swiper-pagination-bullet {*/
-/*    background-color: #154e8c;*/
-/*    width: 10px;*/
-/*    height: 10px;*/
-/*}*/
 
 .card-btn {
     border-radius: 10px;
@@ -365,8 +359,9 @@ strong {
 }
 
 .scrollable-content {
+    cursor: pointer;
     width: 470px;
-    max-height: 550px; /* Задайте максимальную высоту блока по вашему усмотрению */
+    max-height: 560px; /* Задайте максимальную высоту блока по вашему усмотрению */
     overflow: auto;
     padding: 10px; /* Добавьте отступы по вашему усмотрению */
 }

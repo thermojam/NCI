@@ -1,28 +1,28 @@
-let swiper3 = new Swiper('.swiper3', {
-    slidesPerView: 5,
-    spaceBetween: 10,
-    pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-    },
-});
+function initSwipers(containerSelector) {
+    let containers = document.querySelectorAll(containerSelector);
 
-let swiper4 = new Swiper('.swiper4', {
-    spaceBetween: 10,
-    allowTouchMove: false,
-    autoplay: {
-        delay: 4000,
-    },
-    pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-    },
-});
+    containers.forEach(function (container) {
+        let mainSlider = new Swiper(container.querySelector('.main-slider'), {
+            spaceBetween: 10,
+            allowTouchMove: false,
+            autoplay: {
+                delay: 4000,
+            },
+        });
 
-// Связываем событие click на миниатюре со сменой слайда в основном слайдере
-swiper3.on('click', function () {
-    // Получаем индекс кликнутой миниатюры
-    let clickedIndex = swiper3.clickedIndex;
-    // Переключаем слайдер 4 на соответствующий индекс
-    swiper4.slideTo(clickedIndex);
-});
+        let thumbnailSlider = new Swiper(container.querySelector('.thumbnail-slider'), {
+            slidesPerView: 5,
+            spaceBetween: 10,
+        });
+
+        mainSlider.controller.control = thumbnailSlider;
+        thumbnailSlider.controller.control = mainSlider;
+
+        thumbnailSlider.on('click', function () {
+            let clickedIndex = thumbnailSlider.clickedIndex;
+            mainSlider.slideTo(clickedIndex);
+        });
+    });
+}
+
+initSwipers('.slider-container');
