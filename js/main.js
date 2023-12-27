@@ -3,6 +3,7 @@ let swiper1 = new Swiper('#swiper1', {
     slidesPerView: 3,
     spaceBetween: 20,
     grabCursor: true,
+    lazy: true,
 });
 
 // Инициализация Swiper 2
@@ -10,8 +11,9 @@ let swiper2 = new Swiper('#swiper2', {
     slidesPerView: 3,
     spaceBetween: 20,
     grabCursor: true,
+    lazy: true,
     autoplay: {
-        delay: 4000,
+        delay: 5000,
     },
 
     pagination: {
