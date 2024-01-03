@@ -12,6 +12,7 @@ let swiper2 = new Swiper('#swiper2', {
     spaceBetween: 20,
     grabCursor: true,
     lazy: true,
+    stopOnInteraction: false,
     autoplay: {
         delay: 5000,
     },
@@ -26,27 +27,6 @@ let swiper2 = new Swiper('#swiper2', {
 // Связывание слайдеров через общую пагинацию
 swiper1.controller.control = swiper2;
 swiper2.controller.control = swiper1;
-
-
-
-//slider-modal
-// let swiper3 = new Swiper(".mySwiper3", {
-//     spaceBetween: 10,
-//     slidesPerView: 4,
-//     allowTouchMove: false,
-//     autoplay: {
-//         delay: 2000,
-//     },
-// });
-//
-// let swiper4 = new Swiper(".mySwiper4", {
-//     loop: true,
-//     spaceBetween: 10,
-//     // autoplay: {
-//     //     delay: 5000,
-//     // },
-// });
-
 
 //click whats-up
 function redirectToWhatsApp() {

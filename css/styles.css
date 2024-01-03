@@ -204,15 +204,9 @@
     margin-right: auto;
 }
 
-.swiper-slide {
-    background-size: cover;
-    background-position: center;
-}
-
 .swiper-wrapper {
     cursor: pointer;
 }
-
 
 .main-slider {
     width: 100%;
@@ -220,7 +214,6 @@
     box-sizing: border-box;
     padding: 10px 0;
 }
-
 
 .swiper-slide img {
     width: 100%;
