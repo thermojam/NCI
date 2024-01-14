@@ -1,0 +1,456 @@
+@media screen  and (max-width: 2900px) {
+}
+
+/*1400 - 1900*/
+@media screen  and (max-width: 1450px) {
+    /*MAIN*/
+    :root {
+        --bg-offset-x: -20px;
+        --bg-offset-y: -50px;
+    }
+
+    .main {
+        background-position: calc(90% - var(--bg-offset-x)) calc(90% - var(--bg-offset-y));
+    }
+
+}
+
+/*1200 - 1399 (XL)*/
+@media screen  and (max-width: 1399px) {
+    /*main*/
+    .main-title {
+        font-size: 58px;
+        line-height: 110%;
+        letter-spacing: 4px;
+    }
+
+    .main-description {
+        margin-top: 10px;
+    }
+
+    .main-description-two {
+        margin-top: 10px;
+    }
+
+    .main-action {
+        margin-top: 40px;
+    }
+
+    /*advantages */
+    .advantage-text {
+        font-size: 16px;
+    }
+
+    /*phone*/
+    .phone {
+        cursor: pointer;
+        width: 60px;
+        height: 60px;
+        top: 120px;
+        right: 10px;
+    }
+
+}
+
+/*992 - 1099 (LG)*/
+@media screen  and (max-width: 1099px) {
+    /*main*/
+    :root {
+        --bg-offset-x: -20px;
+        --bg-offset-y: -80px;
+    }
+
+    .main {
+        background-position: calc(90% - var(--bg-offset-x)) calc(30% - var(--bg-offset-y));
+    }
+
+    .main-description-two {
+        font-size: 14px;
+    }
+}
+
+/*768 - 991 (MD)*/
+@media screen  and (max-width: 992px) {
+    /*main*/
+    .main-info {
+        position: relative;
+        top: -45px;
+    }
+
+    .main-title {
+        font-size: 52px;
+        line-height: 110%;
+        letter-spacing: 3px;
+    }
+
+    .main-description {
+        margin-top: 20px;
+    }
+
+    .main-description-two {
+        margin-top: 20px;
+    }
+
+    .main-action {
+        margin-top: 40px;
+    }
+
+    /*review*/
+    .slide-name {
+        font-size: 16px;
+    }
+
+    .review-slide {
+        font-size: 12px;
+    }
+}
+
+/*576 - 767 (SM)*/
+@media screen  and (max-width: 767px) {
+    /*MAIN*/
+    :root {
+        --bg-offset-x: -20px;
+        --bg-offset-y: -80px;
+    }
+
+    .main {
+        background-position: calc(85% - var(--bg-offset-x)) calc(30% - var(--bg-offset-y));
+
+        background-size: calc(260% - var(--bg-offset-x)) calc(100% - var(--bg-offset-y));
+    }
+
+    .main-info {
+        text-align: center;
+    }
+
+    .main-title {
+        font-size: 52px;
+    }
+
+    .main-description {
+        font-size: 28px;
+        margin-top: 10px;
+    }
+
+    .main-description-two {
+        font-size: 22px;
+        margin-top: 10px;
+        letter-spacing: 1px;
+    }
+
+    /*advantages*/
+    .advantage-text {
+        font-size: 22px;
+    }
+
+    /*footer*/
+    .footer-column {
+        margin-bottom: 60px;
+    }
+}
+
+/*424 - 576 (<SM)*/
+@media screen  and (max-width: 575px) {
+    /*MAIN*/
+    :root {
+        --bg-offset-x: -20px;
+        --bg-offset-y: -80px;
+    }
+
+    .main {
+        background-position: calc(87% - var(--bg-offset-x)) calc(30% - var(--bg-offset-y));
+
+        background-size: calc(260% - var(--bg-offset-x)) calc(100% - var(--bg-offset-y));
+    }
+
+    .main-info {
+        text-align: center;
+    }
+
+    .main-title {
+        font-size: 42px;
+    }
+
+    .main-description {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+
+    .main-description-two {
+        font-size: 16px;
+        margin-top: 10px;
+        letter-spacing: 1px;
+    }
+
+    /*advantages*/
+    .advantage-title {
+        font-size: 28px;
+    }
+
+    .advantage-text {
+        font-size: 20px;
+    }
+
+    /*calculation*/
+    .calculation-title {
+        font-size: 28px;
+    }
+
+    /*review*/
+    .review-title {
+        font-size: 28px;
+    }
+
+    .review-icon {
+        display: block;
+    }
+
+    /*screen*/
+    .screen-title {
+        font-size: 28px;
+    }
+
+    /*process*/
+    .process-title {
+        font-size: 28px;
+    }
+
+    .process-murk-up {
+        font-size: 18px;
+    }
+
+    .process-text {
+        font-size: 12px;
+    }
+
+    /*questions*/
+    .questions-title {
+        font-size: 28px;
+    }
+
+    /*contacts*/
+    .contacts-title {
+        font-size: 28px;
+    }
+
+    .contact-frame {
+        text-align: center;
+    }
+
+    /*footer*/
+    .footer-column {
+        margin-bottom: 60px;
+    }
+
+    /*phone*/
+    .phone {
+        cursor: pointer;
+        width: 60px;
+        height: 60px;
+        top: 120px;
+        right: 10px;
+    }
+
+
+}
+
+/*375 - 424 (ES)*/
+@media screen  and (max-width: 424px) {
+    /*MAIN*/
+    .logo {
+        max-width: 240px;
+        margin-right: 10px;
+    }
+
+    :root {
+        --bg-offset-x: -20px;
+        --bg-offset-y: -80px;
+    }
+
+    .main {
+        background-position: calc(85% - var(--bg-offset-x)) calc(30% - var(--bg-offset-y));
+        background-size: calc(280% - var(--bg-offset-x)) calc(100% - var(--bg-offset-y));
+    }
+
+
+    .main-info {
+        text-align: center;
+    }
+
+    .main-title {
+        font-size: 36px;
+    }
+
+    .main-description {
+        font-size: 18px;
+        margin-top: 10px;
+    }
+
+    .main-description-two {
+        font-size: 16px;
+        margin-top: 10px;
+        letter-spacing: 1px;
+    }
+
+    .main-action {
+        margin-top: 34px;
+    }
+
+    .main-button {
+        text-align: center;
+        width: 310px;
+    }
+
+    /*advantages*/
+    .advantage-title {
+        font-size: 24px;
+    }
+
+    /*calculation*/
+    .calculation-title {
+        font-size: 24px;
+    }
+
+    /*review*/
+    .review-title {
+        font-size: 24px;
+    }
+
+    .review-icon {
+        display: block;
+    }
+
+    /*screen*/
+    .screen-title {
+        font-size: 24px;
+    }
+
+    /*process*/
+    .process-title {
+        font-size: 24px;
+    }
+
+    .process-murk-up {
+        font-size: 18px;
+    }
+
+    .process-text {
+        font-size: 14px;
+    }
+
+    /*questions*/
+    .questions-title {
+        font-size: 24px;
+    }
+
+    .accordion-body {
+        font-size: 14px;
+    }
+
+    /*contacts*/
+    .contacts-title {
+        font-size: 24px;
+    }
+
+    .contact-frame {
+        text-align: center;
+    }
+
+    /*footer*/
+    .footer-column {
+        margin-bottom: 60px;
+    }
+
+}
+
+
+/*320 - 374(XS)*/
+@media screen  and (max-width: 374px) {
+    /*logo*/
+    .logo {
+        max-width: 220px;
+        margin-right: 20px;
+    }
+
+    /*main*/
+    .main-description {
+        font-size: 16px;
+    }
+
+    .main-description-two {
+        font-size: 14px;
+    }
+
+    .main-button {
+        width: 300px;
+    }
+
+    /*advantages*/
+    .advantage-title {
+        font-size: 20px;
+    }
+
+    .advantage-text {
+        font-size: 16px;
+    }
+
+
+    /*calculation*/
+    .calculation-title {
+        font-size: 20px;
+    }
+
+    /*review*/
+    .review-title {
+        font-size: 20px;
+    }
+
+    .review-icon {
+        display: block;
+    }
+
+    /*screen*/
+    .screen-title {
+        font-size: 20px;
+    }
+
+    /*process*/
+    .process-title {
+        font-size: 20px;
+    }
+
+    .process-murk-up {
+        font-size: 16px;
+    }
+
+    .process-text {
+        font-size: 14px;
+    }
+
+    /*questions*/
+    .questions-title {
+        font-size: 20px;
+    }
+
+    .accordion-body {
+        font-size: 14px;
+    }
+
+    /*contacts*/
+    .contacts-title {
+        font-size: 20px;
+    }
+
+    .contacts-info {
+        margin-top: 0;
+    }
+
+    .contacts-text {
+        font-size: 16px;
+    }
+
+    .contacts-street {
+        font-size: 12px;
+    }
+
+}
