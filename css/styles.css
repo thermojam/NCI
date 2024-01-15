@@ -110,11 +110,7 @@
 }
 
 .main-button:hover {
-    position: relative;
-    background: linear-gradient(to right, #185f8c 0%, #185f8c 100%); /* Начальный и конечный цвета градиента */
-    background-size: 200% 100%; /* Размер градиента: 200% ширина, 100% высота */
-    color: #fff; /* Цвет текста кнопки */
-    transition: background-position 0.3s ease;
+    background: linear-gradient(90deg, #43A1D6 0%, #9BDBFD 50%, #3d71a9 100%);
 }
 
 /*Advantages*/
@@ -191,6 +187,12 @@
     padding: 15px;
 }
 
+.calculation-input::placeholder {
+    color: #888888;
+    font-family: Evolventa, sans-serif;
+    font-size: 16px;
+}
+
 .calculation-button {
     box-shadow: 1.95px 1.95px 2.6px 0 rgba(0, 0, 0, 0.15);
     height: 60px;
@@ -208,11 +210,7 @@
 }
 
 .calculation-button:hover {
-    position: relative;
-    background: linear-gradient(to right, #185f8c 0%, #185f8c 100%); /* Начальный и конечный цвета градиента */
-    background-size: 200% 100%; /* Размер градиента: 200% ширина, 100% высота */
-    color: #fff; /* Цвет текста кнопки */
-    transition: background-position 0.3s ease; /* Длительность анимации и функция сглаживания */
+    background: linear-gradient(90deg, #43A1D6 0%, #9BDBFD 50%, #3d71a9 100%);
 }
 
 /*___________________________________________________*/
@@ -252,8 +250,7 @@
     overflow: hidden;
     background-color: #ffffff;
     height: auto;
-    box-shadow: 0 4px 6px -2px rgba(0, 0, 0, 0.05), 0px 10px 15px -3px rgba(0, 0, 0, 0.10);
-}
+    box-shadow: rgba(0, 0, 0, 0.45) 0 25px 20px -20px;}
 #swiper5 .swiper-slide img {
     width: 100%;
 }
@@ -317,8 +314,7 @@
     cursor: pointer;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 4px 6px -2px rgba(0, 0, 0, 0.05), 0px 10px 15px -3px rgba(0, 0, 0, 0.10);
-}
+    box-shadow: rgba(0, 0, 0, 0.45) 0 25px 20px -20px;}
 
 .swiper-pagination-screen {
     position: relative;
@@ -357,6 +353,11 @@
 
 .process-icon {
     cursor: pointer;
+    transition: all .5s ease;
+}
+
+.process-icon svg:hover {
+    transition: all .5s ease;
 }
 
 .process-text {
