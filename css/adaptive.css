@@ -103,6 +103,15 @@
     .review-slide {
         font-size: 12px;
     }
+
+    /*phone*/
+    .phone {
+        cursor: pointer;
+        width: 60px;
+        height: 60px;
+        top: 350px;
+        right: 10px;
+    }
 }
 
 /*576 - 767 (SM)*/
@@ -115,7 +124,6 @@
 
     .main {
         background-position: calc(85% - var(--bg-offset-x)) calc(30% - var(--bg-offset-y));
-
         background-size: calc(260% - var(--bg-offset-x)) calc(100% - var(--bg-offset-y));
     }
 
@@ -143,25 +151,48 @@
         font-size: 22px;
     }
 
+    .advantage-item {
+        transition: none; /* Отключаем анимацию */
+    }
+
+    .advantage-item {
+        transition: none; /* Отключаем анимацию */
+    }
+
     /*footer*/
     .footer-column {
         margin-bottom: 60px;
+    }
+
+    /*phone*/
+    .phone {
+        cursor: pointer;
+        width: 60px;
+        height: 60px;
+        top: 350px;
+        right: 10px;
     }
 }
 
 /*424 - 576 (<SM)*/
 @media screen  and (max-width: 575px) {
     /*MAIN*/
+    .main-info {
+        position: relative;
+        top: -75px;
+    }
+
+
     :root {
-        --bg-offset-x: -20px;
-        --bg-offset-y: -80px;
+        --bg-offset-x: 4px;
+        --bg-offset-y: -74px;
     }
 
     .main {
-        background-position: calc(87% - var(--bg-offset-x)) calc(30% - var(--bg-offset-y));
-
-        background-size: calc(260% - var(--bg-offset-x)) calc(100% - var(--bg-offset-y));
+        background-position: calc(82% - var(--bg-offset-x)) calc(100% - var(--bg-offset-y));
+        background-size: calc(282% - var(--bg-offset-x)) calc(105% - var(--bg-offset-y));
     }
+
 
     .main-info {
         text-align: center;
@@ -191,6 +222,10 @@
         font-size: 20px;
     }
 
+    .advantage-item {
+        transition: none; /* Отключаем анимацию */
+    }
+
     /*calculation*/
     .calculation-title {
         font-size: 28px;
@@ -201,10 +236,9 @@
         font-size: 28px;
     }
 
-    .review-icon {
-        display: block;
-    }
-
+    /*.review-icon {*/
+    /*    display: block;*/
+    /*}*/
     /*screen*/
     .screen-title {
         font-size: 28px;
@@ -247,7 +281,7 @@
         cursor: pointer;
         width: 60px;
         height: 60px;
-        top: 120px;
+        top: 350px;
         right: 10px;
     }
 
@@ -264,7 +298,7 @@
 
     :root {
         --bg-offset-x: -20px;
-        --bg-offset-y: -80px;
+        --bg-offset-y: -20px;
     }
 
     .main {
@@ -306,6 +340,10 @@
         font-size: 24px;
     }
 
+    .advantage-item {
+        transition: none; /* Отключаем анимацию */
+    }
+
     /*calculation*/
     .calculation-title {
         font-size: 24px;
@@ -316,10 +354,9 @@
         font-size: 24px;
     }
 
-    .review-icon {
-        display: block;
-    }
-
+    /*.review-icon {*/
+    /*    display: block;*/
+    /*}*/
     /*screen*/
     .screen-title {
         font-size: 24px;
@@ -361,8 +398,15 @@
         margin-bottom: 60px;
     }
 
+    /*phone*/
+    .phone {
+        cursor: pointer;
+        width: 60px;
+        height: 60px;
+        top: 350px;
+        right: 10px;
+    }
 }
-
 
 /*320 - 374(XS)*/
 @media screen  and (max-width: 374px) {
@@ -373,6 +417,16 @@
     }
 
     /*main*/
+    :root {
+        --bg-offset-x: 0px;
+        --bg-offset-y: -30px;
+    }
+
+    .main {
+        background-position: calc(83% - var(--bg-offset-x)) calc(60% - var(--bg-offset-y));
+        background-size: calc(280% - var(--bg-offset-x)) calc(90% - var(--bg-offset-y));
+    }
+
     .main-description {
         font-size: 16px;
     }
@@ -394,6 +448,9 @@
         font-size: 16px;
     }
 
+    .advantage-item {
+        transition: none; /* Отключаем анимацию */
+    }
 
     /*calculation*/
     .calculation-title {
@@ -405,10 +462,9 @@
         font-size: 20px;
     }
 
-    .review-icon {
-        display: block;
-    }
-
+    /*.review-icon {*/
+    /*    display: block;*/
+    /*}*/
     /*screen*/
     .screen-title {
         font-size: 20px;
