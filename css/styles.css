@@ -355,6 +355,10 @@
     transform: scale(1.3);
 }
 
+.process-icon {
+    cursor: pointer;
+}
+
 .process-text {
     margin-left: 20px;
     color: #888888;

@@ -314,12 +314,12 @@
 
     :root {
         --bg-offset-x: -20px;
-        --bg-offset-y: -20px;
+        --bg-offset-y: -45px;
     }
 
     .main {
-        background-position: calc(85% - var(--bg-offset-x)) calc(30% - var(--bg-offset-y));
-        background-size: calc(280% - var(--bg-offset-x)) calc(100% - var(--bg-offset-y));
+        background-position: calc(85% - var(--bg-offset-x)) calc(20% - var(--bg-offset-y));
+        background-size: calc(285% - var(--bg-offset-x)) calc(90% - var(--bg-offset-y));
     }
 
 
@@ -343,7 +343,7 @@
     }
 
     .main-action {
-        margin-top: 34px;
+        margin-top: 25px;
     }
 
     .main-button {
