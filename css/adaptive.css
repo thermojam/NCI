@@ -98,6 +98,7 @@
     /*review*/
     .slide-name {
         font-size: 16px;
+
     }
 
     .review-slide {
@@ -155,8 +156,17 @@
         transition: none; /* Отключаем анимацию */
     }
 
-    .advantage-item {
-        transition: none; /* Отключаем анимацию */
+    .advantage-item:hover {
+        transform: none;
+    }
+
+    /*review*/
+    .slide-name {
+        font-size: 20px;
+    }
+
+    .review-slide {
+        font-size: 18px;
     }
 
     /*footer*/
@@ -222,8 +232,8 @@
         font-size: 20px;
     }
 
-    .advantage-item {
-        transition: none; /* Отключаем анимацию */
+    .advantage-item:hover {
+        transform: none;
     }
 
     /*calculation*/
@@ -236,9 +246,15 @@
         font-size: 28px;
     }
 
-    /*.review-icon {*/
-    /*    display: block;*/
-    /*}*/
+    .slide-name {
+        font-size: 18px;
+        font-weight: bolder;
+    }
+
+    .review-slide {
+        font-size: 16px;
+    }
+
     /*screen*/
     .screen-title {
         font-size: 28px;
@@ -340,8 +356,8 @@
         font-size: 24px;
     }
 
-    .advantage-item {
-        transition: none; /* Отключаем анимацию */
+    .advantage-item:hover {
+        transform: none;
     }
 
     /*calculation*/
@@ -354,10 +370,15 @@
         font-size: 24px;
     }
 
-    /*.review-icon {*/
-    /*    display: block;*/
-    /*}*/
-    /*screen*/
+    .slide-name {
+        font-size: 18px;
+        font-weight: bolder;
+    }
+
+    .review-slide {
+        font-size: 16px;
+    }
+
     .screen-title {
         font-size: 24px;
     }
@@ -448,8 +469,8 @@
         font-size: 16px;
     }
 
-    .advantage-item {
-        transition: none; /* Отключаем анимацию */
+    .advantage-item:hover {
+        transform: none;
     }
 
     /*calculation*/
@@ -462,9 +483,6 @@
         font-size: 20px;
     }
 
-    /*.review-icon {*/
-    /*    display: block;*/
-    /*}*/
     /*screen*/
     .screen-title {
         font-size: 20px;

@@ -1,7 +1,7 @@
 // REVIEW-SLIDER
 let swiper5 = new Swiper("#swiper5", {
     slidesPerView: 3,
-    spaceBetween: 60,
+    spaceBetween: 20,
 
     loop: true,
 
@@ -43,7 +43,7 @@ document.querySelectorAll('#swiper5 .swiper-slide').forEach(slide => {
 // SCREEN-SLIDER
 let swiper6 = new Swiper("#swiper6", {
     slidesPerView: 3,
-    spaceBetween: 60,
+    spaceBetween: 20,
 
     loop: true,
 

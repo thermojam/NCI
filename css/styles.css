@@ -104,6 +104,8 @@
     flex-shrink: 0;
     color: #FFF;
     font-family: Evolventa-Oblique, sans-serif;
+    font-weight: bolder;
+    letter-spacing: 1px;
     font-size: 20px;
 }
 
@@ -185,11 +187,12 @@
     border-radius: 10px;
     cursor: pointer;
     outline: none;
-    border: solid 2px #0A334C;
+    box-shadow: 1.95px 1.95px 2.6px 0 rgba(0, 0, 0, 0.15);
     padding: 15px;
 }
 
 .calculation-button {
+    box-shadow: 1.95px 1.95px 2.6px 0 rgba(0, 0, 0, 0.15);
     height: 60px;
     border-radius: 10px;
     background: linear-gradient(90deg, rgba(36, 155, 184, 0.90) 5.08%, rgba(10, 51, 76, 0.90) 114.58%);
@@ -199,6 +202,8 @@
     padding: 15px;
     color: #FFF;
     font-family: Evolventa-Oblique, sans-serif;
+    font-weight: bolder;
+    letter-spacing: 1px;
     font-size: 20px;
 }
 
@@ -268,10 +273,6 @@
     color: #003F65;
     font-size: 12px;
 }
-
-/*.review-icon {*/
-/*    display: none;*/
-/*}*/
 
 .swiper-pagination-review {
     position: relative;
