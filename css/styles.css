@@ -63,8 +63,9 @@
 }
 
 .main-title {
+    margin-top: 30px;
     font-family: Evolventa-BoldOblique, sans-serif;
-    color: #FFF;
+    color: #FFFFFF;
     font-size: 62px;
     line-height: 140%;
     letter-spacing: 5px;
@@ -72,7 +73,7 @@
 
 .main-description {
     margin-top: 20px;
-    color: #FFF;
+    color: #073448;
     font-family: Evolventa-Oblique, sans-serif;
     font-size: 28px;
     font-weight: 600;
@@ -82,9 +83,9 @@
 }
 
 .main-description-two {
-    color: #FFF;
+    color: #FFFFFF;
     font-family: Evolventa-Oblique, sans-serif;
-    font-size: 24px;
+    font-size: 22px;
 }
 
 .main-action {
@@ -250,10 +251,13 @@
     overflow: hidden;
     background-color: #ffffff;
     height: auto;
-    box-shadow: rgba(0, 0, 0, 0.45) 0 25px 20px -20px;}
+    box-shadow: rgba(0, 0, 0, 0.45) 0 25px 20px -20px;
+}
+
 #swiper5 .swiper-slide img {
     width: 100%;
 }
+
 #swiper6 .swiper-slide img {
     width: 100%;
 }
@@ -269,6 +273,10 @@
     font-family: Nunito-Regular, sans-serif;
     color: #003F65;
     font-size: 12px;
+}
+
+.review-icon {
+    display: none;
 }
 
 .swiper-pagination-review {
@@ -314,7 +322,8 @@
     cursor: pointer;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: rgba(0, 0, 0, 0.45) 0 25px 20px -20px;}
+    box-shadow: rgba(0, 0, 0, 0.45) 0 25px 20px -20px;
+}
 
 .swiper-pagination-screen {
     position: relative;

@@ -3,7 +3,7 @@
 
 /*1400 - 1900*/
 @media screen  and (max-width: 1450px) {
-    /*MAIN*/
+    /*main*/
     :root {
         --bg-offset-x: -20px;
         --bg-offset-y: -50px;
@@ -54,7 +54,7 @@
 
 /*992 - 1099 (LG)*/
 @media screen  and (max-width: 1099px) {
-    /*main*/
+    main
     :root {
         --bg-offset-x: -20px;
         --bg-offset-y: -80px;
@@ -74,7 +74,7 @@
     /*main*/
     .main-info {
         position: relative;
-        top: -45px;
+        top: -75px;
     }
 
     .main-title {
@@ -117,7 +117,7 @@
 
 /*576 - 767 (SM)*/
 @media screen  and (max-width: 767px) {
-    /*MAIN*/
+    MAIN
     :root {
         --bg-offset-x: -20px;
         --bg-offset-y: -80px;
@@ -130,6 +130,8 @@
 
     .main-info {
         text-align: center;
+        position: relative;
+        top: -85px;
     }
 
     .main-title {
@@ -142,7 +144,7 @@
     }
 
     .main-description-two {
-        font-size: 22px;
+        font-size: 20px;
         margin-top: 10px;
         letter-spacing: 1px;
     }
@@ -169,6 +171,11 @@
         font-size: 18px;
     }
 
+    .review-icon {
+        display: block;
+        margin-bottom: 20px;
+    }
+
     /*footer*/
     .footer-column {
         margin-bottom: 60px;
@@ -187,25 +194,22 @@
 /*424 - 576 (<SM)*/
 @media screen  and (max-width: 575px) {
     /*MAIN*/
-    .main-info {
-        position: relative;
-        top: -75px;
-    }
-
 
     :root {
-        --bg-offset-x: 4px;
+        --bg-offset-x: 44px;
         --bg-offset-y: -74px;
     }
 
     .main {
-        background-position: calc(82% - var(--bg-offset-x)) calc(100% - var(--bg-offset-y));
-        background-size: calc(282% - var(--bg-offset-x)) calc(105% - var(--bg-offset-y));
+        background-position: calc(55% - var(--bg-offset-x)) calc(100% - var(--bg-offset-y));
+        background-size: calc(390% - var(--bg-offset-x)) calc(105% - var(--bg-offset-y));
     }
 
 
     .main-info {
         text-align: center;
+        position: relative;
+        top: -100px;
     }
 
     .main-title {
@@ -253,6 +257,11 @@
 
     .review-slide {
         font-size: 16px;
+    }
+
+    .review-icon {
+        display: block;
+        margin-bottom: 20px;
     }
 
     /*screen*/
@@ -311,18 +320,20 @@
     }
 
     :root {
-        --bg-offset-x: -20px;
+        --bg-offset-x: -70px;
         --bg-offset-y: -45px;
     }
 
     .main {
-        background-position: calc(85% - var(--bg-offset-x)) calc(20% - var(--bg-offset-y));
-        background-size: calc(285% - var(--bg-offset-x)) calc(90% - var(--bg-offset-y));
+        background-position: calc(65% - var(--bg-offset-x)) calc(20% - var(--bg-offset-y));
+        background-size: calc(485% - var(--bg-offset-x)) calc(90% - var(--bg-offset-y));
     }
 
 
     .main-info {
         text-align: center;
+        position: relative;
+        top: -100px;
     }
 
     .main-title {
@@ -377,6 +388,12 @@
         font-size: 16px;
     }
 
+    .review-icon {
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    /*screen*/
     .screen-title {
         font-size: 24px;
     }
@@ -437,13 +454,14 @@
 
     /*main*/
     :root {
-        --bg-offset-x: 0px;
+        --bg-offset-x: 60px;
         --bg-offset-y: -30px;
     }
 
     .main {
-        background-position: calc(83% - var(--bg-offset-x)) calc(60% - var(--bg-offset-y));
-        background-size: calc(280% - var(--bg-offset-x)) calc(90% - var(--bg-offset-y));
+
+        background-position: calc(55% - var(--bg-offset-x)) calc(60% - var(--bg-offset-y));
+        background-size: calc(480% - var(--bg-offset-x)) calc(90% - var(--bg-offset-y));
     }
 
     .main-description {
@@ -480,6 +498,11 @@
     .review-title {
         font-size: 20px;
     }
+
+    .review-icon {
+        display: block;
+    }
+
 
     /*screen*/
     .screen-title {
