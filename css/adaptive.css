@@ -177,6 +177,10 @@
         margin-bottom: 20px;
     }
 
+    .overlay {
+        display: none;
+    }
+
     /*footer*/
     .footer-column {
         margin-bottom: 60px;
@@ -263,6 +267,10 @@
     .review-icon {
         display: block;
         margin-bottom: 20px;
+    }
+
+    .overlay {
+        display: none;
     }
 
     /*screen*/
@@ -394,6 +402,10 @@
         margin-bottom: 20px;
     }
 
+    .overlay {
+        display: none;
+    }
+
     /*screen*/
     .screen-title {
         font-size: 24px;
@@ -507,6 +519,10 @@
 
     .review-icon {
         display: block;
+    }
+
+    .overlay {
+        display: none;
     }
 
 
