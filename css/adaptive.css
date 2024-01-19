@@ -424,6 +424,7 @@
 
     .modal-title {
         font-size: 18px;
+        font-family: Evolventa, sans-serif;
     }
 
     /*calculation*/
@@ -561,6 +562,7 @@
     }
 
     .modal-title {
+        font-family: Evolventa, sans-serif;
         font-size: 16px;
     }
 

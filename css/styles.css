@@ -266,7 +266,6 @@
 }
 
 .calc-btn {
-    padding: 12px 5px 14px 12px;
     border-radius: 10px;
     border: 0;
     background: linear-gradient(90deg, rgba(36, 155, 184, 0.90) 5.08%, rgba(10, 51, 76, 0.90) 114.58%);
@@ -287,7 +286,6 @@
 }
 
 .modal-input {
-    padding: 12px 5px 14px 12px;
     border-radius: 10px;
     border: 1px solid #0A334C;
     background: #FFFBFB;
