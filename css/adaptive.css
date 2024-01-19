@@ -96,10 +96,34 @@
         margin-top: 40px;
     }
 
+    /*catalog*/
+    .catalog-title {
+
+    }
+
+    .modal-title {
+        font-size: 20px;
+    }
+
+    .modal {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .modal .fade {
+        padding-left: 10px;
+        padding-right: 10px;
+
+    }
+
+    .scrollable-content::-webkit-scrollbar-thumb,
+    .scrollable-content::-webkit-scrollbar-track {
+        display: none;
+    }
+
     /*review*/
     .slide-name {
         font-size: 16px;
-
     }
 
     .review-slide {
@@ -162,6 +186,12 @@
     .advantage-item:hover {
         transform: none;
     }
+
+    /*catalog*/
+    .modal-title {
+        font-size: 18px;
+    }
+
 
     /*review*/
     .slide-name {
@@ -243,6 +273,15 @@
 
     .advantage-item:hover {
         transform: none;
+    }
+
+    /*catalog*/
+    .catalog-title {
+        font-size: 26px;
+    }
+
+    .modal-title {
+        font-size: 18px;
     }
 
     /*calculation*/
@@ -378,6 +417,15 @@
         transform: none;
     }
 
+    /*catalog*/
+    .catalog-title {
+        font-size: 24px;
+    }
+
+    .modal-title {
+        font-size: 18px;
+    }
+
     /*calculation*/
     .calculation-title {
         font-size: 24px;
@@ -505,6 +553,15 @@
 
     .advantage-item:hover {
         transform: none;
+    }
+
+    /*catalog*/
+    .catalog-title {
+        font-size: 20px;
+    }
+
+    .modal-title {
+        font-size: 16px;
     }
 
     /*calculation*/
