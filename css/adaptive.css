@@ -110,6 +110,10 @@
         padding-right: 10px !important;
     }
 
+    .scrollable-content {
+        margin-top: 20px;
+    }
+
     .scrollable-content::-webkit-scrollbar-thumb,
     .scrollable-content::-webkit-scrollbar-track {
         display: none;
@@ -274,6 +278,7 @@
     }
 
     .modal-title {
+        font-family: Evolventa, sans-serif !important;
         font-size: 18px;
     }
 
@@ -416,6 +421,7 @@
     }
 
     .modal-title {
+        font-family: Evolventa, sans-serif !important;
         font-size: 16px;
     }
 
