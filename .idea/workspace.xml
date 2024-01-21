@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/css/adaptive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adaptive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Susik/Desktop/NCI/images/cars&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Susik/Desktop/NCI#Catalog-section&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -160,7 +161,9 @@
       <workItem from="1705642652159" duration="16000" />
       <workItem from="1705655165904" duration="628000" />
       <workItem from="1705669004261" duration="4687000" />
-      <workItem from="1705676046252" duration="404000" />
+      <workItem from="1705676046252" duration="714000" />
+      <workItem from="1705785858081" duration="3527000" />
+      <workItem from="1705834600844" duration="2912000" />
     </task>
     <servers />
   </component>

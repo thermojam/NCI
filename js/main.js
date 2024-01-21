@@ -177,6 +177,24 @@ let swiper6 = new Swiper("#swiper6", {
     },
 });
 
+
+//Modal URL !!!
+$(document).ready(function () {
+    // Список идентификаторов модальных окон
+    let modalIds = ['#modalBMW_745eL_xDrive', '#modalRange_Rover_Sport', '#modalBMW_X6_M50d', '#modalBMW_320i_xDrive',
+        '#modalAudi_RS4_Avant', '#modalAudi_Q8_50_TDI', '#modalBMW_X6_M50d_black', '#modalAudi_A4_Allroad_45TDI']; // Добавьте сюда все необходимые идентификаторы
+
+    // Перебор всех идентификаторов
+    modalIds.forEach(function (modalId) {
+        // Проверка, есть ли текущий идентификатор в URL
+        if (window.location.href.indexOf(modalId) !== -1) {
+            // Отображение модального окна
+            $(modalId).modal('show');
+        }
+    });
+});
+
+
 //Click Whats-up
 function redirectToWhatsApp() {
     window.open('https://api.whatsapp.com/send?phone=79215939333', '_blank');
