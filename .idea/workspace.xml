@@ -8,56 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/adaptive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adaptive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_A4_Allroad_45TDI/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_A4_Allroad_45TDI/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_A4_Allroad_45TDI/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_A4_Allroad_45TDI/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_A4_Allroad_45TDI/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_A4_Allroad_45TDI/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_50_TDI/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_50_TDI/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_50_TDI/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_50_TDI/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_50_TDI/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_50_TDI/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_RS4_Avant/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_RS4_Avant/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_RS4_Avant/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_RS4_Avant/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_RS4_Avant/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Audi_RS4_Avant/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_320i_xDrive/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_320i_xDrive/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_320i_xDrive/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_320i_xDrive/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_320i_xDrive/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_320i_xDrive/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_745eL_xDrive/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_745eL_xDrive/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_745eL_xDrive/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_745eL_xDrive/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_745eL_xDrive/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_745eL_xDrive/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_M50d/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_M50d/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_M50d/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_M50d/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_M50d/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_M50d/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_M50d_black/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_M50d_black/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_M50d_black/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_M50d_black/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_M50d_black/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_M50d_black/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport/side.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Susik/Desktop/NCI/images/cars",
+    "last_opened_file_path": "C:/Users/Susik/Desktop/NCI#Catalog-section",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -220,7 +171,8 @@
       <workItem from="1705871677037" duration="341000" />
       <workItem from="1705874112303" duration="2822000" />
       <workItem from="1705909652915" duration="4466000" />
-      <workItem from="1705928922120" duration="10075000" />
+      <workItem from="1705928922120" duration="10636000" />
+      <workItem from="1705950024991" duration="1487000" />
     </task>
     <servers />
   </component>

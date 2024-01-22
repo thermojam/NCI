@@ -250,7 +250,7 @@
 .order-btn {
     border: 0;
     border-radius: 10px;
-    background: linear-gradient(90deg, rgba(36, 155, 184, 0.90) 5.08%, rgba(10, 51, 76, 0.90) 114.58%);
+    background: linear-gradient(90deg, rgba(36, 155, 184, 0.96) 5.08%, rgba(10, 51, 76, 0.90) 114.58%);
     height: 60px;
     box-sizing: border-box;
     flex-shrink: 0;

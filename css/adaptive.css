@@ -294,6 +294,10 @@
         font-size: 26px;
     }
 
+    .characteristics {
+        margin-bottom: 40px;
+    }
+
     .modal-title {
         font-size: 18px;
     }
@@ -444,6 +448,10 @@
         font-size: 24px;
     }
 
+    .characteristics {
+        margin-bottom: 40px;
+    }
+
     .modal-title {
         font-size: 16px;
     }
@@ -580,6 +588,10 @@
     /*catalog*/
     .catalog-title {
         font-size: 20px;
+    }
+
+    .characteristics {
+        margin-bottom: 40px;
     }
 
     .modal-title {
