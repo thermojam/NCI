@@ -181,8 +181,9 @@ let swiper6 = new Swiper("#swiper6", {
 //Modal URL !!!
 $(document).ready(function () {
     // Список идентификаторов модальных окон
-    let modalIds = ['#modalBMW_745eL_xDrive', '#modalRange_Rover_Sport', '#modalBMW_X6_M50d', '#modalBMW_320i_xDrive',
-        '#modalAudi_RS4_Avant', '#modalAudi_Q8_50_TDI', '#modalBMW_X6_M50d_black', '#modalAudi_A4_Allroad_45TDI']; // Добавьте сюда все необходимые идентификаторы
+    let modalIds = ['#modalBMW_520d', '#modalBMW_330_G20', '#modalBMW_X6_x_drive40i_M_Sport',
+        '#modalMercedes-Benz_AMG_GT43', '#modalMercedes-Benz_V250d', '#modalBMW_X4_M40i_xDrive', '#modalMercedes-Benz_S500_4M',
+        '#modalMERCEDES-BENZ_GLE_COUPE' ];
 
     // Перебор всех идентификаторов
     modalIds.forEach(function (modalId) {

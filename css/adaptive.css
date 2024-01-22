@@ -1,5 +1,8 @@
 @media screen  and (max-width: 2900px) {
-
+    /*catalog*/
+    .modal-btn {
+        position: static;
+    }
 }
 
 /*1400 - 1900*/
@@ -12,6 +15,11 @@
 
     .main {
         background-position: calc(90% - var(--bg-offset-x)) calc(90% - var(--bg-offset-y));
+    }
+
+    /*catalog*/
+    .modal-btn {
+        position: static;
     }
 
 }
@@ -42,6 +50,11 @@
         font-size: 16px;
     }
 
+    /*catalog*/
+    .modal-btn {
+        position: static;
+    }
+
     /*phone*/
     .phone {
         cursor: pointer;
@@ -67,6 +80,11 @@
 
     .main-description-two {
         font-size: 22px;
+    }
+
+    /*catalog*/
+    .modal-btn {
+        position: static;
     }
 }
 
@@ -97,12 +115,12 @@
     }
 
     /*catalog*/
-    .catalog-title {
-
-    }
-
     .modal-title {
         font-size: 20px;
+    }
+
+    .modal-btn {
+        position: static;
     }
 
     .modal {
@@ -226,7 +244,6 @@
 /*424 - 576 (<SM)*/
 @media screen  and (max-width: 575px) {
     /*MAIN*/
-
     :root {
         --bg-offset-x: 44px;
         --bg-offset-y: -74px;
@@ -279,6 +296,14 @@
 
     .modal-title {
         font-size: 18px;
+    }
+
+    .modal-btn {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 91%;
+
     }
 
     /*calculation*/
