@@ -183,7 +183,8 @@ $(document).ready(function () {
     // Список идентификаторов модальных окон
     let modalIds = ['#modalBMW_520d', '#modalBMW_330_G20', '#modalBMW_X6_x_drive40i_M_Sport',
         '#modalMercedes-Benz_AMG_GT43', '#modalMercedes-Benz_V250d', '#modalBMW_X4_M40i_xDrive', '#modalMercedes-Benz_S500_4M',
-        '#modalMERCEDES-BENZ_GLE_COUPE' ];
+        '#modalMERCEDES-BENZ_GLE_COUPE', '#modalBMW_740d_xDrive-M_Sport', '#modalLand_Rover_Defender', '#modalMercedes-Benz_GLE_300d',
+    '#modalAudi_A6_All_road_45_TDI'];
 
     // Перебор всех идентификаторов
     modalIds.forEach(function (modalId) {
