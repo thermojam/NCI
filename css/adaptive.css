@@ -191,8 +191,14 @@
     }
 
     /*advantages*/
+    .advantage-items {
+        justify-content: center;
+        margin-left: 60px;
+        margin-right: 60px;
+    }
+
     .advantage-text {
-        font-size: 22px;
+        font-size: 18px;
     }
 
     .advantage-item {
@@ -278,11 +284,17 @@
 
     /*advantages*/
     .advantage-title {
-        font-size: 28px;
+        font-size: 26px;
+    }
+
+    .advantage-items {
+        justify-content: center;
+        margin-left: 40px;
+        margin-right: 40px;
     }
 
     .advantage-text {
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .advantage-item:hover {
@@ -312,12 +324,12 @@
 
     /*calculation*/
     .calculation-title {
-        font-size: 28px;
+        font-size: 26px;
     }
 
     /*review*/
     .review-title {
-        font-size: 28px;
+        font-size: 26px;
     }
 
     .slide-name {
@@ -340,12 +352,12 @@
 
     /*screen*/
     .screen-title {
-        font-size: 28px;
+        font-size: 26px;
     }
 
     /*process*/
     .process-title {
-        font-size: 28px;
+        font-size: 26px;
     }
 
     .process-murk-up {
@@ -358,12 +370,12 @@
 
     /*questions*/
     .questions-title {
-        font-size: 28px;
+        font-size: 26px;
     }
 
     /*contacts*/
     .contacts-title {
-        font-size: 28px;
+        font-size: 26px;
     }
 
     .contact-frame {
@@ -439,6 +451,12 @@
         font-size: 24px;
     }
 
+    .advantage-items {
+        justify-content: center;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
     .advantage-item:hover {
         transform: none;
     }
@@ -459,6 +477,14 @@
     /*calculation*/
     .calculation-title {
         font-size: 24px;
+    }
+
+    .calculation-input {
+        height: 50px;
+    }
+
+    .calculation-button {
+        height: 50px;
     }
 
     /*review*/
@@ -495,11 +521,22 @@
     }
 
     .process-murk-up {
-        font-size: 18px;
+        font-size: 14px;
     }
 
     .process-text {
-        font-size: 14px;
+        font-size: 10px;
+    }
+
+    .vertical-line {
+        height: 50px;
+        margin-left: 13px;
+        border-left: 4px solid rgba(10, 51, 76, 0.90);
+    }
+
+    .process-icon {
+        width: 30px;
+        height: 31px;
     }
 
     /*questions*/
@@ -512,8 +549,16 @@
     }
 
     /*contacts*/
+    .contacts-info {
+        margin-top: 0 !important;
+    }
+
     .contacts-title {
         font-size: 24px;
+    }
+
+    .contacts-text {
+        font-size: 14px;
     }
 
     .contact-frame {
@@ -521,6 +566,10 @@
     }
 
     /*footer*/
+    .street {
+        font-size: 14px;
+    }
+
     .footer-column {
         margin-bottom: 60px;
     }
@@ -627,13 +676,6 @@
         font-size: 20px;
     }
 
-    .process-murk-up {
-        font-size: 16px;
-    }
-
-    .process-text {
-        font-size: 14px;
-    }
 
     /*questions*/
     .questions-title {
