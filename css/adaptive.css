@@ -457,6 +457,18 @@
         margin-right: 20px;
     }
 
+    .advantage-item {
+        height: 260px;
+    }
+
+    .advantage-header {
+        font-size: 16px ;
+    }
+
+    .advantage-text {
+        font-size: 14px;
+    }
+
     .advantage-item:hover {
         transform: none;
     }
@@ -626,8 +638,12 @@
         font-size: 20px;
     }
 
+    .advantage-header {
+        font-size: 16px ;
+    }
+
     .advantage-text {
-        font-size: 16px;
+        font-size: 14px;
     }
 
     .advantage-item:hover {
