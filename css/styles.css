@@ -380,6 +380,11 @@ iframe {
     background-color: #232628;
 }
 
+.footer-logo {
+    max-width: 200px;
+    margin-bottom: 30px;
+}
+
 .footer-column {
     text-align: center;
 }

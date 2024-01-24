@@ -233,9 +233,7 @@
     }
 
     /*footer*/
-    .footer-column {
-        margin-bottom: 60px;
-    }
+
 
     /*phone*/
     .phone {
@@ -365,7 +363,7 @@
     }
 
     .process-text {
-        font-size: 12px;
+        font-size: 14px;
     }
 
     /*questions*/
@@ -378,14 +376,20 @@
         font-size: 26px;
     }
 
+    .contacts-text {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+
+    .contacts-street {
+        font-size: 14px;
+    }
+
     .contact-frame {
         text-align: center;
     }
 
     /*footer*/
-    .footer-column {
-        margin-bottom: 60px;
-    }
 
     /*phone*/
     .phone {
@@ -537,7 +541,7 @@
     }
 
     .process-text {
-        font-size: 10px;
+        font-size: 12px;
     }
 
     .vertical-line {
@@ -573,6 +577,10 @@
         font-size: 14px;
     }
 
+    .contacts-street {
+        font-size: 14px;
+    }
+
     .contact-frame {
         text-align: center;
     }
@@ -582,9 +590,9 @@
         font-size: 14px;
     }
 
-    .footer-column {
-        margin-bottom: 60px;
-    }
+    /*.footer-column {*/
+    /*    margin-bottom: 60px;*/
+    /*}*/
 
     /*phone*/
     .phone {
@@ -712,7 +720,7 @@
     }
 
     .contacts-text {
-        font-size: 16px;
+        font-size: 12px;
     }
 
     .contacts-street {
