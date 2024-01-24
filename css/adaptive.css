@@ -202,7 +202,7 @@
     }
 
     .advantage-item {
-        transition: none; /* Отключаем анимацию */
+        transition: none;
     }
 
     .advantage-item:hover {
@@ -233,7 +233,9 @@
     }
 
     /*footer*/
-
+    .footer-logo {
+        margin-bottom: 30px;
+    }
 
     /*phone*/
     .phone {
@@ -390,6 +392,9 @@
     }
 
     /*footer*/
+    .footer-logo {
+        margin-bottom: 30px;
+    }
 
     /*phone*/
     .phone {
