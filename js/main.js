@@ -65,7 +65,6 @@ let swiper2 = new Swiper('#swiper2', {
 swiper1.controller.control = swiper2;
 swiper2.controller.control = swiper1;
 
-
 //CATALOG-SLIDER-3
 function initSwipers(containerSelector) {
     let containers = document.querySelectorAll(containerSelector);
@@ -193,3 +192,9 @@ $(document).ready(function () {
         }
     });
 });
+
+//Click Whats-up
+function redirectToWhatsApp() {
+    window.open('https://api.whatsapp.com/send?phone=79215939333', '_blank');
+}
+
