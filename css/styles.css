@@ -219,26 +219,105 @@
 /*___________________________________________________*/
 /*ALL STYLES SWIPER*/
 .swiper-pagination-bullet {
-    width: 15px;
-    height: 15px;
+    width: 10px;
+    height: 10px;
     opacity: 0.7; /* Прозрачность неактивных точек */
-    margin: 0 15px; /* Расстояние между точками */
     cursor: pointer; /* Изменение курсора при наведении */
 }
 
 /*___________________________________________________*/
 
 /*Review*/
+.review {
+    padding: 30px 0 40px 0;
+    background-color: #D9D9D9;
+}
+
+.review-title {
+    margin-bottom: 30px;
+    color: #000;
+    font-family: Nunito-Medium, sans-serif;
+    font-size: 32px;
+}
+
+.slide-name {
+    font-family: Nunito-Regular, sans-serif, sans-serif;
+    font-size: 18px;
+    color: #003F65;
+}
+
+.swiper-slide {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #ffffff;
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px 10px 0 0;
+}
+
+
+.review-slide {
+    padding: 5px;
+    font-family: Nunito-Regular, sans-serif;
+    font-size: 14px;
+    color: #888888;
+    height: 125px;
+}
+
+.review-text {
+    font-family: Nunito-Regular, sans-serif;
+    color: #003F65;
+    font-size: 12px;
+}
+
+.review-icon {
+    display: none;
+}
+
+.swiper-pagination-review {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.overlay {
+    border-radius: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    cursor: pointer;
+
+}
+
+.swiper-slide:hover .overlay {
+    opacity: 1;
+}
 
 
 /*Screen*/
 .screen {
-    padding: 30px 0 30px 0;
+    padding: 30px 0 40px 0;
     background-color: #D9D9D9;
 }
 
 .screen-title {
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     color: #000;
     font-family: Nunito-Medium, sans-serif;
     font-size: 32px;
@@ -248,7 +327,6 @@
     cursor: pointer;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: rgba(0, 0, 0, 0.45) 0 25px 20px -20px;
 }
 
 .swiper-pagination-screen {

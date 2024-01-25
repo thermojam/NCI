@@ -3,6 +3,7 @@
     .modal-btn {
         position: static;
     }
+
 }
 
 /*1400 - 1900*/
@@ -55,6 +56,16 @@
         position: static;
     }
 
+    /*review*/
+    .review-icon {
+        display: block;
+
+    }
+
+    .overlay {
+        display: none;
+    }
+
     /*phone*/
     .phone {
         cursor: pointer;
@@ -85,6 +96,16 @@
     /*catalog*/
     .modal-btn {
         position: static;
+    }
+
+    /*review*/
+    .review-icon {
+        display: block;
+
+    }
+
+    .overlay {
+        display: none;
     }
 }
 
@@ -144,6 +165,20 @@
 
     .review-slide {
         font-size: 12px;
+    }
+
+    .review-icon {
+        display: block;
+    }
+
+    .vk-icon  svg{
+        width: 80%;
+        height: 50%;
+
+    }
+
+    .overlay {
+        display: none;
     }
 
     /*phone*/
@@ -220,12 +255,12 @@
     }
 
     .review-slide {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .review-icon {
         display: block;
-        margin-bottom: 20px;
+
     }
 
     .overlay {
@@ -319,7 +354,6 @@
         bottom: 0;
         left: 0;
         width: 91%;
-
     }
 
     /*calculation*/
@@ -333,17 +367,16 @@
     }
 
     .slide-name {
-        font-size: 18px;
+        font-size: 16px;
         font-weight: bolder;
     }
 
     .review-slide {
-        font-size: 16px;
+        font-size: 14px;
     }
 
     .review-icon {
         display: block;
-        margin-bottom: 20px;
     }
 
     .overlay {
@@ -514,17 +547,17 @@
     }
 
     .slide-name {
-        font-size: 18px;
+        font-size: 16px;
         font-weight: bolder;
     }
 
     .review-slide {
-        font-size: 16px;
+        font-size: 14px;
     }
 
     .review-icon {
         display: block;
-        margin-bottom: 20px;
+
     }
 
     .overlay {
@@ -682,9 +715,9 @@
     }
 
     /*review*/
-    .review-title {
-        font-size: 20px;
-    }
+    /*.review-title {*/
+    /*    font-size: 20px;*/
+    /*}*/
 
     .review-icon {
         display: block;
