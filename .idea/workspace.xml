@@ -8,10 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/adaptive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adaptive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/qr.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/review/slide_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/review/slide_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/review/slide_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/review/slide_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/review/slide_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/review/slide_3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
@@ -183,7 +179,7 @@
       <workItem from="1706111996966" duration="1769000" />
       <workItem from="1706113857315" duration="695000" />
       <workItem from="1706122212673" duration="11000" />
-      <workItem from="1706170403976" duration="4694000" />
+      <workItem from="1706170403976" duration="9046000" />
     </task>
     <servers />
   </component>

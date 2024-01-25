@@ -356,6 +356,11 @@
         width: 91%;
     }
 
+    .scrollable-content {
+        overflow-y: hidden;
+        -webkit-overflow-scrolling: touch;
+    }
+
     /*calculation*/
     .calculation-title {
         font-size: 26px;
@@ -526,6 +531,11 @@
 
     .modal-title {
         font-size: 16px;
+    }
+
+    .scrollable-content {
+        overflow-y: hidden;
+        -webkit-overflow-scrolling: touch;
     }
 
     /*calculation*/
@@ -707,6 +717,11 @@
 
     .modal-title {
         font-size: 14px;
+    }
+
+    .scrollable-content {
+        overflow-y: hidden;
+        -webkit-overflow-scrolling: touch;
     }
 
     /*calculation*/
