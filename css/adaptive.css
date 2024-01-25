@@ -249,13 +249,16 @@
         font-size: 18px;
     }
 
+    .modal-btn {
+        margin-bottom: 10px;
+    }
+
     .scrollable-content {
         overflow: hidden;
     }
 
     .scrollable-content {
         max-height: 980px;
-
     }
 
     /*review*/
