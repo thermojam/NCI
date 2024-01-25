@@ -9,7 +9,6 @@
       <change beforePath="$PROJECT_DIR$/css/adaptive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adaptive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +178,9 @@
       <workItem from="1706111996966" duration="1769000" />
       <workItem from="1706113857315" duration="695000" />
       <workItem from="1706122212673" duration="11000" />
-      <workItem from="1706170403976" duration="9046000" />
+      <workItem from="1706170403976" duration="11673000" />
+      <workItem from="1706193804204" duration="79000" />
+      <workItem from="1706196053528" duration="1553000" />
     </task>
     <servers />
   </component>

@@ -249,15 +249,15 @@
 .order-btn {
     border: 0;
     border-radius: 10px;
-    background: linear-gradient(90deg, rgba(36, 155, 184, 0.96) 5.08%, rgba(10, 51, 76, 0.90) 114.58%);
-    height: 60px;
+    background: linear-gradient(90deg, rgba(36, 155, 184, 0.98) 5.08%, rgba(10, 51, 76, 0.90) 114.58%);
+    height: 50px;
     box-sizing: border-box;
     flex-shrink: 0;
     color: #FFF;
     font-family: Evolventa-Oblique, sans-serif;
     font-weight: bolder;
     letter-spacing: 1px;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .order-btn:hover {
@@ -323,7 +323,7 @@
 }
 
 .characteristics p {
-    margin-bottom: 0;
+    margin-bottom: 10px;
 }
 
 .characteristics-title {
@@ -376,8 +376,9 @@
 
 .modal-btn {
     margin: 10px 20px 5px 20px;
-
 }
+
+
 
 /*Calculation*/
 .calculation {
