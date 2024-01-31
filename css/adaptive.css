@@ -99,7 +99,7 @@
     /*catalog*/
     .modal-btn {
         position: sticky;
-        bottom: 35px;
+        bottom: 60px;
         left: 0;
         width: 100%;
     }
@@ -148,7 +148,7 @@
 
     .modal-btn {
         position: sticky;
-        bottom: 40px;
+        bottom: 70px;
         left: 0;
         width: 100%;
     }
@@ -159,7 +159,7 @@
     }
 
     .scrollable-content {
-        max-height: 460px;
+        max-height: 430px;
     }
 
     .characteristics {
@@ -203,6 +203,7 @@
     }
 }
 
+/*test scroll*/
 @media screen  and (max-width: 768px) {
     .scrollable-content::-webkit-scrollbar-thumb,
     .scrollable-content::-webkit-scrollbar-track{
@@ -210,7 +211,7 @@
     }
 }
 
-    /*576 - 767 (SM)*/
+/*576 - 767 (SM)*/
 @media screen  and (max-width: 767px) {
     /*main*/
     :root {
