@@ -1,13 +1,16 @@
 @media screen  and (max-width: 2900px) {
     /*catalog*/
-    .modal-btn {
-        position: static;
+
+
+    .scrollable-content {
+        max-height: 715px;
     }
+
 
 }
 
 /*1400 - 1900*/
-@media screen  and (max-width: 1450px) {
+@media screen  and (max-width: 1400px) {
     /*main*/
     :root {
         --bg-offset-x: -20px;
@@ -19,8 +22,9 @@
     }
 
     /*catalog*/
-    .modal-btn {
-        position: static;
+
+    .scrollable-content {
+        max-height: 525px;
     }
 
 }
@@ -59,7 +63,6 @@
     /*review*/
     .review-icon {
         display: block;
-
     }
 
     .overlay {
@@ -95,7 +98,10 @@
 
     /*catalog*/
     .modal-btn {
-        position: static;
+        position: sticky;
+        bottom: 10px;
+        left: 0;
+        width: 100%;
     }
 
     /*review*/
@@ -141,7 +147,10 @@
     }
 
     .modal-btn {
-        position: static;
+        position: sticky;
+        bottom: 20px;
+        left: 0;
+        width: 100%;
     }
 
     .modal {
@@ -150,13 +159,22 @@
     }
 
     .scrollable-content {
-        margin-top: 20px;
+        max-height: 430px;
     }
 
-    .scrollable-content::-webkit-scrollbar-thumb,
-    .scrollable-content::-webkit-scrollbar-track {
-        display: none;
+    .characteristics {
+        font-size: 12px;
     }
+
+    .characteristics-title {
+        font-size: 10px;
+    }
+
+
+    /*.scrollable-content::-webkit-scrollbar-thumb,*/
+    /*.scrollable-content::-webkit-scrollbar-track {*/
+    /*    display: none;*/
+    /*}*/
 
     /*review*/
     .slide-name {
@@ -171,7 +189,7 @@
         display: block;
     }
 
-    .vk-icon  svg{
+    .vk-icon svg {
         width: 80%;
         height: 50%;
 
@@ -250,11 +268,25 @@
     }
 
     .modal-btn {
-        margin-bottom: 10px;
+        position: sticky;
+        bottom: 20px;
+        left: 0;
+        width: 100%;
+        z-index: 99999;
+        margin: 0 !important;
+    }
+
+    /*.modal-btn {*/
+    /*    margin-bottom: 10px;*/
+    /*}*/
+
+    .characteristics {
+        margin-left: 10px;
     }
 
     .scrollable-content {
         overflow: hidden;
+        margin-top: 10px;
     }
 
     .scrollable-content {
@@ -356,26 +388,15 @@
         font-size: 26px;
     }
 
-    .characteristics {
-        margin-bottom: 40px;
-    }
-
     .modal-title {
         font-size: 18px;
     }
-
-    .modal-btn {
-        position: fixed;
-        bottom: 0;
-        left: 0;
-        width: 91%;
-    }
-
 
     /*calculation*/
     .calculation-title {
         font-size: 26px;
     }
+
 
     /*review*/
     .review-title {
@@ -520,7 +541,7 @@
     }
 
     .advantage-header {
-        font-size: 16px ;
+        font-size: 16px;
     }
 
     .advantage-text {
@@ -537,7 +558,7 @@
     }
 
     .characteristics {
-        margin-bottom: 40px;
+        margin-bottom: 10px;
     }
 
     .modal-title {
@@ -647,7 +668,6 @@
     /*.footer-column {*/
     /*    margin-bottom: 60px;*/
     /*}*/
-
     /*phone*/
     .phone {
         cursor: pointer;
@@ -701,7 +721,7 @@
     }
 
     .advantage-header {
-        font-size: 16px ;
+        font-size: 16px;
     }
 
     .advantage-text {
