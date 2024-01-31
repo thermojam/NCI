@@ -99,7 +99,7 @@
     /*catalog*/
     .modal-btn {
         position: sticky;
-        bottom: 10px;
+        bottom: 35px;
         left: 0;
         width: 100%;
     }
@@ -148,7 +148,7 @@
 
     .modal-btn {
         position: sticky;
-        bottom: 20px;
+        bottom: 40px;
         left: 0;
         width: 100%;
     }
@@ -159,7 +159,7 @@
     }
 
     .scrollable-content {
-        max-height: 430px;
+        max-height: 460px;
     }
 
     .characteristics {
@@ -167,14 +167,8 @@
     }
 
     .characteristics-title {
-        font-size: 10px;
+        font-size: 12px;
     }
-
-
-    /*.scrollable-content::-webkit-scrollbar-thumb,*/
-    /*.scrollable-content::-webkit-scrollbar-track {*/
-    /*    display: none;*/
-    /*}*/
 
     /*review*/
     .slide-name {
@@ -209,7 +203,14 @@
     }
 }
 
-/*576 - 767 (SM)*/
+@media screen  and (max-width: 768px) {
+    .scrollable-content::-webkit-scrollbar-thumb,
+    .scrollable-content::-webkit-scrollbar-track{
+        display: none;
+    }
+}
+
+    /*576 - 767 (SM)*/
 @media screen  and (max-width: 767px) {
     /*main*/
     :root {
@@ -276,10 +277,6 @@
         margin: 0 !important;
     }
 
-    /*.modal-btn {*/
-    /*    margin-bottom: 10px;*/
-    /*}*/
-
     .characteristics {
         margin-left: 10px;
     }
@@ -292,6 +289,8 @@
     .scrollable-content {
         max-height: 980px;
     }
+
+
 
     /*review*/
     .slide-name {
