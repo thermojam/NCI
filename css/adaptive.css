@@ -47,8 +47,6 @@
     }
 
     /*catalog*/
-
-
     /*review*/
     .review-icon {
         display: block;
@@ -204,7 +202,7 @@
 /*Scroll none*/
 @media screen  and (max-width: 768px) {
     .scrollable-content::-webkit-scrollbar-thumb,
-    .scrollable-content::-webkit-scrollbar-track{
+    .scrollable-content::-webkit-scrollbar-track {
         display: none;
     }
 }
@@ -268,6 +266,9 @@
         font-size: 18px;
     }
 
+    .sale {
+    font-size: 16px;
+    }
 
     .characteristics {
         margin-left: 10px;
@@ -278,7 +279,6 @@
         margin-top: 10px;
         max-height: 800px;
     }
-
 
 
     /*review*/
