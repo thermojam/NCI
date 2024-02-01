@@ -2,11 +2,6 @@
     /*catalog*/
 
 
-    .scrollable-content {
-        max-height: 715px;
-    }
-
-
 }
 
 /*1400 - 1900*/
@@ -22,10 +17,6 @@
     }
 
     /*catalog*/
-
-    .scrollable-content {
-        max-height: 525px;
-    }
 
 }
 
@@ -56,9 +47,7 @@
     }
 
     /*catalog*/
-    .modal-btn {
-        position: static;
-    }
+
 
     /*review*/
     .review-icon {
@@ -80,6 +69,16 @@
 
 }
 
+
+/*Scroll max-height (XL)*/
+@media screen  and (max-width: 1299px) {
+    /*catalog*/
+    .scrollable-content {
+        max-height: 640px;
+    }
+}
+
+
 /*992 - 1099 (LG)*/
 @media screen  and (max-width: 1099px) {
     /*main*/
@@ -97,11 +96,8 @@
     }
 
     /*catalog*/
-    .modal-btn {
-        position: sticky;
-        bottom: 60px;
-        left: 0;
-        width: 100%;
+    .scrollable-content {
+        max-height: 590px;
     }
 
     /*review*/
@@ -146,20 +142,9 @@
         font-size: 20px;
     }
 
-    .modal-btn {
-        position: sticky;
-        bottom: 70px;
-        left: 0;
-        width: 100%;
-    }
-
     .modal {
         padding-left: 10px !important;
         padding-right: 10px !important;
-    }
-
-    .scrollable-content {
-        max-height: 430px;
     }
 
     .characteristics {
@@ -168,6 +153,11 @@
 
     .characteristics-title {
         font-size: 12px;
+    }
+
+    /*catalog*/
+    .scrollable-content {
+        max-height: 490px;
     }
 
     /*review*/
@@ -203,13 +193,22 @@
     }
 }
 
-/*test scroll*/
+
+/*Scroll height*/
+@media screen  and (max-width: 892px) {
+    .scrollable-content {
+        max-height: 445px;
+    }
+}
+
+/*Scroll none*/
 @media screen  and (max-width: 768px) {
     .scrollable-content::-webkit-scrollbar-thumb,
     .scrollable-content::-webkit-scrollbar-track{
         display: none;
     }
 }
+
 
 /*576 - 767 (SM)*/
 @media screen  and (max-width: 767px) {
@@ -269,14 +268,6 @@
         font-size: 18px;
     }
 
-    .modal-btn {
-        position: sticky;
-        bottom: 20px;
-        left: 0;
-        width: 100%;
-        z-index: 99999;
-        margin: 0 !important;
-    }
 
     .characteristics {
         margin-left: 10px;
@@ -285,10 +276,7 @@
     .scrollable-content {
         overflow: hidden;
         margin-top: 10px;
-    }
-
-    .scrollable-content {
-        max-height: 980px;
+        max-height: 800px;
     }
 
 
@@ -341,7 +329,6 @@
         background-position: calc(55% - var(--bg-offset-x)) calc(100% - var(--bg-offset-y));
         background-size: calc(390% - var(--bg-offset-x)) calc(105% - var(--bg-offset-y));
     }
-
 
     .main-info {
         text-align: center;

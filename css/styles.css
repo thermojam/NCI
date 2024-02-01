@@ -173,10 +173,9 @@
 }
 
 .swiper-container {
-    width: 100%;
+    width: auto;
     overflow: hidden;
 }
-
 
 .swiper-wrapper {
     cursor: pointer;
@@ -185,13 +184,11 @@
 .main-slider {
     width: auto;
     box-sizing: border-box;
-    padding: 10px 0;
+    padding: 0 0 10px 0;
 }
 
-.swiper-slide img {
-    width: 100%;
-    height: 100%;
-    border-radius: 5px 5px 0 0;
+.main-swiper .swiper-slide img {
+    border-radius: 5px;
 }
 
 .swiper-pagination-catalog {
@@ -308,7 +305,7 @@
 .modal-title {
     color: #0A334C;
     font-family: Evolventa, sans-serif;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: bold;
     letter-spacing: 1px;
 }
@@ -329,7 +326,7 @@
 }
 
 .characteristics p {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .characteristics-title {
@@ -341,7 +338,7 @@
 
 .scrollable-content {
     cursor: pointer;
-    max-height: 615px; /* Задайте максимальную высоту блока по вашему усмотрению */
+    max-height: 680px; /* Задайте максимальную высоту блока по вашему усмотрению */
     overflow-y: auto;
 }
 
@@ -368,7 +365,7 @@
 .modal-dialog {
     top: 20px;
     left: 0;
-    max-width: 1400px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
@@ -467,7 +464,6 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    /*text-align: center;*/
     background: #ffffff;
 }
 
@@ -476,7 +472,6 @@
     height: auto;
     border-radius: 10px 10px 0 0;
 }
-
 
 .review-slide {
     padding: 5px;
@@ -684,7 +679,7 @@ iframe {
 .street {
     color: #ffffff;
     font-family: Nunito-Medium, sans-serif;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .social-icons {

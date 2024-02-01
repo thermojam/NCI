@@ -7,6 +7,9 @@
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/adaptive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adaptive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +188,8 @@
       <workItem from="1706375429785" duration="1808000" />
       <workItem from="1706464461366" duration="17000" />
       <workItem from="1706710394728" duration="18055000" />
-      <workItem from="1706730794087" duration="2312000" />
+      <workItem from="1706730794087" duration="3133000" />
+      <workItem from="1706766533324" duration="11133000" />
     </task>
     <servers />
   </component>
