@@ -5970,11 +5970,11 @@ textarea.form-control-lg {
 }
 
 .modal-header {
-    display: flex;
+    /*display: flex;*/
     flex-shrink: 0;
     align-items: center;
     justify-content: space-between;
-    padding: var(--bs-modal-header-padding);
+    padding: 5px;
     border-bottom: var(--bs-modal-header-border-width) solid var(--bs-modal-header-border-color);
     border-top-left-radius: var(--bs-modal-inner-border-radius);
     border-top-right-radius: var(--bs-modal-inner-border-radius)
