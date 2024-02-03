@@ -1,5 +1,4 @@
 @media screen  and (max-width: 2900px) {
-    /*catalog*/
 
 
 }
@@ -15,9 +14,6 @@
     .main {
         background-position: calc(90% - var(--bg-offset-x)) calc(90% - var(--bg-offset-y));
     }
-
-    /*catalog*/
-
 }
 
 /*1200 - 1399 (XL)*/
@@ -46,7 +42,6 @@
         font-size: 16px;
     }
 
-    /*catalog*/
     /*review*/
     .review-icon {
         display: block;
@@ -135,6 +130,11 @@
         margin-top: 40px;
     }
 
+    /*advantages*/
+    .advantage-item:hover {
+        transform: none;
+    }
+
     /*catalog*/
     .modal-title {
         font-size: 20px;
@@ -153,7 +153,6 @@
         font-size: 12px;
     }
 
-    /*catalog*/
     .scrollable-content {
         max-height: 490px;
     }
@@ -257,17 +256,13 @@
         transition: none;
     }
 
-    .advantage-item:hover {
-        transform: none;
-    }
-
     /*catalog*/
     .modal-title {
         font-size: 18px;
     }
 
     .sale {
-    font-size: 16px;
+        font-size: 16px;
     }
 
     .characteristics {
