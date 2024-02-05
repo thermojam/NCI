@@ -67,7 +67,7 @@
 @media screen  and (max-width: 1299px) {
     /*catalog*/
     .scrollable-content {
-        max-height: 640px;
+        max-height: 620px;
     }
 }
 
@@ -89,14 +89,14 @@
     }
 
     /*catalog*/
+
     .scrollable-content {
-        max-height: 590px;
+        max-height: 560px;
     }
 
     /*review*/
     .review-icon {
         display: block;
-
     }
 
     .overlay {

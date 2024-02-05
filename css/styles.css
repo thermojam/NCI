@@ -251,7 +251,7 @@
     border: 0;
     border-radius: 10px;
     background: linear-gradient(90deg, rgb(36, 155, 184) 5.08%, rgb(10, 51, 76) 114.58%);
-    height: 50px;
+    height: 40px;
     box-sizing: border-box;
     flex-shrink: 0;
     color: #FFF;
@@ -305,7 +305,7 @@
 .modal-title {
     color: #0A334C;
     font-family: Evolventa, sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
     letter-spacing: 1px;
 }
@@ -313,7 +313,7 @@
 .sale {
     color: #0A334C;
     font-family: Evolventa, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     font-style: italic;
     font-weight: bolder;
     /*white-space: nowrap;*/
@@ -322,7 +322,7 @@
 .characteristics {
     font-family: Nunito-Regular, sans-serif;
     font-size: 14px;
-    padding-left: 5px;
+    /*padding-left: 5px;*/
     padding-top: 0;
 }
 
@@ -339,7 +339,7 @@
 
 .scrollable-content {
     cursor: pointer;
-    max-height: 680px; /* Задайте максимальную высоту блока по вашему усмотрению */
+    max-height: 670px; /* Задайте максимальную высоту блока по вашему усмотрению */
     overflow-y: auto;
 }
 
@@ -363,9 +363,17 @@
     right: 3px;
 }
 
+.modal-body {
+    padding-top: 5px;
+    padding-bottom: 0;
+}
+
+.modal-header {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
 .modal-dialog {
-    top: 20px;
-    left: 0;
     max-width: 1200px;
     margin: 0 auto;
 }
