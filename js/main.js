@@ -1,3 +1,10 @@
+// NAV-LINKS-SHOW
+document.querySelectorAll('.nav-link').forEach(item => {
+    item.addEventListener('click', () => {
+        document.querySelector('.navbar-toggler').click(); // Симулируем клик по кнопке "бургер"
+    });
+});
+
 //CATALOG-SLIDER-1
 let swiper1 = new Swiper('#swiper1', {
     slidesPerView: 3,
