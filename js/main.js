@@ -47,6 +47,7 @@ let swiper2 = new Swiper('#swiper2', {
     grabCursor: true,
     lazy: true,
     stopOnInteraction: false,
+    speed: 1000,
     autoplay: {
         delay: 5000,
     },
@@ -100,7 +101,8 @@ modalIDs.forEach(function (modalID) {
                 let mainSlider = new Swiper(container.querySelector('.main-slider'), {
                     spaceBetween: 10,
                     allowTouchMove: false,
-                    lazy: true,
+                    // lazy: true,
+                    speed: 1000,
                     autoplay: {
                         delay: 5000,
                     },
@@ -110,7 +112,7 @@ modalIDs.forEach(function (modalID) {
                 let thumbnailSlider = new Swiper(container.querySelector('.thumbnail-slider'), {
                     slidesPerView: 5,
                     spaceBetween: 10,
-                    lazy: true,
+                    // lazy: true,
                 });
 
                 mainSlider.controller.control = thumbnailSlider;
@@ -128,7 +130,6 @@ modalIDs.forEach(function (modalID) {
         console.log('Модальное окно с ID ' + modalID + ' отображено.');
     });
 });
-
 
 // REVIEW-SLIDER
 let swiper5 = new Swiper("#swiper5", {
