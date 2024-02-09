@@ -94,6 +94,15 @@
         max-height: 560px;
     }
 
+    /*swiper*/
+    .swiper-button-next {
+        right: 45%;
+    }
+
+    .swiper-button-prev {
+        left: 45%;
+    }
+
     /*review*/
     .review-icon {
         display: block;
@@ -156,6 +165,16 @@
     .scrollable-content {
         max-height: 490px;
     }
+
+    /*swiper*/
+    .swiper-button-next {
+        right: 44%;
+    }
+
+    .swiper-button-prev {
+        left: 44%;
+    }
+
 
     /*review*/
     .slide-name {
@@ -275,6 +294,14 @@
         max-height: 800px;
     }
 
+    /*swiper*/
+    .swiper-button-next {
+        right: 42%;
+    }
+
+    .swiper-button-prev {
+        left: 42%;
+    }
 
     /*review*/
     .slide-name {
@@ -373,6 +400,16 @@
     .modal-title {
         font-size: 18px;
     }
+
+    /*swiper*/
+    .swiper-button-next {
+        right: 38%;
+    }
+
+    .swiper-button-prev {
+        left: 38%;
+    }
+
 
     /*calculation*/
     .calculation-title {
@@ -546,6 +583,16 @@
     .modal-title {
         font-size: 16px;
     }
+
+    /*swiper*/
+    .swiper-button-next {
+        right: 30%;
+    }
+
+    .swiper-button-prev {
+        left: 30%;
+    }
+
 
     /*calculation*/
     .calculation-title {

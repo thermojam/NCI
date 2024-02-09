@@ -71,10 +71,9 @@ let swiper2 = new Swiper('#swiper2', {
         },
     },
 
-    pagination: {
-        el: ".swiper-pagination-catalog",
-        dynamicBullets: true,
-        clickable: true,
+    navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
     },
 });
 
@@ -156,11 +155,12 @@ let swiper5 = new Swiper("#swiper5", {
             slidesPerView: 1,
         },
     },
-    pagination: {
-        el: ".swiper-pagination-review",
-        dynamicBullets: true,
-        clickable: true,
+
+    navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
     },
+
 });
 
 //click slide links
@@ -202,10 +202,10 @@ let swiper6 = new Swiper("#swiper6", {
             slidesPerView: 1,
         },
     },
-    pagination: {
-        el: ".swiper-pagination-screen",
-        dynamicBullets: true,
-        clickable: true,
+
+    navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
     },
 });
 

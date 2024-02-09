@@ -132,7 +132,7 @@
     padding: 10px;
     background: #ffffff;
     border-radius: 10px;
-    box-shadow: 1.95px 1.95px 2.6px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.15);
     transition: all .5s ease;
 }
 
@@ -194,10 +194,6 @@
 .thumbnail-slider .swiper-slide {
     max-width: 148px;
     max-height: 100px;
-}
-
-.swiper-pagination-catalog {
-    position: relative;
 }
 
 .product-card {
@@ -344,7 +340,7 @@
 
 .scrollable-content {
     cursor: pointer;
-    max-height: 670px; /* Задайте максимальную высоту блока по вашему усмотрению */
+    max-height: 670px;
     overflow-y: auto;
 }
 
@@ -417,7 +413,7 @@
     border-radius: 10px;
     cursor: pointer;
     outline: none;
-    box-shadow: 1.95px 1.95px 2.6px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.15);
     padding: 15px;
 }
 
@@ -428,7 +424,7 @@
 }
 
 .calculation-button {
-    box-shadow: 1.95px 1.95px 2.6px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.15);
     height: 60px;
     border-radius: 10px;
     background: linear-gradient(90deg, rgba(36, 155, 184, 0.90) 5.08%, rgba(10, 51, 76, 0.90) 114.58%);
@@ -446,16 +442,36 @@
     background: linear-gradient(90deg, #43A1D6 0%, #9BDBFD 50%, #3d71a9 100%);
 }
 
-/*___________________________________________________*/
-/*ALL STYLES SWIPER*/
-.swiper-pagination-bullet {
-    width: 10px;
-    height: 10px;
-    opacity: 0.7; /* Прозрачность неактивных точек */
-    cursor: pointer; /* Изменение курсора при наведении */
+/*ALL-STYLES-SWIPER*/
+.swiper {
+    padding-bottom: 20px;
 }
 
-/*___________________________________________________*/
+.swiper-navigation {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+    width: 40px;
+    height: 40px;
+    color: rgba(28, 80, 115, 0.9);
+    border: 3px solid white;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+.swiper-button-next {
+    right: 46%;
+}
+
+.swiper-button-prev {
+    left: 46%;
+}
+
 
 /*Review*/
 .review {
@@ -476,7 +492,7 @@
     color: #003F65;
 }
 
-.swiper-slide {
+.review .swiper-slide {
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -509,13 +525,6 @@
     display: none;
 }
 
-.swiper-pagination-review {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    margin-top: 30px;
-}
-
 .overlay {
     border-radius: 10px;
     position: absolute;
@@ -537,7 +546,6 @@
     opacity: 1;
 }
 
-
 /*Screen*/
 .screen {
     padding: 30px 0 40px 0;
@@ -555,13 +563,6 @@
     cursor: pointer;
     border-radius: 10px;
     overflow: hidden;
-}
-
-.swiper-pagination-screen {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    margin-top: 30px;
 }
 
 /*Process*/
