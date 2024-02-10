@@ -401,6 +401,12 @@
         font-size: 18px;
     }
 
+    .thumbnail-slider .swiper-slide {
+        max-width: 75px;
+        max-height: 70px;
+    }
+
+
     /*swiper*/
     .swiper-button-next {
         right: 38%;
@@ -586,11 +592,11 @@
 
     /*swiper*/
     .swiper-button-next {
-        right: 30%;
+        right: 35%;
     }
 
     .swiper-button-prev {
-        left: 30%;
+        left: 35%;
     }
 
 

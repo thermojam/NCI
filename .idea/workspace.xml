@@ -8,12 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/adaptive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adaptive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/swiper-bundle.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/swiper-bundle.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/screen/screen-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/screen/screen-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/screen/screen-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/screen/screen-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/screen/screen-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/screen/screen-3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +203,9 @@
       <workItem from="1707327605142" duration="248000" />
       <workItem from="1707329804326" duration="757000" />
       <workItem from="1707403288116" duration="7523000" />
-      <workItem from="1707456075114" duration="6137000" />
+      <workItem from="1707456075114" duration="6436000" />
+      <workItem from="1707591594933" duration="594000" />
+      <workItem from="1707593692013" duration="4596000" />
     </task>
     <servers />
   </component>
