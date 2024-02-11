@@ -32,7 +32,7 @@
 
 .header .navbar {
     padding: 20px 0 25px 0;
-    z-index: 1;
+    z-index: 2;
 }
 
 .container {
