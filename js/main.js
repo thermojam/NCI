@@ -134,10 +134,11 @@ modalIDs.forEach(function (modalID) {
 let swiper5 = new Swiper("#swiper5", {
     slidesPerView: 3,
     spaceBetween: 20,
-
     loop: true,
-
     grabCursor: true,
+    autoplay: {
+        delay: 5000,
+    },
     breakpoints: {
         1025: {
             slidesPerView: 3,
@@ -181,10 +182,11 @@ document.querySelectorAll('#swiper5 .swiper-slide').forEach(slide => {
 let swiper6 = new Swiper("#swiper6", {
     slidesPerView: 3,
     spaceBetween: 20,
-
     loop: true,
-
     grabCursor: true,
+    autoplay: {
+        delay: 5000,
+    },
     breakpoints: {
         1025: {
             slidesPerView: 3,
