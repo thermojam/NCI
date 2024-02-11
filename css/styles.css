@@ -31,8 +31,8 @@
 }
 
 .header .navbar {
-    padding: 20px 0 25px 0;
-    z-index: 2;
+    padding: 20px 0 22px 0;
+    z-index: 13;
 }
 
 .container {
@@ -743,7 +743,7 @@ i:hover {
 .call-svg {
     position: fixed;
     top: 20px;
-    z-index: 5;
+    z-index: 15;
     right: 160px;
     cursor: pointer;
     animation: pulse 1s infinite;
