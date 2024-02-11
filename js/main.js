@@ -228,9 +228,3 @@ $(document).ready(function () {
     });
 });
 
-
-//Click Whats-up
-function redirectToWhatsApp() {
-    window.open('https://api.whatsapp.com/send?phone=79215939333', '_blank');
-}
-

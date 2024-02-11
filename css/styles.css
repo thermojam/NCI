@@ -32,6 +32,7 @@
 
 .header .navbar {
     padding: 20px 0 25px 0;
+    z-index: 1;
 }
 
 .container {
@@ -46,7 +47,7 @@
 .nav-link {
     font-family: Evolventa-Oblique, sans-serif;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 16px;
     margin-right: 15px;
 }
 
@@ -381,6 +382,7 @@
 .modal-dialog {
     max-width: 1200px;
     margin: 0 auto;
+    z-index: 999;
 }
 
 .modal-dialog-form {
@@ -738,31 +740,20 @@ i:hover {
 }
 
 /*Phone*/
-.phone {
-    cursor: pointer;
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    background: radial-gradient(50% 50% at 50% 50%, #0176FF 0%, #003F65 100%);
+.call-svg {
     position: fixed;
-    top: 120px;
-    right: 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    top: 20px;
+    z-index: 5;
+    right: 160px;
+    cursor: pointer;
     animation: pulse 1s infinite;
-    z-index: 99;
 }
 
-.phone::before {
-    content: '';
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    border-radius: 50%;
-    z-index: -1;
-    animation: pulse-2 1s infinite;
-    background: radial-gradient(50% 50% at 50% 50%, #0176FF 0%, #72B3FF 100%);
+.call-text {
+    font-family: Nunito-Medium, sans-serif;
+    font-size: 16px;
+    color: #888888;
+
 }
 
 @keyframes pulse {
@@ -771,7 +762,7 @@ i:hover {
     }
 
     50% {
-        transform: scale(1.1);
+        transform: scale(1.2);
     }
 
     100% {
