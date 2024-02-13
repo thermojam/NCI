@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/adaptive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adaptive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,6 +206,11 @@
       <workItem from="1707591594933" duration="594000" />
       <workItem from="1707593692013" duration="5115000" />
       <workItem from="1707630887726" duration="9699000" />
+      <workItem from="1707644768106" duration="480000" />
+      <workItem from="1707715928419" duration="46000" />
+      <workItem from="1707716388119" duration="221000" />
+      <workItem from="1707746308214" duration="20000" />
+      <workItem from="1707821001202" duration="4155000" />
     </task>
     <servers />
   </component>

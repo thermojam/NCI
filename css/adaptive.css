@@ -1,5 +1,12 @@
 @media screen  and (max-width: 2900px) {
+    :root {
+        --bg-offset-x: 0px;
+        --bg-offset-y: -30px;
+    }
 
+    .main {
+        background-position: calc(30% - var(--bg-offset-x)) calc(70% - var(--bg-offset-y));
+    }
 
 }
 
@@ -19,6 +26,15 @@
 /*1200 - 1399 (XL)*/
 @media screen  and (max-width: 1399px) {
     /*main*/
+    :root {
+        --bg-offset-x: -20px;
+        --bg-offset-y: 0px;
+    }
+
+    .main {
+        background-position: calc(90% - var(--bg-offset-x)) calc(90% - var(--bg-offset-y));
+    }
+
     .main-title {
         font-size: 58px;
         line-height: 110%;
@@ -73,15 +89,19 @@
     /*main*/
     :root {
         --bg-offset-x: -20px;
-        --bg-offset-y: -80px;
+        --bg-offset-y: -20px;
     }
 
     .main {
-        background-position: calc(90% - var(--bg-offset-x)) calc(30% - var(--bg-offset-y));
+        background-position: calc(90% - var(--bg-offset-x)) calc(10% - var(--bg-offset-y));
     }
 
     .main-description-two {
         font-size: 22px;
+    }
+
+    .main-title {
+        margin-top: 20px;
     }
 
     /*catalog*/
@@ -123,21 +143,24 @@
     }
 
     .main-title {
-        font-size: 52px;
+        margin-top: 90px;
+        font-size: 48px;
         line-height: 110%;
         letter-spacing: 3px;
     }
 
     .main-description {
         margin-top: 20px;
+        font-size: 22px;
     }
 
     .main-description-two {
         margin-top: 20px;
+        font-size: 20px;
     }
 
     .main-action {
-        margin-top: 40px;
+        margin-top: 30px;
     }
 
     /*advantages*/
@@ -352,6 +375,7 @@
     }
 
     .main-title {
+        margin-top: 120px;
         font-size: 42px;
     }
 
@@ -364,6 +388,10 @@
         font-size: 16px;
         margin-top: 20px;
         letter-spacing: 1px;
+    }
+
+    .main-button {
+        height: 60px;
     }
 
     /*advantages*/
@@ -520,6 +548,7 @@
     }
 
     .main-title {
+        margin-top: 120px;
         font-size: 36px;
     }
 
@@ -541,6 +570,7 @@
     .main-button {
         text-align: center;
         width: 310px;
+        height: 50px;
     }
 
     /*advantages*/
@@ -719,9 +749,12 @@
     }
 
     .main {
-
         background-position: calc(55% - var(--bg-offset-x)) calc(70% - var(--bg-offset-y));
         background-size: calc(480% - var(--bg-offset-x)) calc(90% - var(--bg-offset-y));
+    }
+
+    .main-title {
+        padding-top: 0px;
     }
 
     .main-description {
