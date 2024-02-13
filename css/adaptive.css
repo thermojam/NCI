@@ -390,10 +390,6 @@
         letter-spacing: 1px;
     }
 
-    .main-button {
-        height: 60px;
-    }
-
     /*advantages*/
     .advantage-title {
         font-size: 26px;
@@ -570,7 +566,7 @@
     .main-button {
         text-align: center;
         width: 310px;
-        height: 50px;
+        height: 60px;
     }
 
     /*advantages*/
@@ -754,7 +750,7 @@
     }
 
     .main-title {
-        padding-top: 0px;
+        padding-top: 0;
     }
 
     .main-description {
