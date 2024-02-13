@@ -27,7 +27,7 @@
 @media screen  and (max-width: 1399px) {
     /*main*/
     :root {
-        --bg-offset-x: -20px;
+        --bg-offset-x: 0px;
         --bg-offset-y: 0px;
     }
 
@@ -36,8 +36,7 @@
     }
 
     .main-title {
-        font-size: 58px;
-        line-height: 110%;
+        font-size: 50px;
         letter-spacing: 4px;
     }
 
@@ -45,9 +44,6 @@
         margin-top: 10px;
     }
 
-    .main-description-two {
-        margin-top: 10px;
-    }
 
     .main-action {
         margin-top: 30px;
@@ -94,10 +90,6 @@
 
     .main {
         background-position: calc(90% - var(--bg-offset-x)) calc(10% - var(--bg-offset-y));
-    }
-
-    .main-description-two {
-        font-size: 22px;
     }
 
     .main-title {

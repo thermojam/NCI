@@ -64,19 +64,19 @@
 }
 
 .main-title {
-    margin-top: 50px;
+    margin-top: 20px;
     font-family: Evolventa-BoldOblique, sans-serif;
     color: #FFFFFF;
-    font-size: 58px;
-    line-height: 100%;
+    font-size: 56px;
     letter-spacing: 5px;
 }
 
 .main-description {
+    margin-bottom: 0;
     margin-top: 20px;
     color: #073448;
     font-family: Evolventa-Oblique, sans-serif;
-    font-size: 28px;
+    font-size: 26px;
     font-weight: 600;
     background: linear-gradient(270deg, rgba(43, 166, 241, 0.00) -1.12%, #2BA6F1 -1.11%, rgba(159, 217, 252, 0.99) 79.11%);
     -webkit-background-clip: text;
@@ -84,9 +84,10 @@
 }
 
 .main-description-two {
+    margin-bottom: 0;
     color: #FFFFFF;
     font-family: Evolventa-Oblique, sans-serif;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .main-action {
