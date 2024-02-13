@@ -33,6 +33,7 @@
 
     .main {
         background-position: calc(90% - var(--bg-offset-x)) calc(90% - var(--bg-offset-y));
+        padding: 80px 0 400px 0;
     }
 
     .main-title {
@@ -84,8 +85,8 @@
 @media screen  and (max-width: 1099px) {
     /*main*/
     :root {
-        --bg-offset-x: -20px;
-        --bg-offset-y: -20px;
+        --bg-offset-x: 0px;
+        --bg-offset-y: 0px;
     }
 
     .main {
@@ -94,10 +95,11 @@
 
     .main-title {
         margin-top: 20px;
+        line-height: 0.9;
+
     }
 
     /*catalog*/
-
     .scrollable-content {
         max-height: 560px;
     }
@@ -142,12 +144,12 @@
     }
 
     .main-description {
-        margin-top: 20px;
+        margin-top: 10px;
         font-size: 22px;
     }
 
     .main-description-two {
-        margin-top: 20px;
+        margin-top: 10px;
         font-size: 20px;
     }
 
@@ -268,7 +270,7 @@
 
     .main-description-two {
         font-size: 20px;
-        margin-top: 20px;
+
         letter-spacing: 1px;
     }
 
