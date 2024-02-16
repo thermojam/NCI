@@ -742,10 +742,7 @@ i:hover {
 
 /*Phone*/
 .call-svg {
-    position: fixed;
-    top: 10px;
     z-index: 15;
-    right: 160px;
     cursor: pointer;
     animation: pulse 1s infinite;
 }
@@ -754,7 +751,13 @@ i:hover {
     font-family: Nunito-Medium, sans-serif;
     font-size: 16px;
     color: #888888;
+}
 
+.call-contacts-info {
+    max-width: 110px;
+    color: #003F65;
+    font-family: Nunito-Medium, sans-serif;
+    font-size: 12px;
 }
 
 @keyframes pulse {

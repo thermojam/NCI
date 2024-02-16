@@ -64,16 +64,18 @@
         display: none;
     }
 
-    /*phone*/
-    .call-svg {
-        right: 140px;
-    }
 
 }
 
 
 /*Scroll max-height (XL)*/
 @media screen  and (max-width: 1299px) {
+    /*header*/
+    .nav-link {
+        font-size: 14px;
+        margin-right: 10px;
+    }
+
     /*catalog*/
     .scrollable-content {
         max-height: 620px;
@@ -83,6 +85,19 @@
 
 /*992 - 1099 (LG)*/
 @media screen  and (max-width: 1099px) {
+    /*header*/
+    .logo {
+        max-width: 220px;
+        margin-right: 5px;
+    }
+
+    .nav-link {
+        font-size: 14px;
+        margin-right: 0;
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+
     /*main*/
     :root {
         --bg-offset-x: 0px;
@@ -95,7 +110,7 @@
 
     .main-title {
         margin-top: 20px;
-        line-height: 0.9;
+        line-height: 1;
 
     }
 
@@ -122,10 +137,6 @@
         display: none;
     }
 
-    /*phone*/
-    .call-svg {
-        right: 60px;
-    }
 }
 
 /*768 - 991 (MD)*/
@@ -217,10 +228,6 @@
         display: none;
     }
 
-    /*phone*/
-    .call-svg {
-        right: 280px;
-    }
 }
 
 
@@ -270,7 +277,6 @@
 
     .main-description-two {
         font-size: 20px;
-
         letter-spacing: 1px;
     }
 
@@ -343,14 +349,28 @@
         margin-bottom: 30px;
     }
 
-    /*phone*/
-    .call-svg {
-        right: 250px;
-    }
 }
 
 /*424 - 576 (<SM)*/
 @media screen  and (max-width: 575px) {
+    /*header*/
+    .logo {
+        max-width: 220px;
+        margin-right: 5px;
+    }
+
+    .nav-link {
+        font-size: 14px;
+        margin-right: 0;
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+
+    .call-contacts>.link-social,
+    .call-contacts-info {
+        display: none;
+    }
+
     /*MAIN*/
     :root {
         --bg-offset-x: 44px;
@@ -502,10 +522,6 @@
         margin-bottom: 30px;
     }
 
-    /*phone*/
-    .call-svg {
-        right: 110px;
-    }
 }
 
 /*375 - 424 (ES)*/
@@ -534,7 +550,7 @@
     .main-info {
         text-align: center;
         position: relative;
-        top: -100px;
+        top: -40px;
     }
 
     .main-title {
@@ -713,10 +729,6 @@
         font-size: 14px;
     }
 
-    /*phone*/
-    .call-svg {
-        right: 90px;
-    }
 }
 
 /*320 - 374(XS)*/
@@ -730,7 +742,7 @@
     /*main*/
     .main-info {
         position: relative;
-        top: -60px;
+        top: -40px;
     }
 
     :root {
@@ -843,11 +855,6 @@
 
     .contacts-street {
         font-size: 12px;
-    }
-
-    /*phone*/
-    .call-svg {
-        right: 70px;
     }
 
 }
