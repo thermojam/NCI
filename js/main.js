@@ -1,3 +1,28 @@
+// VALIDATION
+// modal-call
+document.getElementById('name_call').addEventListener('input', function () {
+    this.value = this.value.replace(/[^A-Za-zА-Яа-яЁё\s]/g, '');
+});
+document.getElementById('mobile_call').addEventListener('input', function () {
+    this.value = this.value.replace(/[^0-9+]/g, '');
+});
+
+// order-modal
+document.getElementById('name').addEventListener('input', function () {
+    this.value = this.value.replace(/[^A-Za-zА-Яа-яЁё\s]/g, '');
+});
+document.getElementById('mobile_tel').addEventListener('input', function () {
+    this.value = this.value.replace(/[^0-9+]/g, '');
+});
+
+// calculation
+document.getElementById('user_name').addEventListener('input', function () {
+    this.value = this.value.replace(/[^A-Za-zА-Яа-яЁё\s]/g, '');
+});
+document.getElementById('mobile_phone').addEventListener('input', function () {
+    this.value = this.value.replace(/[^0-9+]/g, '');
+});
+
 // NAV-LINKS-SHOW
 document.querySelectorAll('.nav-link').forEach(item => {
     item.addEventListener('click', () => {
@@ -19,7 +44,7 @@ let swiper1 = new Swiper('#swiper1', {
     slidesPerView: 3,
     spaceBetween: 20,
     grabCursor: true,
-    lazy: true,
+    // lazy: true,
 
     breakpoints: {
         1025: {
@@ -45,7 +70,7 @@ let swiper2 = new Swiper('#swiper2', {
     slidesPerView: 3,
     spaceBetween: 20,
     grabCursor: true,
-    lazy: true,
+    // lazy: true,
     stopOnInteraction: false,
     speed: 1000,
     autoplay: {
@@ -86,7 +111,7 @@ swiper2.controller.control = swiper1;
 let modalIDs = ['modalBMW_520d', 'modalBMW_330_G20', 'modalBMW_X6_x_drive40i_M_Sport',
     'modalMercedes-Benz_AMG_GT43', 'modalMercedes-Benz_V250d', 'modalBMW_X4_M40i_xDrive', 'modalMercedes-Benz_S500_4M',
     'modalMERCEDES-BENZ_GLE_COUPE', 'modalBMW_740d_xDrive-M_Sport', 'modalLand_Rover_Defender', 'modalMercedes-Benz_GLE_300d',
-    'modalAudi_A6_All_road_45_TDI'];
+    'modalAudi_A6_All_road_45_TDI', 'modalLexus_LX', 'modalRange_Rover_Sport'];
 
 // Инициализация обработчика для каждого модального окна
 modalIDs.forEach(function (modalID) {
@@ -100,7 +125,7 @@ modalIDs.forEach(function (modalID) {
                 let mainSlider = new Swiper(container.querySelector('.main-slider'), {
                     spaceBetween: 10,
                     allowTouchMove: false,
-                    // lazy: true,
+                    lazy: true,
                     speed: 1000,
                     autoplay: {
                         delay: 5000,
@@ -111,7 +136,7 @@ modalIDs.forEach(function (modalID) {
                 let thumbnailSlider = new Swiper(container.querySelector('.thumbnail-slider'), {
                     slidesPerView: 5,
                     spaceBetween: 10,
-                    // lazy: true,
+                    lazy: true,
                 });
 
                 mainSlider.controller.control = thumbnailSlider;
@@ -136,6 +161,7 @@ let swiper5 = new Swiper("#swiper5", {
     spaceBetween: 20,
     loop: true,
     grabCursor: true,
+    speed: 1000,
     autoplay: {
         delay: 5000,
     },
@@ -184,6 +210,7 @@ let swiper6 = new Swiper("#swiper6", {
     spaceBetween: 20,
     loop: true,
     grabCursor: true,
+    speed: 1000,
     autoplay: {
         delay: 5000,
     },
@@ -211,14 +238,13 @@ let swiper6 = new Swiper("#swiper6", {
     },
 });
 
-
 //Modal URL !!!
 $(document).ready(function () {
     // Список идентификаторов модальных окон
     let modalIds = ['#modalBMW_520d', '#modalBMW_330_G20', '#modalBMW_X6_x_drive40i_M_Sport',
         '#modalMercedes-Benz_AMG_GT43', '#modalMercedes-Benz_V250d', '#modalBMW_X4_M40i_xDrive', '#modalMercedes-Benz_S500_4M',
         '#modalMERCEDES-BENZ_GLE_COUPE', '#modalBMW_740d_xDrive-M_Sport', '#modalLand_Rover_Defender', '#modalMercedes-Benz_GLE_300d',
-        '#modalAudi_A6_All_road_45_TDI'];
+        '#modalAudi_A6_All_road_45_TDI', '#modalLexus_LX', '#modalRange_Rover_Sport'];
 
     // Перебор всех идентификаторов
     modalIds.forEach(function (modalId) {
