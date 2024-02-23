@@ -1,3 +1,31 @@
+// SCROLL CATALOG
+function scrollToFixedHeight() {
+
+    if (window.innerWidth >= 1441 && window.innerWidth <= 1920) {
+        // Прокручиваем страницу до фиксированной высоты (например, 500px)
+        window.scrollTo({
+            top: 1250,
+            behavior: 'smooth' // Добавляем плавную анимацию прокрутки
+        });
+    }
+
+    if (window.innerWidth >= 992 && window.innerWidth <= 1440) {
+        // Прокручиваем страницу до фиксированной высоты (например, 500px)
+        window.scrollTo({
+            top: 1550,
+            behavior: 'smooth' // Добавляем плавную анимацию прокрутки
+        });
+    }
+
+    if (window.innerWidth >= 768 && window.innerWidth <= 991){
+        // Прокручиваем страницу до фиксированной высоты (например, 500px)
+        window.scrollTo({
+            top: 1830,
+            behavior: 'smooth' // Добавляем плавную анимацию прокрутки
+        });
+    }
+}
+
 // VALIDATION
 // modal-call
 document.getElementById('name_call').addEventListener('input', function () {
@@ -50,6 +78,9 @@ let swiper1 = new Swiper('#swiper1', {
         1025: {
             slidesPerView: 3,
         },
+        992: {
+            slidesPerView: 3,
+        },
         768: {
             slidesPerView: 2,
         },
@@ -79,6 +110,9 @@ let swiper2 = new Swiper('#swiper2', {
 
     breakpoints: {
         1025: {
+            slidesPerView: 3,
+        },
+        992: {
             slidesPerView: 3,
         },
         768: {

@@ -114,7 +114,12 @@
 
     }
 
+
     /*catalog*/
+    .card-title {
+        font-size: 12px;
+    }
+
     .scrollable-content {
         max-height: 560px;
     }

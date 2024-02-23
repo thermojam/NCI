@@ -42,6 +42,7 @@
 
 .nav-item a {
     color: #003F65;
+    cursor: pointer;
 }
 
 .nav-link {
@@ -163,7 +164,7 @@
 
 /*Catalog*/
 .catalog {
-    padding: 0 0 30px 0;
+    padding: 30px 0 50px 0;
     background: #D9D9D9;
 }
 
@@ -179,8 +180,10 @@
     overflow: hidden;
 }
 
-.swiper-wrapper {
+.thumbnail-slider>.swiper-wrapper {
     cursor: pointer;
+    display: flex;
+    justify-content: space-between;
 }
 
 .main-slider {
@@ -746,7 +749,6 @@ i:hover {
 /*Phone*/
 .phone-btn {
     padding: 8px;
-    box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.15);
     height: 38px;
     border-radius: 10px;
     background: #003F65;
