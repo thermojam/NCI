@@ -24,6 +24,22 @@ function scrollToFixedHeight() {
             behavior: 'smooth' // Добавляем плавную анимацию прокрутки
         });
     }
+
+    if (window.innerWidth >= 577 && window.innerWidth <= 991){
+        // Прокручиваем страницу до фиксированной высоты (например, 500px)
+        window.scrollTo({
+            top: 2950,
+            behavior: 'smooth' // Добавляем плавную анимацию прокрутки
+        });
+    }
+
+    if (window.innerWidth >= 375 && window.innerWidth <= 576){
+        // Прокручиваем страницу до фиксированной высоты (например, 500px)
+        window.scrollTo({
+            top: 2750,
+            behavior: 'smooth' // Добавляем плавную анимацию прокрутки
+        });
+    }
 }
 
 // VALIDATION
