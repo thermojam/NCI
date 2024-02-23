@@ -4,7 +4,7 @@ function scrollToFixedHeight() {
     if (window.innerWidth >= 1441 && window.innerWidth <= 1920) {
         // Прокручиваем страницу до фиксированной высоты (например, 500px)
         window.scrollTo({
-            top: 1250,
+            top: 1300,
             behavior: 'smooth' // Добавляем плавную анимацию прокрутки
         });
     }
@@ -12,7 +12,7 @@ function scrollToFixedHeight() {
     if (window.innerWidth >= 992 && window.innerWidth <= 1440) {
         // Прокручиваем страницу до фиксированной высоты (например, 500px)
         window.scrollTo({
-            top: 1550,
+            top: 1750,
             behavior: 'smooth' // Добавляем плавную анимацию прокрутки
         });
     }
