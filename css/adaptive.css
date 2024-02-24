@@ -377,6 +377,10 @@
         padding-left: 5px;
     }
 
+    .navbar-toggler {
+        padding: 3px;
+    }
+
     /*MAIN*/
     :root {
         --bg-offset-x: 44px;
@@ -532,14 +536,9 @@
 
 /*375 - 424 (ES)*/
 @media screen  and (max-width: 424px) {
-    /*MAIN*/
     .logo {
         max-width: 180px;
         margin-right: 10px;
-    }
-
-    .navbar-toggler {
-        padding: 3px;
     }
 
     :root {
@@ -741,8 +740,13 @@
 @media screen  and (max-width: 374px) {
     /*logo*/
     .logo {
-        max-width: 180px;
-        margin-right: 20px;
+        max-width: 135px;
+        margin-right: 5px;
+    }
+
+    .call-btn {
+        margin-right: 5px;
+
     }
 
     /*main*/

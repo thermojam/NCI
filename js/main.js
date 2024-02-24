@@ -1,45 +1,109 @@
 // SCROLL CATALOG
 function scrollToFixedHeight() {
 
-    if (window.innerWidth >= 1441 && window.innerWidth <= 1920) {
-        // Прокручиваем страницу до фиксированной высоты (например, 500px)
+    if (window.innerWidth >= 1921 && window.innerWidth <= 3000) {
+
         window.scrollTo({
-            top: 1300,
-            behavior: 'smooth' // Добавляем плавную анимацию прокрутки
+            top: 1180,
+            behavior: 'smooth'
         });
     }
 
-    if (window.innerWidth >= 992 && window.innerWidth <= 1440) {
-        // Прокручиваем страницу до фиксированной высоты (например, 500px)
+    if (window.innerWidth >= 1440 && window.innerWidth <= 1920) {
         window.scrollTo({
-            top: 1750,
-            behavior: 'smooth' // Добавляем плавную анимацию прокрутки
+            top: 1180,
+            behavior: 'smooth'
+        });
+    }
+
+    if (window.innerWidth >= 992 && window.innerWidth <= 1399) {
+
+        window.scrollTo({
+            top: 1220,
+            behavior: 'smooth'
         });
     }
 
     if (window.innerWidth >= 768 && window.innerWidth <= 991){
-        // Прокручиваем страницу до фиксированной высоты (например, 500px)
+
         window.scrollTo({
-            top: 1830,
-            behavior: 'smooth' // Добавляем плавную анимацию прокрутки
+            top: 1610,
+            behavior: 'smooth'
         });
     }
 
-    if (window.innerWidth >= 577 && window.innerWidth <= 991){
-        // Прокручиваем страницу до фиксированной высоты (например, 500px)
+    if (window.innerWidth >= 576 && window.innerWidth <= 767){
+
         window.scrollTo({
             top: 2250,
-            behavior: 'smooth' // Добавляем плавную анимацию прокрутки
+            behavior: 'smooth'
         });
     }
 
-    if (window.innerWidth >= 375 && window.innerWidth <= 576){
-        // Прокручиваем страницу до фиксированной высоты (например, 500px)
+    if (window.innerWidth >= 424 && window.innerWidth <= 575){
+
         window.scrollTo({
-            top: 2750,
-            behavior: 'smooth' // Добавляем плавную анимацию прокрутки
+            top: 2220,
+            behavior: 'smooth'
         });
     }
+
+    if (window.innerWidth >= 320 && window.innerWidth <= 423){
+
+        window.scrollTo({
+            top: 2060,
+            behavior: 'smooth'
+        });
+    }
+}
+
+// SCROLL CALC
+function scrollToFixedHeightCalc() {
+
+    if (window.innerWidth >= 993 && window.innerWidth <= 2555){
+
+        window.scrollTo({
+            top: 1610,
+            behavior: 'smooth'
+        });
+
+    }
+
+
+    if (window.innerWidth >= 768 && window.innerWidth <= 991){
+
+        window.scrollTo({
+            top: 1610,
+            behavior: 'smooth'
+        });
+
+    }
+
+    if (window.innerWidth >= 576 && window.innerWidth <= 767){
+
+        window.scrollTo({
+            top: 3620,
+            behavior: 'smooth'
+        });
+
+    }
+
+    if (window.innerWidth >= 424 && window.innerWidth <= 575){
+
+        window.scrollTo({
+            top: 3320,
+            behavior: 'smooth'
+        });
+    }
+
+    if (window.innerWidth >= 320 && window.innerWidth <= 423){
+
+        window.scrollTo({
+            top: 2830,
+            behavior: 'smooth'
+        });
+    }
+
 }
 
 // VALIDATION
@@ -166,7 +230,7 @@ let modalIDs = ['modalBMW_520d', 'modalBMW_330_G20', 'modalBMW_X6_x_drive40i_M_S
     'modalMercedes-Benz_GLE_350d', 'modalMercedes-Benz_E300e_4Matic', 'modalBMW_530d_xDrive_grey', 'modalBMW_320i_xDrive', 'modalMercedes-Benz_S350d_4MATIC',
     'modalBMW_X6_M50d_black', 'modalVolkswagen_Tuareg_black', 'modalBMW_750d_xDrive', 'modalBMW_X7_x_Drive40i', 'modalBMW_X6_x_Drive40i', 'modalVolvo_XC90_B6_Plus',
     'modalPorsche_Panamera_4', 'modalVolvo_XC40_B4', 'modalVolvo_S90', 'modalLexus_LX_570', 'modalLexus_RX_350', 'modalLexus_LX', 'modalRange_Rover_black',
-    'modalRange_Rover_Sport', 'modalLexus_NX', 'modalPorsche_Cayenne_black', 'modalBMW_840i_xDrive', 'modalRR_Velar'];
+    'modalRange_Rover_Sport', 'modalLexus_NX', 'modalPorsche_Cayenne_black', 'modalBMW_840i_xDrive', 'modalRR_Velar', 'modalAudi_Q8_55TFSI', 'modalMercedes-Benz_GLS_450'];
 
 // Инициализация обработчика для каждого модального окна
 modalIDs.forEach(function (modalID) {
@@ -304,7 +368,7 @@ $(document).ready(function () {
         '#modalMercedes-Benz_GLE_350d', '#modalMercedes-Benz_E300e_4Matic', '#modalBMW_530d_xDrive_grey', '#modalBMW_320i_xDrive', '#modalMercedes-Benz_S350d_4MATIC',
         '#modalBMW_X6_M50d_black', '#modalVolkswagen_Tuareg_black', '#modalBMW_750d_xDrive', '#modalBMW_X7_x_Drive40i', '#modalBMW_X6_x_Drive40i', '#modalPorsche_Panamera_4',
         '#modalVolvo_XC90_B6_Plus', '#modalVolvo_XC40_B4', '#modalVolvo_S90', '#modalLexus_LX_570', '#modalLexus_RX_350', '#modalLexus_LX', '#modalRange_Rover_black',
-        '#modalRange_Rover_Sport', '#modalLexus_NX', '#modalPorsche_Cayenne_black', '#modalBMW_840i_xDrive', '#modalRR_Velar'];
+        '#modalRange_Rover_Sport', '#modalLexus_NX', '#modalPorsche_Cayenne_black', '#modalBMW_840i_xDrive', '#modalRR_Velar', '#modalAudi_Q8_55TFSI', '#modalMercedes-Benz_GLS_450'];
 
     // Перебор всех идентификаторов
     modalIds.forEach(function (modalId) {
