@@ -70,7 +70,7 @@ function scrollCalc() {
 
     if (window.innerWidth >= 1400 && window.innerWidth <= 1920) {
         window.scrollTo({
-            top: 1550,
+            top: 1100,
             behavior: 'smooth'
         });
     }
@@ -78,7 +78,7 @@ function scrollCalc() {
     if (window.innerWidth >= 1100 && window.innerWidth <= 1399) {
 
         window.scrollTo({
-            top: 1650,
+            top: 1150,
             behavior: 'smooth'
         });
     }
@@ -86,7 +86,7 @@ function scrollCalc() {
     if (window.innerWidth >= 992 && window.innerWidth <= 1099) {
 
         window.scrollTo({
-            top: 1550,
+            top: 1050,
             behavior: 'smooth'
         });
     }
@@ -95,7 +95,7 @@ function scrollCalc() {
     if (window.innerWidth >= 768 && window.innerWidth <= 991){
 
         window.scrollTo({
-            top: 2200,
+            top: 1700,
             behavior: 'smooth'
         });
 
@@ -104,7 +104,7 @@ function scrollCalc() {
     if (window.innerWidth >= 576 && window.innerWidth <= 767){
 
         window.scrollTo({
-            top: 3450,
+            top: 3050,
             behavior: 'smooth'
         });
 
@@ -113,7 +113,7 @@ function scrollCalc() {
     if (window.innerWidth >= 424 && window.innerWidth <= 575){
 
         window.scrollTo({
-            top: 3170,
+            top: 2800,
             behavior: 'smooth'
         });
     }
@@ -121,7 +121,7 @@ function scrollCalc() {
     if (window.innerWidth >= 320 && window.innerWidth <= 423){
 
         window.scrollTo({
-            top: 2830,
+            top: 2450,
             behavior: 'smooth'
         });
     }
