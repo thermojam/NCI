@@ -60,20 +60,42 @@ function scrollCatalog() {
 // SCROLL CALC
 function scrollCalc() {
 
-    if (window.innerWidth >= 993 && window.innerWidth <= 2560) {
+    if (window.innerWidth >= 1921 && window.innerWidth <= 2550) {
+
+        window.scrollTo({
+            top: 1580,
+            behavior: 'smooth'
+        });
+    }
+
+    if (window.innerWidth >= 1400 && window.innerWidth <= 1920) {
+        window.scrollTo({
+            top: 1550,
+            behavior: 'smooth'
+        });
+    }
+
+    if (window.innerWidth >= 1100 && window.innerWidth <= 1399) {
+
+        window.scrollTo({
+            top: 1650,
+            behavior: 'smooth'
+        });
+    }
+
+    if (window.innerWidth >= 992 && window.innerWidth <= 1099) {
 
         window.scrollTo({
             top: 1550,
             behavior: 'smooth'
         });
-
     }
 
 
     if (window.innerWidth >= 768 && window.innerWidth <= 991){
 
         window.scrollTo({
-            top: 2150,
+            top: 2200,
             behavior: 'smooth'
         });
 
@@ -82,7 +104,7 @@ function scrollCalc() {
     if (window.innerWidth >= 576 && window.innerWidth <= 767){
 
         window.scrollTo({
-            top: 3500,
+            top: 3450,
             behavior: 'smooth'
         });
 
@@ -105,6 +127,7 @@ function scrollCalc() {
     }
 
 }
+
 
 // VALIDATION
 // modal-call
