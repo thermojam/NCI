@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/adaptive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adaptive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
@@ -238,7 +240,11 @@
       <workItem from="1708676680074" duration="936000" />
       <workItem from="1708752311098" duration="6444000" />
       <workItem from="1708768241978" duration="3966000" />
-      <workItem from="1708860471558" duration="4103000" />
+      <workItem from="1708860471558" duration="6089000" />
+      <workItem from="1708869425139" duration="411000" />
+      <workItem from="1708878280105" duration="3707000" />
+      <workItem from="1708882100744" duration="94000" />
+      <workItem from="1708892468891" duration="1573000" />
     </task>
     <servers />
   </component>

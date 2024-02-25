@@ -1,76 +1,15 @@
-// SCROLL CATALOG
-function scrollCatalog() {
-
+function scrollFix() {
     if (window.innerWidth >= 1921 && window.innerWidth <= 2560) {
 
         window.scrollTo({
-            top: 1180,
+            top: 1250,
             behavior: 'smooth'
         });
     }
 
     if (window.innerWidth >= 1400 && window.innerWidth <= 1920) {
         window.scrollTo({
-            top: 1190,
-            behavior: 'smooth'
-        });
-    }
-
-    if (window.innerWidth >= 992 && window.innerWidth <= 1399) {
-
-        window.scrollTo({
-            top: 1220,
-            behavior: 'smooth'
-        });
-    }
-
-    if (window.innerWidth >= 768 && window.innerWidth <= 991){
-
-        window.scrollTo({
-            top: 1610,
-            behavior: 'smooth'
-        });
-    }
-
-    if (window.innerWidth >= 576 && window.innerWidth <= 767){
-
-        window.scrollTo({
-            top: 2250,
-            behavior: 'smooth'
-        });
-    }
-
-    if (window.innerWidth >= 424 && window.innerWidth <= 575){
-
-        window.scrollTo({
-            top: 2240,
-            behavior: 'smooth'
-        });
-    }
-
-    if (window.innerWidth >= 320 && window.innerWidth <= 423){
-
-        window.scrollTo({
-            top: 2060,
-            behavior: 'smooth'
-        });
-    }
-}
-
-// SCROLL CALC
-function scrollCalc() {
-
-    if (window.innerWidth >= 1921 && window.innerWidth <= 2550) {
-
-        window.scrollTo({
-            top: 1580,
-            behavior: 'smooth'
-        });
-    }
-
-    if (window.innerWidth >= 1400 && window.innerWidth <= 1920) {
-        window.scrollTo({
-            top: 1100,
+            top: 1240,
             behavior: 'smooth'
         });
     }
@@ -78,7 +17,7 @@ function scrollCalc() {
     if (window.innerWidth >= 1100 && window.innerWidth <= 1399) {
 
         window.scrollTo({
-            top: 1150,
+            top: 1280,
             behavior: 'smooth'
         });
     }
@@ -86,7 +25,7 @@ function scrollCalc() {
     if (window.innerWidth >= 992 && window.innerWidth <= 1099) {
 
         window.scrollTo({
-            top: 1050,
+            top: 1200,
             behavior: 'smooth'
         });
     }
@@ -95,7 +34,7 @@ function scrollCalc() {
     if (window.innerWidth >= 768 && window.innerWidth <= 991){
 
         window.scrollTo({
-            top: 1700,
+            top: 1900,
             behavior: 'smooth'
         });
 
@@ -104,7 +43,7 @@ function scrollCalc() {
     if (window.innerWidth >= 576 && window.innerWidth <= 767){
 
         window.scrollTo({
-            top: 3050,
+            top: 3150,
             behavior: 'smooth'
         });
 
@@ -113,7 +52,7 @@ function scrollCalc() {
     if (window.innerWidth >= 424 && window.innerWidth <= 575){
 
         window.scrollTo({
-            top: 2800,
+            top: 2900,
             behavior: 'smooth'
         });
     }
@@ -121,7 +60,7 @@ function scrollCalc() {
     if (window.innerWidth >= 320 && window.innerWidth <= 423){
 
         window.scrollTo({
-            top: 2450,
+            top: 2600,
             behavior: 'smooth'
         });
     }
@@ -129,7 +68,9 @@ function scrollCalc() {
 }
 
 
+
 // VALIDATION
+
 // modal-call
 document.getElementById('name_call').addEventListener('input', function () {
     this.value = this.value.replace(/[^A-Za-zА-Яа-яЁё\s]/g, '');
