@@ -2,14 +2,14 @@ function scrollFix() {
     if (window.innerWidth >= 1921 && window.innerWidth <= 2560) {
 
         window.scrollTo({
-            top: 1250,
+            top: 1550,
             behavior: 'smooth'
         });
     }
 
     if (window.innerWidth >= 1400 && window.innerWidth <= 1920) {
         window.scrollTo({
-            top: 1240,
+            top: 1600,
             behavior: 'smooth'
         });
     }
@@ -17,7 +17,7 @@ function scrollFix() {
     if (window.innerWidth >= 1100 && window.innerWidth <= 1399) {
 
         window.scrollTo({
-            top: 1900,
+            top: 1850,
             behavior: 'smooth'
         });
     }
@@ -25,7 +25,7 @@ function scrollFix() {
     if (window.innerWidth >= 992 && window.innerWidth <= 1099) {
 
         window.scrollTo({
-            top: 1900,
+            top: 1850,
             behavior: 'smooth'
         });
     }
