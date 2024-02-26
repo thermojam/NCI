@@ -2,14 +2,14 @@ function scrollFix() {
     if (window.innerWidth >= 1921 && window.innerWidth <= 2560) {
 
         window.scrollTo({
-            top: 1550,
+            top: 1450,
             behavior: 'smooth'
         });
     }
 
     if (window.innerWidth >= 1400 && window.innerWidth <= 1920) {
         window.scrollTo({
-            top: 1600,
+            top: 1500,
             behavior: 'smooth'
         });
     }
