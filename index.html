@@ -61,10 +61,10 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="#catalog">Каталог</a>
+                        <a class="nav-link" href="#calculation">Расчет</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" onclick="scrollFix()">Расчет</a>
+                        <a class="nav-link" href="#catalog">Каталог</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#review">Отзывы</a>
@@ -129,8 +129,8 @@
             <p class="main-description">Ваш выбор, наша ответственность </p>
             <p class="main-description-two">Заказ и доставка автомобилей, полное <br>
                 сопровождение от выбора до вручения ключей</p>
-            <div class="main-action"  onclick="scrollFix()">
-                <button class="main-button">Заказать автомобиль</button>
+            <div class="main-action">
+                <a href="#calculation"><button class="main-button">Заказать автомобиль</button></a>
             </div>
         </div>
     </div>
@@ -240,6 +240,88 @@
                 </div>
             </div>
         </div>
+
+    </div>
+</section>
+
+<section class="calculation" id="calculation">
+    <div class="container">
+        <h2 class="calculation-title text-center">Форма заказа автомобиля</h2>
+
+        <form action="https://formsubmit.co/ceo@ncimport.ru"
+              method="POST"
+              target="_blank">
+
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-12 mx-auto">
+                    <!-- Input 1 -->
+                    <div class="mb-4">
+                        <div class="d-flex align-items-center my-1">
+                            <svg width="30" height="30" viewBox="0 0 38 38" fill="none"
+                                 xmlns="http://www.w3.org/2000/svg">
+                                <path d="M33.3333 32.9416H4.16667V4.29265H33.3333M33.3333 0.199951H4.16667C3.0616 0.199951 2.00179 0.631145 1.22039 1.39868C0.438987 2.16621 0 3.2072 0 4.29265V32.9416C0 34.027 0.438987 35.068 1.22039 35.8355C2.00179 36.6031 3.0616 37.0343 4.16667 37.0343H33.3333C34.4384 37.0343 35.4982 36.6031 36.2796 35.8355C37.061 35.068 37.5 34.027 37.5 32.9416V4.29265C37.5 3.2072 37.061 2.16621 36.2796 1.39868C35.4982 0.631145 34.4384 0.199951 33.3333 0.199951ZM18.75 28.8489H22.9167V8.38536H14.5833V12.4781H18.75"
+                                      fill="#003F65"/>
+                            </svg>
+                            <p class="form-text my-2">Ваше имя</p>
+                        </div>
+                        <input type="text" class="form-control calculation-input" required placeholder="Имя"
+                               id="user_name"
+                               name="user_name">
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12 mx-auto">
+                    <!-- Input 2 -->
+                    <div class="mb-4">
+                        <div class="d-flex align-items-center my-1">
+                            <svg width="30" height="30" viewBox="0 0 38 38" fill="none"
+                                 xmlns="http://www.w3.org/2000/svg">
+                                <path d="M25 24.7562H16.6667V20.6635H20.8333C21.9384 20.6635 22.9982 20.2323 23.7796 19.4647C24.561 18.6972 25 17.6562 25 16.5708V12.4781C25 11.3926 24.561 10.3516 23.7796 9.58408C22.9982 8.81655 21.9384 8.38536 20.8333 8.38536H12.5V12.4781H20.8333V16.5708H16.6667C15.5616 16.5708 14.5018 17.002 13.7204 17.7695C12.939 18.537 12.5 19.578 12.5 20.6635V28.8489H25M33.3333 32.9416H4.16667V4.29265H33.3333M33.3333 0.199951H4.16667C3.0616 0.199951 2.00179 0.631145 1.22039 1.39868C0.438987 2.16621 0 3.2072 0 4.29265V32.9416C0 34.027 0.438987 35.068 1.22039 35.8355C2.00179 36.6031 3.0616 37.0343 4.16667 37.0343H33.3333C34.4384 37.0343 35.4982 36.6031 36.2796 35.8355C37.061 35.068 37.5 34.027 37.5 32.9416V4.29265C37.5 3.2072 37.061 2.16621 36.2796 1.39868C35.4982 0.631145 34.4384 0.199951 33.3333 0.199951Z"
+                                      fill="#003F65"/>
+                            </svg>
+                            <p class="form-text my-2">Ваш номер телефона</p>
+                        </div>
+                        <input type="text" class="form-control calculation-input" required
+                               placeholder="Номер телефона"
+                               id="mobile_phone" name="mobile_phone">
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12 mx-auto">
+                    <!-- Input 3 -->
+                    <div class="mb-4">
+                        <div class="d-flex align-items-center my-1">
+                            <svg width="30" height="30" viewBox="0 0 38 38" fill="none"
+                                 xmlns="http://www.w3.org/2000/svg">
+                                <path d="M25 24.7562V21.6866C25 20.8725 24.6708 20.0918 24.0847 19.5162C23.4987 18.9405 22.7038 18.6171 21.875 18.6171C22.7038 18.6171 23.4987 18.2937 24.0847 17.7181C24.6708 17.1424 25 16.3617 25 15.5476V12.4781C25 11.3926 24.561 10.3516 23.7796 9.58408C22.9982 8.81655 21.9384 8.38536 20.8333 8.38536H12.5V12.4781H20.8333V16.5708H16.6667V20.6635H20.8333V24.7562H12.5V28.8489H20.8333C21.9384 28.8489 22.9982 28.4177 23.7796 27.6501C24.561 26.8826 25 25.8416 25 24.7562ZM33.3333 32.9416H4.16667V4.29265H33.3333M33.3333 0.199951H4.16667C3.0616 0.199951 2.00179 0.631145 1.22039 1.39868C0.438987 2.16621 0 3.2072 0 4.29265V32.9416C0 34.027 0.438987 35.068 1.22039 35.8355C2.00179 36.6031 3.0616 37.0343 4.16667 37.0343H33.3333C34.4384 37.0343 35.4982 36.6031 36.2796 35.8355C37.061 35.068 37.5 34.027 37.5 32.9416V4.29265C37.5 3.2072 37.061 2.16621 36.2796 1.39868C35.4982 0.631145 34.4384 0.199951 33.3333 0.199951Z"
+                                      fill="#003F65"/>
+                            </svg>
+                            <p class="form-text my-2">Дополнительно</p>
+                        </div>
+                        <input type="text" class="form-control calculation-input" required
+                               placeholder="Марка, модель, год выпука авто"
+                               id="info" name="info">
+                    </div>
+                </div>
+
+                <input type="hidden" name="_cc" value="menskiyn@bk.ru">
+
+                <div class="col-lg-3 col-md-6 col-sm-12 mx-auto">
+                    <!-- Input 4 -->
+                    <div class="mb-4">
+                        <div class="d-flex align-items-center my-1">
+                            <svg width="30" height="30" viewBox="0 0 38 38" fill="none"
+                                 xmlns="http://www.w3.org/2000/svg">
+                                <path d="M33.3333 32.9416H4.16667V4.29265H33.3333M33.3333 0.199951H4.16667C3.0616 0.199951 2.00179 0.631145 1.22039 1.39868C0.438987 2.16621 0 3.2072 0 4.29265V32.9416C0 34.027 0.438987 35.068 1.22039 35.8355C2.00179 36.6031 3.0616 37.0343 4.16667 37.0343H33.3333C34.4384 37.0343 35.4982 36.6031 36.2796 35.8355C37.061 35.068 37.5 34.027 37.5 32.9416V4.29265C37.5 3.2072 37.061 2.16621 36.2796 1.39868C35.4982 0.631145 34.4384 0.199951 33.3333 0.199951ZM20.8333 28.8489H25V8.38535H20.8333V16.5708H16.6667V8.38535H12.5V20.6635H20.8333"
+                                      fill="#003F65"/>
+                            </svg>
+                            <p class="form-text my-2">Отправьте заявку</p>
+                        </div>
+                        <button type="submit" class="form-control calculation-button">Отправить заявку</button>
+                    </div>
+                </div>
+            </div>
+        </form>
 
     </div>
 </section>
@@ -10517,88 +10599,6 @@
                 </div>
             </div>
         </div>
-
-    </div>
-</section>
-
-<section class="calculation" id="calculation">
-    <div class="container">
-        <h2 class="calculation-title text-center">Форма запроса на другой автомобиль</h2>
-
-        <form action="https://formsubmit.co/ceo@ncimport.ru"
-              method="POST"
-              target="_blank">
-
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-12 mx-auto">
-                    <!-- Input 1 -->
-                    <div class="mb-4">
-                        <div class="d-flex align-items-center my-1">
-                            <svg width="30" height="30" viewBox="0 0 38 38" fill="none"
-                                 xmlns="http://www.w3.org/2000/svg">
-                                <path d="M33.3333 32.9416H4.16667V4.29265H33.3333M33.3333 0.199951H4.16667C3.0616 0.199951 2.00179 0.631145 1.22039 1.39868C0.438987 2.16621 0 3.2072 0 4.29265V32.9416C0 34.027 0.438987 35.068 1.22039 35.8355C2.00179 36.6031 3.0616 37.0343 4.16667 37.0343H33.3333C34.4384 37.0343 35.4982 36.6031 36.2796 35.8355C37.061 35.068 37.5 34.027 37.5 32.9416V4.29265C37.5 3.2072 37.061 2.16621 36.2796 1.39868C35.4982 0.631145 34.4384 0.199951 33.3333 0.199951ZM18.75 28.8489H22.9167V8.38536H14.5833V12.4781H18.75"
-                                      fill="#003F65"/>
-                            </svg>
-                            <p class="form-text my-2">Ваше имя</p>
-                        </div>
-                        <input type="text" class="form-control calculation-input" required placeholder="Имя"
-                               id="user_name"
-                               name="user_name">
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 col-sm-12 mx-auto">
-                    <!-- Input 2 -->
-                    <div class="mb-4">
-                        <div class="d-flex align-items-center my-1">
-                            <svg width="30" height="30" viewBox="0 0 38 38" fill="none"
-                                 xmlns="http://www.w3.org/2000/svg">
-                                <path d="M25 24.7562H16.6667V20.6635H20.8333C21.9384 20.6635 22.9982 20.2323 23.7796 19.4647C24.561 18.6972 25 17.6562 25 16.5708V12.4781C25 11.3926 24.561 10.3516 23.7796 9.58408C22.9982 8.81655 21.9384 8.38536 20.8333 8.38536H12.5V12.4781H20.8333V16.5708H16.6667C15.5616 16.5708 14.5018 17.002 13.7204 17.7695C12.939 18.537 12.5 19.578 12.5 20.6635V28.8489H25M33.3333 32.9416H4.16667V4.29265H33.3333M33.3333 0.199951H4.16667C3.0616 0.199951 2.00179 0.631145 1.22039 1.39868C0.438987 2.16621 0 3.2072 0 4.29265V32.9416C0 34.027 0.438987 35.068 1.22039 35.8355C2.00179 36.6031 3.0616 37.0343 4.16667 37.0343H33.3333C34.4384 37.0343 35.4982 36.6031 36.2796 35.8355C37.061 35.068 37.5 34.027 37.5 32.9416V4.29265C37.5 3.2072 37.061 2.16621 36.2796 1.39868C35.4982 0.631145 34.4384 0.199951 33.3333 0.199951Z"
-                                      fill="#003F65"/>
-                            </svg>
-                            <p class="form-text my-2">Ваш номер телефона</p>
-                        </div>
-                        <input type="text" class="form-control calculation-input" required
-                               placeholder="Номер телефона"
-                               id="mobile_phone" name="mobile_phone">
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 col-sm-12 mx-auto">
-                    <!-- Input 3 -->
-                    <div class="mb-4">
-                        <div class="d-flex align-items-center my-1">
-                            <svg width="30" height="30" viewBox="0 0 38 38" fill="none"
-                                 xmlns="http://www.w3.org/2000/svg">
-                                <path d="M25 24.7562V21.6866C25 20.8725 24.6708 20.0918 24.0847 19.5162C23.4987 18.9405 22.7038 18.6171 21.875 18.6171C22.7038 18.6171 23.4987 18.2937 24.0847 17.7181C24.6708 17.1424 25 16.3617 25 15.5476V12.4781C25 11.3926 24.561 10.3516 23.7796 9.58408C22.9982 8.81655 21.9384 8.38536 20.8333 8.38536H12.5V12.4781H20.8333V16.5708H16.6667V20.6635H20.8333V24.7562H12.5V28.8489H20.8333C21.9384 28.8489 22.9982 28.4177 23.7796 27.6501C24.561 26.8826 25 25.8416 25 24.7562ZM33.3333 32.9416H4.16667V4.29265H33.3333M33.3333 0.199951H4.16667C3.0616 0.199951 2.00179 0.631145 1.22039 1.39868C0.438987 2.16621 0 3.2072 0 4.29265V32.9416C0 34.027 0.438987 35.068 1.22039 35.8355C2.00179 36.6031 3.0616 37.0343 4.16667 37.0343H33.3333C34.4384 37.0343 35.4982 36.6031 36.2796 35.8355C37.061 35.068 37.5 34.027 37.5 32.9416V4.29265C37.5 3.2072 37.061 2.16621 36.2796 1.39868C35.4982 0.631145 34.4384 0.199951 33.3333 0.199951Z"
-                                      fill="#003F65"/>
-                            </svg>
-                            <p class="form-text my-2">Дополнительно</p>
-                        </div>
-                        <input type="text" class="form-control calculation-input" required
-                               placeholder="Марка, модель, год выпука авто"
-                               id="info" name="info">
-                    </div>
-                </div>
-
-                <input type="hidden" name="_cc" value="menskiyn@bk.ru">
-
-                <div class="col-lg-3 col-md-6 col-sm-12 mx-auto">
-                    <!-- Input 4 -->
-                    <div class="mb-4">
-                        <div class="d-flex align-items-center my-1">
-                            <svg width="30" height="30" viewBox="0 0 38 38" fill="none"
-                                 xmlns="http://www.w3.org/2000/svg">
-                                <path d="M33.3333 32.9416H4.16667V4.29265H33.3333M33.3333 0.199951H4.16667C3.0616 0.199951 2.00179 0.631145 1.22039 1.39868C0.438987 2.16621 0 3.2072 0 4.29265V32.9416C0 34.027 0.438987 35.068 1.22039 35.8355C2.00179 36.6031 3.0616 37.0343 4.16667 37.0343H33.3333C34.4384 37.0343 35.4982 36.6031 36.2796 35.8355C37.061 35.068 37.5 34.027 37.5 32.9416V4.29265C37.5 3.2072 37.061 2.16621 36.2796 1.39868C35.4982 0.631145 34.4384 0.199951 33.3333 0.199951ZM20.8333 28.8489H25V8.38535H20.8333V16.5708H16.6667V8.38535H12.5V20.6635H20.8333"
-                                      fill="#003F65"/>
-                            </svg>
-                            <p class="form-text my-2">Отправьте заявку</p>
-                        </div>
-                        <button type="submit" class="form-control calculation-button">Отправить заявку</button>
-                    </div>
-                </div>
-            </div>
-        </form>
 
     </div>
 </section>
