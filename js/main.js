@@ -123,7 +123,8 @@ let modalIDs = ['modalBMW_520d', 'modalBMW_330_G20', 'modalBMW_X6_x_drive40i_M_S
     'modalMercedes-Benz_GLE_350d', 'modalMercedes-Benz_E300e_4Matic', 'modalBMW_530d_xDrive_grey', 'modalBMW_320i_xDrive', 'modalMercedes-Benz_S350d_4MATIC',
     'modalBMW_X6_M50d_black', 'modalVolkswagen_Tuareg_black', 'modalBMW_750d_xDrive', 'modalBMW_X7_x_Drive40i', 'modalBMW_X6_x_Drive40i', 'modalVolvo_XC90_B6_Plus',
     'modalPorsche_Panamera_4', 'modalVolvo_XC40_B4', 'modalVolvo_S90', 'modalLexus_LX_570', 'modalLexus_RX_350', 'modalLexus_LX', 'modalRange_Rover_black',
-    'modalRange_Rover_Sport', 'modalLexus_NX', 'modalPorsche_Cayenne_black', 'modalBMW_840i_xDrive', 'modalRR_Velar', 'modalAudi_Q8_55TFSI', 'modalMercedes-Benz_GLS_450'];
+    'modalRange_Rover_Sport', 'modalLexus_NX', 'modalPorsche_Cayenne_black', 'modalBMW_840i_xDrive', 'modalRR_Velar', 'modalAudi_Q8_55TFSI', 'modalMercedes-Benz_GLS_450',
+    'modalJeep_Wrangler', 'modalJeep_Grand_Cherokee'];
 
 // Инициализация обработчика для каждого модального окна
 modalIDs.forEach(function (modalID) {
@@ -261,7 +262,8 @@ $(document).ready(function () {
         '#modalMercedes-Benz_GLE_350d', '#modalMercedes-Benz_E300e_4Matic', '#modalBMW_530d_xDrive_grey', '#modalBMW_320i_xDrive', '#modalMercedes-Benz_S350d_4MATIC',
         '#modalBMW_X6_M50d_black', '#modalVolkswagen_Tuareg_black', '#modalBMW_750d_xDrive', '#modalBMW_X7_x_Drive40i', '#modalBMW_X6_x_Drive40i', '#modalPorsche_Panamera_4',
         '#modalVolvo_XC90_B6_Plus', '#modalVolvo_XC40_B4', '#modalVolvo_S90', '#modalLexus_LX_570', '#modalLexus_RX_350', '#modalLexus_LX', '#modalRange_Rover_black',
-        '#modalRange_Rover_Sport', '#modalLexus_NX', '#modalPorsche_Cayenne_black', '#modalBMW_840i_xDrive', '#modalRR_Velar', '#modalAudi_Q8_55TFSI', '#modalMercedes-Benz_GLS_450'];
+        '#modalRange_Rover_Sport', '#modalLexus_NX', '#modalPorsche_Cayenne_black', '#modalBMW_840i_xDrive', '#modalRR_Velar', '#modalAudi_Q8_55TFSI', '#modalMercedes-Benz_GLS_450',
+        '#modalJeep_Wrangler', "#modalJeep_Grand_Cherokee"];
 
     // Перебор всех идентификаторов
     modalIds.forEach(function (modalId) {

@@ -214,6 +214,7 @@
 
 .calculation-button:hover {
     background: linear-gradient(90deg, #43A1D6 0%, #9BDBFD 50%, #3d71a9 100%);
+    color: #FFFFFF;
 }
 
 /*ALL-STYLES-SWIPER*/
@@ -335,6 +336,7 @@
 
 .order-btn:hover {
     background: linear-gradient(90deg, #43A1D6 0%, #9BDBFD 50%, #3d71a9 100%);
+    color: #FFFFFF;
 }
 
 .calc-btn {
@@ -355,6 +357,7 @@
 
 .calc-btn:hover {
     background: linear-gradient(90deg, #43A1D6 0%, #9BDBFD 50%, #3d71a9 100%);
+    color: #FFFFFF;
 }
 
 .modal-input {
