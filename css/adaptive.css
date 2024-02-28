@@ -735,6 +735,14 @@
 
 }
 
+/*366*/
+@media screen  and (max-width: 366px) {
+    .characteristics {
+        margin-left: 0 !important;
+        font-size: 11px;
+    }
+}
+
 /*320 - 374(XS)*/
 @media screen  and (max-width: 374px) {
     /*logo*/
