@@ -115,10 +115,10 @@ let modalIDs = ['modalBMW_520d', 'modalBMW_330_G20',
     'modalBMW_740d_xDrive-M_Sport', 'modalLand_Rover_Defender', 'modalMercedes-Benz_GLE_300d',
     'modalMercedes-Benz_E220d_Coupe', 'modalAudi_A8_60_TFSIe',
     'modalBMW_X5_xDrive45e_black', 'modalBMW_X3_xDrive_20i', 'modalAudi_Q7_55_TFSIe_S-LINE', 'modalPorsche_Cayenne_grey', 'modalVolkswagen_Tuareg',
-    'modalMercedes-Benz_GLE_350d', 'modalMercedes-Benz_E300e_4Matic', 'modalMercedes-Benz_S350d_4MATIC',
+    'modalMercedes-Benz_GLE_350de', 'modalMercedes-Benz_E300e_4Matic', 'modalMercedes-Benz_S350d_4MATIC',
     'modalBMW_X6_M50d_black', 'modalVolkswagen_Tuareg_black', 'modalBMW_750d_xDrive', 'modalBMW_X7_x_Drive40i', 'modalBMW_X6_x_Drive40i', 'modalVolvo_XC90_B6_Plus',
     'modalPorsche_Panamera_4', 'modalVolvo_XC40_B4', 'modalVolvo_S90', 'modalLexus_LX_570', 'modalLexus_RX_350', 'modalLexus_LX',
-    'modalRange_Rover_Sport', 'modalLexus_NX', 'modalPorsche_Cayenne_black', 'modalBMW_840i_xDrive', 'modalRR_Velar', 'modalAudi_Q8_55TFSI', 'modalMercedes-Benz_GLS_450',
+    'modalRange_Rover_Sport', 'modalLexus_NX', 'modalPorsche_Cayenne_black', 'modalBMW_840i_xDrive', 'Range_Rover_Velar', 'modalAudi_Q8_55TFSI', 'modalMercedes-Benz_GLS_450',
     'modalJeep_Wrangler', 'modalJeep_Grand_Cherokee', 'modalBMW_X6_White', 'modalMercedes-Benz_GLE_Black'];
 
 // Инициализация обработчика для каждого модального окна
@@ -254,10 +254,10 @@ $(document).ready(function () {
         '#modalBMW_740d_xDrive-M_Sport', '#modalLand_Rover_Defender', '#modalMercedes-Benz_GLE_300d',
         '#modalMercedes-Benz_E220d_Coupe', '#modalAudi_A8_60_TFSIe',
         '#modalBMW_X5_xDrive45e_black', '#modalBMW_X3_xDrive_20i', '#modalAudi_Q7_55_TFSIe_S-LINE', '#modalPorsche_Cayenne_grey', '#modalVolkswagen_Tuareg',
-        '#modalMercedes-Benz_GLE_350d', '#modalMercedes-Benz_E300e_4Matic', '#modalMercedes-Benz_S350d_4MATIC',
+        '#modalMercedes-Benz_GLE_350de', '#modalMercedes-Benz_E300e_4Matic', '#modalMercedes-Benz_S350d_4MATIC',
         '#modalBMW_X6_M50d_black', '#modalVolkswagen_Tuareg_black', '#modalBMW_750d_xDrive', '#modalBMW_X7_x_Drive40i', '#modalBMW_X6_x_Drive40i', '#modalPorsche_Panamera_4',
         '#modalVolvo_XC90_B6_Plus', '#modalVolvo_XC40_B4', '#modalVolvo_S90', '#modalLexus_LX_570', '#modalLexus_RX_350', '#modalLexus_LX',
-        '#modalRange_Rover_Sport', '#modalLexus_NX', '#modalPorsche_Cayenne_black', '#modalBMW_840i_xDrive', '#modalRR_Velar', '#modalAudi_Q8_55TFSI', '#modalMercedes-Benz_GLS_450',
+        '#modalRange_Rover_Sport', '#modalLexus_NX', '#modalPorsche_Cayenne_black', '#modalBMW_840i_xDrive', '#modalRange_Rover_Velar', '#modalAudi_Q8_55TFSI', '#modalMercedes-Benz_GLS_450',
         '#modalJeep_Wrangler', "#modalJeep_Grand_Cherokee", '#modalBMW_X6_White', '#modalMercedes-Benz_GLE_Black'];
 
     // Перебор всех идентификаторов
