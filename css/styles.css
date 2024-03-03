@@ -676,6 +676,8 @@
     color: #0A334C;
     font-family: Nunito-Regular, sans-serif;
     font-size: 20px;
+    text-decoration: none !important;
+    text-decoration-color: transparent !important;
 }
 
 .contacts-street {
@@ -708,9 +710,11 @@ iframe {
 }
 
 .street {
-    color: #ffffff;
+    color: #ffffff !important;
     font-family: Nunito-Medium, sans-serif;
     font-size: 14px;
+    text-decoration: none !important;
+    text-decoration-color: transparent !important;
 }
 
 .social-icons {
@@ -775,8 +779,9 @@ i:hover {
 }
 
 .call-contacts-info {
+    text-decoration: none !important;
     max-width: 110px;
-    color: #003F65;
+    color: #003F65 !important;
     font-family: Nunito-Medium, sans-serif;
     font-size: 12px;
 }

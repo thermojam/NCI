@@ -119,7 +119,7 @@ let modalIDs = ['modalBMW_520d', 'modalBMW_330_G20',
     'modalBMW_X6_M50d_black', 'modalVolkswagen_Tuareg_black', 'modalBMW_750d_xDrive', 'modalBMW_X7_x_Drive40i', 'modalBMW_X6_x_Drive40i', 'modalVolvo_XC90_B6_Plus',
     'modalPorsche_Panamera_4', 'modalVolvo_XC40_B4', 'modalVolvo_S90', 'modalLexus_LX_570', 'modalLexus_RX_350', 'modalLexus_LX',
     'modalRange_Rover_Sport', 'modalLexus_NX', 'modalPorsche_Cayenne_black', 'modalBMW_840i_xDrive', 'Range_Rover_Velar', 'modalAudi_Q8_55TFSI', 'modalMercedes-Benz_GLS_450',
-    'modalJeep_Wrangler', 'modalJeep_Grand_Cherokee', 'modalBMW_X6_White', 'modalMercedes-Benz_GLE_Black'];
+    'modalJeep_Wrangler', 'modalJeep_Grand_Cherokee', 'modalBMW_X6_White', 'modalMercedes-Benz_GLE_Black', 'modalChevrolet_Tahoe', 'modalBMW_X5_xDrive40i_2024'];
 
 // Инициализация обработчика для каждого модального окна
 modalIDs.forEach(function (modalID) {
@@ -258,7 +258,7 @@ $(document).ready(function () {
         '#modalBMW_X6_M50d_black', '#modalVolkswagen_Tuareg_black', '#modalBMW_750d_xDrive', '#modalBMW_X7_x_Drive40i', '#modalBMW_X6_x_Drive40i', '#modalPorsche_Panamera_4',
         '#modalVolvo_XC90_B6_Plus', '#modalVolvo_XC40_B4', '#modalVolvo_S90', '#modalLexus_LX_570', '#modalLexus_RX_350', '#modalLexus_LX',
         '#modalRange_Rover_Sport', '#modalLexus_NX', '#modalPorsche_Cayenne_black', '#modalBMW_840i_xDrive', '#modalRange_Rover_Velar', '#modalAudi_Q8_55TFSI', '#modalMercedes-Benz_GLS_450',
-        '#modalJeep_Wrangler', "#modalJeep_Grand_Cherokee", '#modalBMW_X6_White', '#modalMercedes-Benz_GLE_Black'];
+        '#modalJeep_Wrangler', "#modalJeep_Grand_Cherokee", '#modalBMW_X6_White', '#modalMercedes-Benz_GLE_Black', '#modalChevrolet_Tahoe', '#modalBMW_X5_xDrive40i_2024'];
 
     // Перебор всех идентификаторов
     modalIds.forEach(function (modalId) {
