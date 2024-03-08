@@ -6,29 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Offer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/adaptive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adaptive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Chevrolet_Tahoe/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Chevrolet_Tahoe/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Chevrolet_Tahoe/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Chevrolet_Tahoe/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Chevrolet_Tahoe/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Chevrolet_Tahoe/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_LX_570/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_LX_570/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_LX_570/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_LX_570/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_LX_570/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_LX_570/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_RX_350/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_RX_350/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_RX_350/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_RX_350/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_RX_350/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_RX_350/side.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,7 +270,7 @@
       <workItem from="1709756440386" duration="2531000" />
       <workItem from="1709805385532" duration="440000" />
       <workItem from="1709837138415" duration="1186000" />
-      <workItem from="1709875109950" duration="5765000" />
+      <workItem from="1709875109950" duration="6737000" />
     </task>
     <servers />
   </component>
