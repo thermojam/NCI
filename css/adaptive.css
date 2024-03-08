@@ -441,7 +441,7 @@
         font-size: 18px;
     }
 
-    .thumbnail-slider .swiper-slide {
+    .thumbnail-slider>.swiper-slide {
         max-width: 70px;
         max-height: 70px;
     }

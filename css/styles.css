@@ -786,3 +786,37 @@ i:hover {
     font-size: 12px;
 }
 
+/*Стили для контейнера с изображением проданого авто*/
+.sold-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background: linear-gradient(
+            rgba(3, 48, 70, 0.96),
+            transparent
+    ),
+    linear-gradient(
+            90deg,
+            rgba(1, 21, 31, 0.44),
+            transparent
+    ),
+    linear-gradient(
+            -90deg,
+            rgba(211, 211, 211, 0.65),
+            transparent
+    );
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Evolventa-BoldOblique, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+
