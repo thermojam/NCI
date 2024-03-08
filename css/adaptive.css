@@ -124,6 +124,14 @@
         max-height: 560px;
     }
 
+    .characteristics {
+        font-size: 10px;
+    }
+
+    .col-4 {
+        width: 25% !important;
+    }
+
     /*swiper*/
     .swiper-button-next {
         right: 45%;
@@ -188,10 +196,6 @@
         padding-right: 10px !important;
     }
 
-    .characteristics {
-        font-size: 12px;
-    }
-
     .characteristics-title {
         font-size: 12px;
     }
@@ -247,6 +251,10 @@
     .scrollable-content::-webkit-scrollbar-thumb,
     .scrollable-content::-webkit-scrollbar-track {
         display: none;
+    }
+
+    .characteristics {
+        font-size: 10px;
     }
 }
 
@@ -316,6 +324,7 @@
 
     .characteristics {
         margin-left: 10px;
+        font-size: 12px;
     }
 
     .scrollable-content {
