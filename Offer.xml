@@ -132,7 +132,7 @@
             <year>2020</year>
             <price>72690</price>
             <currency>EUR</currency>
-            <vin>000007</vin>
+            <vin>000006</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_300d/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_300d/in.png</image>
@@ -155,7 +155,7 @@
             <year>2020</year>
             <price>53140</price>
             <currency>EUR</currency>
-            <vin>000008</vin>
+            <vin>000007</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_E220d_Coupe/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_E220d_Coupe/in.png</image>
@@ -178,7 +178,7 @@
             <year>2020</year>
             <price>75845</price>
             <currency>EUR</currency>
-            <vin>000009</vin>
+            <vin>000008</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Audi_A8_60_TFSIe/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/Audi_A8_60_TFSIe/in.png</image>
@@ -201,7 +201,7 @@
             <year>2020</year>
             <price>65300</price>
             <currency>EUR</currency>
-            <vin>0000010</vin>
+            <vin>000009</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_X5_xDrive45e_black/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_X5_xDrive45e_black/in.png</image>
@@ -224,7 +224,7 @@
             <year>2020</year>
             <price>45120</price>
             <currency>EUR</currency>
-            <vin>0000011</vin>
+            <vin>0000010</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_X3_xDrive_20i/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_X3_xDrive_20i/in.png</image>
@@ -247,7 +247,7 @@
             <year>2020</year>
             <price>77155</price>
             <currency>EUR</currency>
-            <vin>0000012</vin>
+            <vin>0000011</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Audi_Q7_55_TFSIe_S-LINE/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/Audi_Q7_55_TFSIe_S-LINE/in.png</image>
@@ -270,7 +270,7 @@
             <year>2020</year>
             <price>95390</price>
             <currency>EUR</currency>
-            <vin>0000013</vin>
+            <vin>0000012</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Porsche_Cayenne_grey/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/Porsche_Cayenne_grey/in.png</image>
@@ -293,7 +293,7 @@
             <year>2020</year>
             <price>68220</price>
             <currency>EUR</currency>
-            <vin>0000014</vin>
+            <vin>0000013</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350de/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350de/in.png</image>
@@ -316,7 +316,7 @@
             <year>2020</year>
             <price>50650</price>
             <currency>EUR</currency>
-            <vin>0000016</vin>
+            <vin>0000014</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_E300e_4Matic/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_E300e_4Matic/in.png</image>
@@ -339,7 +339,7 @@
             <year>2019</year>
             <price>69720</price>
             <currency>EUR</currency>
-            <vin>0000020</vin>
+            <vin>0000015</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_750d_xDrive/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_750d_xDrive/in.png</image>
@@ -362,7 +362,7 @@
             <year>2020</year>
             <price>77790</price>
             <currency>USD</currency>
-            <vin>0000022</vin>
+            <vin>0000016</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_X6_x_Drive40i/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_X6_x_Drive40i/in.png</image>
@@ -385,7 +385,7 @@
             <year>2020</year>
             <price>90580</price>
             <currency>USD</currency>
-            <vin>0000024</vin>
+            <vin>0000017</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Porsche_Panamera_4/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/Porsche_Panamera_4/in.png</image>
@@ -409,7 +409,7 @@
             <year>2023</year>
             <price>69250</price>
             <currency>USD</currency>
-            <vin>0000025</vin>
+            <vin>0000018</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
 
@@ -430,7 +430,7 @@
             <year>2023</year>
             <price>87040</price>
             <currency>USD</currency>
-            <vin>0000026</vin>
+            <vin>0000019</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
 
@@ -451,7 +451,7 @@
             <year>2023</year>
             <price>193435</price>
             <currency>USD</currency>
-            <vin>0000029</vin>
+            <vin>0000020</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
 
@@ -472,7 +472,7 @@
             <year>2023</year>
             <price>153600</price>
             <currency>USD</currency>
-            <vin>0000030</vin>
+            <vin>0000021</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
 
@@ -492,7 +492,7 @@
             <year>2020</year>
             <price>80595</price>
             <currency>USD</currency>
-            <vin>0000032</vin>
+            <vin>0000022</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Porsche_Cayenne_black/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/Porsche_Cayenne_black/in.png</image>
@@ -515,7 +515,7 @@
             <year>2020</year>
             <price>75430</price>
             <currency>USD</currency>
-            <vin>0000033</vin>
+            <vin>0000023</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_840i_xDrive/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_840i_xDrive/in.png</image>
@@ -539,31 +539,8 @@
             <year>2023</year>
             <price>114250</price>
             <currency>USD</currency>
-            <vin>0000034</vin>
+            <vin>0000024</vin>
             <owners_number>Не было владельцев</owners_number>
-        </car>
-
-        <car>
-            <!--Audi Q8 55TFSI-->
-            <mark_id>Audi</mark_id>
-            <folder_id>Q8 55TFSI, I (4M)</folder_id>
-            <modification_id>3.0 АТ (335 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_Q8_55TFSI</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>35353</run>
-            <year>2020</year>
-            <price>70290</price>
-            <currency>USD</currency>
-            <vin>0000035</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI/in.png</image>
-            </images>
         </car>
 
         <car>
@@ -583,7 +560,7 @@
             <year>2023</year>
             <price>94160</price>
             <currency>USD</currency>
-            <vin>0000037</vin>
+            <vin>0000025</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
 
@@ -604,7 +581,7 @@
             <year>2023</year>
             <price>120220</price>
             <currency>USD</currency>
-            <vin>0000039</vin>
+            <vin>0000026</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
 
@@ -625,7 +602,7 @@
             <year>2024</year>
             <price>113815</price>
             <currency>USD</currency>
-            <vin>0000040</vin>
+            <vin>0000027</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
 
@@ -646,7 +623,7 @@
             <year>2024</year>
             <price>102230</price>
             <currency>USD</currency>
-            <vin>0000042</vin>
+            <vin>0000028</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
 
@@ -667,7 +644,7 @@
             <year>2024</year>
             <price>129540</price>
             <currency>USD</currency>
-            <vin>0000043</vin>
+            <vin>0000029</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
 

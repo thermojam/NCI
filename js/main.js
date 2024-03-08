@@ -133,7 +133,7 @@ let modalIDs = ['modalBMW_520d', 'modalBMW_330_G20',
     'modalMercedes-Benz_GLE_350de', 'modalMercedes-Benz_E300e_4Matic',
     'modalBMW_750d_xDrive', 'modalBMW_X6_x_Drive40i',
     'modalPorsche_Panamera_4', 'modalVolvo_XC40_B4', 'modalVolvo_S90', 'modalLexus_LX',
-    'modalRange_Rover_Sport', 'modalPorsche_Cayenne_black', 'modalBMW_840i_xDrive', 'Range_Rover_Velar', 'modalAudi_Q8_55TFSI',
+    'modalRange_Rover_Sport', 'modalPorsche_Cayenne_black', 'modalBMW_840i_xDrive', 'Range_Rover_Velar',
     'modalJeep_Wrangler', 'modalBMW_X6_White', 'modalMercedes-Benz_GLE_Black', 'modalBMW_X5_xDrive40i_2024', 'modalCadillac_Escalade'];
 
 // Инициализация обработчика для каждого модального окна
@@ -272,7 +272,7 @@ $(document).ready(function () {
         '#modalMercedes-Benz_GLE_350de', '#modalMercedes-Benz_E300e_4Matic',
         '#modalBMW_750d_xDrive', '#modalBMW_X6_x_Drive40i', '#modalPorsche_Panamera_4',
         '#modalVolvo_XC40_B4', '#modalVolvo_S90', '#modalLexus_LX',
-        '#modalRange_Rover_Sport', '#modalPorsche_Cayenne_black', '#modalBMW_840i_xDrive', '#modalRange_Rover_Velar', '#modalAudi_Q8_55TFSI',
+        '#modalRange_Rover_Sport', '#modalPorsche_Cayenne_black', '#modalBMW_840i_xDrive', '#modalRange_Rover_Velar',
         '#modalJeep_Wrangler', '#modalBMW_X6_White', '#modalMercedes-Benz_GLE_Black', '#modalBMW_X5_xDrive40i_2024', '#modalCadillac_Escalade'];
 
     // Перебор всех идентификаторов
