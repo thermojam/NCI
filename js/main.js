@@ -125,11 +125,11 @@ swiper2.controller.control = swiper1;
 
 
 // PRELOAD MODAL SLIDERS
-let modalIDs = ['modalBMW_520d', 'modalBMW_330_G20',
+let modalIDs = [
     'modalMercedes-Benz_AMG_GT43', 'modalMercedes-Benz_S500_4M',
     'modalBMW_740d_xDrive-M_Sport', 'modalMercedes-Benz_GLE_300d',
     'modalMercedes-Benz_E220d_Coupe', 'modalAudi_A8_60_TFSIe',
-    'modalBMW_X3_xDrive_20i', 'modalAudi_Q7_55_TFSIe_S-LINE', 'modalPorsche_Cayenne_grey',
+    'modalAudi_Q7_55_TFSIe_S-LINE', 'modalPorsche_Cayenne_grey',
     'modalBMW_750d_xDrive', 'modalBMW_X6_x_Drive40i',
     'modalPorsche_Panamera_4', 'modalVolvo_XC40_B4', 'modalVolvo_S90', 'modalLexus_LX',
     'modalRange_Rover_Sport', 'modalPorsche_Cayenne_black', 'modalBMW_840i_xDrive', 'Range_Rover_Velar',
@@ -263,11 +263,11 @@ let swiper6 = new Swiper("#swiper6", {
 //Modal URL !!!
 $(document).ready(function () {
     // Список идентификаторов модальных окон
-    let modalIds = ['#modalBMW_520d', '#modalBMW_330_G20',
+    let modalIds = [
         '#modalMercedes-Benz_AMG_GT43', '#modalMercedes-Benz_S500_4M',
         '#modalBMW_740d_xDrive-M_Sport', '#modalMercedes-Benz_GLE_300d',
         '#modalMercedes-Benz_E220d_Coupe', '#modalAudi_A8_60_TFSIe',
-        '#modalBMW_X3_xDrive_20i', '#modalAudi_Q7_55_TFSIe_S-LINE', '#modalPorsche_Cayenne_grey',
+        '#modalAudi_Q7_55_TFSIe_S-LINE', '#modalPorsche_Cayenne_grey',
         '#modalBMW_750d_xDrive', '#modalBMW_X6_x_Drive40i', '#modalPorsche_Panamera_4',
         '#modalVolvo_XC40_B4', '#modalVolvo_S90', '#modalLexus_LX',
         '#modalRange_Rover_Sport', '#modalPorsche_Cayenne_black', '#modalBMW_840i_xDrive', '#modalRange_Rover_Velar',
