@@ -133,7 +133,8 @@ let modalIDs = [
     'modalBMW_750d_xDrive', 'modalBMW_X6_x_Drive40i',
     'modalPorsche_Panamera_4', 'modalVolvo_XC40_B4', 'modalVolvo_S90',
     'modalRange_Rover_Sport', 'modalPorsche_Cayenne_black', 'modalBMW_840i_xDrive', 'Range_Rover_Velar',
-    'modalJeep_Wrangler', 'modalMercedes-Benz_GLE_Black', 'modalBMW_X5_xDrive40i_2024', 'modalCadillac_Escalade'];
+    'modalJeep_Wrangler', 'modalMercedes-Benz_GLE_Black', 'modalBMW_X5_xDrive40i_2024', 'modalCadillac_Escalade',
+    'modalPorsche_Cayenne_023', 'modalPorsche_Cayenne_024', 'modalPorsche_Panamera_025', 'modalPorsche_Panamera_026'];
 
 // Инициализация обработчика для каждого модального окна
 modalIDs.forEach(function (modalID) {
@@ -271,7 +272,8 @@ $(document).ready(function () {
         '#modalBMW_750d_xDrive', '#modalBMW_X6_x_Drive40i', '#modalPorsche_Panamera_4',
         '#modalVolvo_XC40_B4', '#modalVolvo_S90',
         '#modalRange_Rover_Sport', '#modalPorsche_Cayenne_black', '#modalBMW_840i_xDrive', '#modalRange_Rover_Velar',
-        '#modalJeep_Wrangler', '#modalMercedes-Benz_GLE_Black', '#modalBMW_X5_xDrive40i_2024', '#modalCadillac_Escalade'];
+        '#modalJeep_Wrangler', '#modalMercedes-Benz_GLE_Black', '#modalBMW_X5_xDrive40i_2024', '#modalCadillac_Escalade',
+        '#modalPorsche_Cayenne_023', '#modalPorsche_Cayenne_023', '#modalPorsche_Panamera_025', '#modalPorsche_Panamera_026'];
 
     // Перебор всех идентификаторов
     modalIds.forEach(function (modalId) {

@@ -355,7 +355,7 @@
             <owners_number>один владелец</owners_number>
             <run>43529</run>
             <year>2020</year>
-            <price>75430</price>
+            <price>79630</price>
             <currency>USD</currency>
             <vin>0000017</vin>
             <images>
@@ -467,6 +467,98 @@
             <currency>USD</currency>
             <vin>0000022</vin>
             <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--Porsche Cayenne-->
+            <mark_id>Porsche</mark_id>
+            <folder_id>Cayenne, III</folder_id>
+            <modification_id>3.0 АТ (335 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalPorsche_Cayenne_023</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>23522</run>
+            <year>2020</year>
+            <price>76200</price>
+            <currency>USD</currency>
+            <vin>0000023</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_023/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_023/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Porsche Cayenne-->
+            <mark_id>Porsche</mark_id>
+            <folder_id>Cayenne, III</folder_id>
+            <modification_id>3.0 АТ (335 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalPorsche_Cayenne_024</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>85090</run>
+            <year>2020</year>
+            <price>66300</price>
+            <currency>USD</currency>
+            <vin>0000024</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_024/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_024/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Porsche Panamera-->
+            <mark_id>Porsche</mark_id>
+            <folder_id>Panamera, II</folder_id>
+            <modification_id>3.0 АТ (330 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalPorsche_Panamera_025</url>
+            <body_type>лифтбек</body_type>
+            <color>синий</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>48141</run>
+            <year>2020</year>
+            <price>88950</price>
+            <currency>USD</currency>
+            <vin>0000025</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Porsche_Panamera_025/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Porsche_Panamera_025/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Porsche Panamera-->
+            <mark_id>Porsche</mark_id>
+            <folder_id>Panamera, II</folder_id>
+            <modification_id>3.0 АТ (330 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalPorsche_Panamera_026</url>
+            <body_type>лифтбек</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>90 905</run>
+            <year>2020</year>
+            <price>82200</price>
+            <currency>USD</currency>
+            <vin>0000026</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Porsche_Panamera_026/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Porsche_Panamera_026/in.png</image>
+            </images>
         </car>
 
     </cars>
