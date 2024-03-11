@@ -298,27 +298,6 @@
         </car>
 
         <car>
-            <!--New Lexus LX-->
-            <mark_id>Lexus</mark_id>
-            <folder_id>LX, IV</folder_id>
-            <modification_id>3.4 АТ (409 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalLexus_LX</url>
-            <images>
-                <image>https://ncimport.ru/images/cars/Lexus_LX/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Lexus_LX/in.png</image>
-            </images>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <year>2023</year>
-            <price>193435</price>
-            <currency>USD</currency>
-            <vin>0000014</vin>
-            <owners_number>Не было владельцев</owners_number>
-        </car>
-
-        <car>
             <!--New Range Rover Sport-->
             <mark_id>Range Rover</mark_id>
             <folder_id>Sport, III</folder_id>
