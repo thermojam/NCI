@@ -550,7 +550,7 @@
             <custom>растаможен</custom>
             <state>отличное</state>
             <owners_number>один владелец</owners_number>
-            <run>90 905</run>
+            <run>90905</run>
             <year>2020</year>
             <price>82200</price>
             <currency>USD</currency>
@@ -558,6 +558,237 @@
             <images>
                 <image>https://ncimport.ru/images/cars/Porsche_Panamera_026/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/Porsche_Panamera_026/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Audi A8 Long 55TFSI-->
+            <mark_id>Audi</mark_id>
+            <folder_id>A8 Long 55TFS, IV (D5)</folder_id>
+            <modification_id>3.0 АТ (335 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalAudi_A8_Long_55TFSI</url>
+            <body_type>седан</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>56540</run>
+            <year>2021</year>
+            <price>76780</price>
+            <currency>USD</currency>
+            <vin>0000027</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Audi A8 Long 55TFSI-->
+            <mark_id>Audi</mark_id>
+            <folder_id>A8 Long 55TFS, IV (D5)</folder_id>
+            <modification_id>3.0 АТ (335 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalAudi_A8_Long_55TFSI_028</url>
+            <body_type>седан</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>30674</run>
+            <year>2020</year>
+            <price>70220</price>
+            <currency>USD</currency>
+            <vin>0000028</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI_028/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI_028/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Audi Q7 45 TFSI-->
+            <mark_id>Audi</mark_id>
+            <folder_id>Q7 45 TFSI, II (4M) Рестайлинг</folder_id>
+            <modification_id>2.0 АТ (248 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalAudi_Q7_45_TFSI</url>
+            <body_type> внедорожник 5 дв.</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>36487</run>
+            <year>2021</year>
+            <price>56900</price>
+            <currency>USD</currency>
+            <vin>0000029</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Audi Q7 45 TFSI-->
+            <mark_id>Audi</mark_id>
+            <folder_id>Q7 45 TFSI, II (4M) Рестайлинг</folder_id>
+            <modification_id>2.0 АТ (248 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalAudi_Q7_45_TFSI_030</url>
+            <body_type> внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>93760</run>
+            <year>2020</year>
+            <price>48000</price>
+            <currency>USD</currency>
+            <vin>0000030</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_030/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_030/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Audi Q8 55 TFSI-->
+            <mark_id>Audi</mark_id>
+            <folder_id>Q8 55 TFSI,  I (4M)</folder_id>
+            <modification_id>3.0 АТ (335 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalAudi_Q8_55_TFSI</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>72245</run>
+            <year>2020</year>
+            <price>67200</price>
+            <currency>USD</currency>
+            <vin>0000031</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Audi Q8 55 TFSI-->
+            <mark_id>Audi</mark_id>
+            <folder_id>Q8 55 TFSI, I (4M)</folder_id>
+            <modification_id>3.0 АТ (335 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalAudi_Q8_55_TFSI_032</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>45389</run>
+            <year>2021</year>
+            <price>75700</price>
+            <currency>USD</currency>
+            <vin>0000032</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI_032/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI_032/in.png</image>
+            </images>
+        </car>
+
+
+        <car>
+            <!--Range Rover-->
+            <mark_id>Range Rover</mark_id>
+            <folder_id>IV Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (395 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalRange_Rover_033</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>44985</run>
+            <year>2020</year>
+            <price>83900</price>
+            <currency>USD</currency>
+            <vin>0000033</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Range_Rover_033/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_033/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Range Rover-->
+            <mark_id>Range Rover</mark_id>
+            <folder_id>IV Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (395 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalRange_Rover_034</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>93719</run>
+            <year>2020</year>
+            <price>72380</price>
+            <currency>USD</currency>
+            <vin>0000034</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Range_Rover_034/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_034/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Range Rover Sport-->
+            <mark_id>Range Rover</mark_id>
+            <folder_id>Sport, II Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (355 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalRange_Rover_Sport_035</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>36433</run>
+            <year>2020</year>
+            <price>72890</price>
+            <currency>USD</currency>
+            <vin>0000035</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Sport_035/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Sport_035/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Range Rover Sport-->
+            <mark_id>Range Rover</mark_id>
+            <folder_id>Sport, II Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (355 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalRange_Rover_Sport_036</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>91963</run>
+            <year>2020</year>
+            <price>62580</price>
+            <currency>USD</currency>
+            <vin>0000036</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Sport_036/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Sport_036/in.png</image>
             </images>
         </car>
 
