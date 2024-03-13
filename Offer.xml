@@ -792,5 +792,120 @@
             </images>
         </car>
 
+        <car>
+            <!--Mercedes-Benz AMG GT53-->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>AMG GT53, I Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (429 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMercedes-Benz_AMG_GT53_037</url>
+            <body_type>лифтбек</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>41012</run>
+            <year>2019</year>
+            <price>98980</price>
+            <currency>USD</currency>
+            <vin>0000037</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT53_037/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT53_037/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Mercedes-Benz GLE 350-->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLE 350, II (V167)</folder_id>
+            <modification_id>2.0 АТ (255 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMercedes-Benz_GLE_350_038</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>92066</run>
+            <year>2019</year>
+            <price>53900</price>
+            <currency>USD</currency>
+            <vin>0000038</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_038/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_038/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Mercedes-Benz GLE 350-->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLE 350, II (V167)</folder_id>
+            <modification_id>2.0 АТ (255 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMercedes-Benz_GLE_350_039</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>47439</run>
+            <year>2019</year>
+            <price>62510</price>
+            <currency>USD</currency>
+            <vin>0000039</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_039/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_039/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Mercedes-Benz GLS 450-->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLS 450, II (X167)</folder_id>
+            <modification_id>3.0 АТ (362 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMercedes-Benz_GLS_450_040</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>29755</run>
+            <year>2020</year>
+            <price>82290</price>
+            <currency>USD</currency>
+            <vin>0000040</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_040/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_040/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--Mercedes-Benz GLS 450-->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLS 450, II (X167)</folder_id>
+            <modification_id>3.0 АТ (362 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMercedes-Benz_GLS_450_041</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>93216</run>
+            <year>2019</year>
+            <price>70200</price>
+            <currency>USD</currency>
+            <vin>0000041</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_041/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_041/in.png</image>
+            </images>
+        </car>
+
     </cars>
 </data>

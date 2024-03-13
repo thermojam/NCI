@@ -136,7 +136,9 @@ let modalIDs = [
     'modalJeep_Wrangler', 'modalMercedes-Benz_GLE_Black', 'modalBMW_X5_xDrive40i_2024', 'modalCadillac_Escalade',
     'modalPorsche_Cayenne_023', 'modalPorsche_Cayenne_024', 'modalPorsche_Panamera_025', 'modalPorsche_Panamera_026',
     'modalAudi_A8_Long_55TFSI', 'modalAudi_A8_Long_55TFSI_028', 'modalAudi_Q7_45_TFSI', 'modalAudi_Q7_45_TFSI_030', 'modalAudi_Q8_55_TFSI',
-    'modalAudi_Q8_55_TFSI_032', 'modalRange_Rover_033', 'modalRange_Rover_034', 'modalRange_Rover_Sport_035', 'modalRange_Rover_Sport_036'];
+    'modalAudi_Q8_55_TFSI_032', 'modalRange_Rover_033', 'modalRange_Rover_034', 'modalRange_Rover_Sport_035', 'modalRange_Rover_Sport_036',
+    'modalMercedes-Benz_AMG_GT53_037', 'modalMercedes-Benz_GLE_350_038', 'modalMercedes-Benz_GLE_350_039', 'modalMercedes-Benz_GLS_450_040',
+    'modalMercedes-Benz_GLS_450_041'];
 
 // Инициализация обработчика для каждого модального окна
 modalIDs.forEach(function (modalID) {
@@ -277,7 +279,9 @@ $(document).ready(function () {
         '#modalJeep_Wrangler', '#modalMercedes-Benz_GLE_Black', '#modalBMW_X5_xDrive40i_2024', '#modalCadillac_Escalade',
         '#modalPorsche_Cayenne_023', '#modalPorsche_Cayenne_023', '#modalPorsche_Panamera_025', '#modalPorsche_Panamera_026',
         '#modalAudi_A8_Long_55TFSI', '#modalAudi_A8_Long_55TFSI_028', '#modalAudi_Q7_45_TFSI', '#modalAudi_Q7_45_TFSI_030', '#modalAudi_Q8_55_TFSI',
-        '#modalAudi_Q8_55_TFSI_032', '#modalRange_Rover_033', '#modalRange_Rover_034', '#modalRange_Rover_Sport_035', '#modalRange_Rover_Sport_036'];
+        '#modalAudi_Q8_55_TFSI_032', '#modalRange_Rover_033', '#modalRange_Rover_034', '#modalRange_Rover_Sport_035', '#modalRange_Rover_Sport_036',
+        '#modalMercedes-Benz_AMG_GT53_037', '#modalMercedes-Benz_GLE_350_038', '#modalMercedes-Benz_GLE_350_039', '#modalMercedes-Benz_GLS_450_040',
+        '#modalMercedes-Benz_GLS_450_041'];
 
     // Перебор всех идентификаторов
     modalIds.forEach(function (modalId) {
