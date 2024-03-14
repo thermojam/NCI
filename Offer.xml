@@ -613,7 +613,7 @@
             <folder_id>Q7 45 TFSI, II (4M) Рестайлинг</folder_id>
             <modification_id>2.0 АТ (248 л.с.)</modification_id>
             <url>https://ncimport.ru/#modalAudi_Q7_45_TFSI</url>
-            <body_type> внедорожник 5 дв.</body_type>
+            <body_type>внедорожник 5 дв.</body_type>
             <color>серый</color>
             <availability>на заказ</availability>
             <custom>растаможен</custom>
@@ -636,7 +636,7 @@
             <folder_id>Q7 45 TFSI, II (4M) Рестайлинг</folder_id>
             <modification_id>2.0 АТ (248 л.с.)</modification_id>
             <url>https://ncimport.ru/#modalAudi_Q7_45_TFSI_030</url>
-            <body_type> внедорожник 5 дв.</body_type>
+            <body_type>внедорожник 5 дв.</body_type>
             <color>черный</color>
             <availability>на заказ</availability>
             <custom>растаможен</custom>
@@ -656,7 +656,7 @@
         <car>
             <!--Audi Q8 55 TFSI-->
             <mark_id>Audi</mark_id>
-            <folder_id>Q8 55 TFSI,  I (4M)</folder_id>
+            <folder_id>Q8 55 TFSI, I (4M)</folder_id>
             <modification_id>3.0 АТ (335 л.с.)</modification_id>
             <url>https://ncimport.ru/#modalAudi_Q8_55_TFSI</url>
             <body_type>внедорожник 5 дв.</body_type>
@@ -904,6 +904,190 @@
             <images>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_041/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_041/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--BMW 740i xDrive-->
+            <mark_id>BMW</mark_id>
+            <folder_id>740i xDrive, VI (G11/G12) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (340 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW_740i_xDrive_042</url>
+            <body_type>седан</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>43848</run>
+            <year>2020</year>
+            <price>67900</price>
+            <currency>USD</currency>
+            <vin>0000042</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_042/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_042/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--BMW 740i xDrive-->
+            <mark_id>BMW</mark_id>
+            <folder_id>740i xDrive, VI (G11/G12) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (340 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW_740i_xDrive_043</url>
+            <body_type>седан</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>47786</run>
+            <year>2021</year>
+            <price>73500</price>
+            <currency>USD</currency>
+            <vin>0000043</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_043/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_043/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--BMW X5 xDrive40i-->
+            <mark_id>BMW</mark_id>
+            <folder_id>X5 xDrive40i, IV (G05)</folder_id>
+            <modification_id>3.0 АТ (340 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW_X5_xDrive40i_044</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>32021</run>
+            <year>2020</year>
+            <price>64690</price>
+            <currency>USD</currency>
+            <vin>0000044</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_044/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_044/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--BMW X5 xDrive40i-->
+            <mark_id>BMW</mark_id>
+            <folder_id>X5 xDrive40i, IV (G05)</folder_id>
+            <modification_id>3.0 АТ (340 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW_X5_xDrive40i_045</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>синий</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>32498</run>
+            <year>2020</year>
+            <price>62980</price>
+            <currency>USD</currency>
+            <vin>0000045</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_045/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_045/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--BMW X6 xDrive40i-->
+            <mark_id>BMW</mark_id>
+            <folder_id>X6 xDrive40i, III (G06)</folder_id>
+            <modification_id>3.0 АТ (340 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW_X6_xDrive40i_046</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>49637</run>
+            <year>2020</year>
+            <price>80080</price>
+            <currency>USD</currency>
+            <vin>0000046</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_046/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_046/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--BMW X6 xDrive40i-->
+            <mark_id>BMW</mark_id>
+            <folder_id>X6 xDrive40i, III (G06)</folder_id>
+            <modification_id>3.0 АТ (340 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW_X6_xDrive40i_047</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>68897</run>
+            <year>2020</year>
+            <price>70600</price>
+            <currency>USD</currency>
+            <vin>0000047</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_047/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_047/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--BMW X7 xDrive40i-->
+            <mark_id>BMW</mark_id>
+            <folder_id>X7 xDrive40ii, I (G07)</folder_id>
+            <modification_id>3.0 АТ (340 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW_X7_xDrive40i_048</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>12176</run>
+            <year>2021</year>
+            <price>83960</price>
+            <currency>USD</currency>
+            <vin>0000048</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_048/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_048/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--BMW X7 xDrive40i-->
+            <mark_id>BMW</mark_id>
+            <folder_id>X7 xDrive40ii, I (G07)</folder_id>
+            <modification_id>3.0 АТ (340 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW_X7_xDrive40i_049</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>74416</run>
+            <year>2019</year>
+            <price>66890</price>
+            <currency>USD</currency>
+            <vin>0000049</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_049/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_049/in.png</image>
             </images>
         </car>
 
