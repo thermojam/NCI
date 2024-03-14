@@ -7,6 +7,33 @@
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Offer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_45_TFSI_030/front-double.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/cars/Audi_Q7_45_TFSI_030/front-double.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_45_TFSI_030/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_043/front-double.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_043/front-double.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_043/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_046/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_046/front.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_046/front.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X7_xDrive40i_048/front-double.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/cars/BMW_X7_xDrive40i_048/front-double.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X7_xDrive40i_048/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_AMG_GT53_037/front-double.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/cars/Mercedes-Benz_AMG_GT53_037/front-double.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_AMG_GT53_037/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_E220d_Coupe/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_E220d_Coupe/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_E220d_Coupe/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_E220d_Coupe/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_E220d_Coupe/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_E220d_Coupe/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLE_350_039/front-double.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLE_350_039/front-double.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLE_350_039/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_040/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_040/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_040/side.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_040/side.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_033/front-double.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/cars/Range_Rover_033/front-double.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_033/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_034/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_034/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_034/side.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/cars/Range_Rover_034/side.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
@@ -68,11 +95,11 @@
       <recent name="C:\Users\Susik\Desktop\NCI\images\reveiw" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Susik\Desktop\NCI\images\screen" />
-      <recent name="C:\Users\Susik\Desktop\NCI\images" />
-      <recent name="C:\Users\Susik\Desktop\NCI\images\review" />
-      <recent name="C:\Users\Susik\Desktop\NCI\js" />
-      <recent name="C:\Users\Susik\Desktop\NCI\images\cars" />
+      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Audi_Q7_45_TFSI_030" />
+      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Range_Rover_034" />
+      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Mercedes-Benz_AMG_GT53_037" />
+      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Mercedes-Benz_GLS_450_040" />
+      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\BMW_X6_xDrive40i_046" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -285,6 +312,8 @@
       <workItem from="1710309224707" duration="5942000" />
       <workItem from="1710353873084" duration="4311000" />
       <workItem from="1710410043917" duration="4542000" />
+      <workItem from="1710415710851" duration="675000" />
+      <workItem from="1710429950194" duration="5265000" />
     </task>
     <servers />
   </component>

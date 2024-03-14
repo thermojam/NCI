@@ -72,52 +72,6 @@
         </car>
 
         <car>
-            <!--Mercedes-Benz GLE 300d-->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>GLE 300d, II (V167)</folder_id>
-            <modification_id>2.0 АТ (245 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_GLE_300d</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>28015</run>
-            <year>2020</year>
-            <price>72690</price>
-            <currency>EUR</currency>
-            <vin>000004</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_300d/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_300d/in.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--Mercedes-Benz E220d Coupe-->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>E220d Coupe, V (W213, S213, C238) Рестайлинг</folder_id>
-            <modification_id>2.0 АТ (194 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_E220d_Coupe</url>
-            <body_type>купе-хардтоп</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>16340</run>
-            <year>2020</year>
-            <price>53140</price>
-            <currency>EUR</currency>
-            <vin>000005</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_E220d_Coupe/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_E220d_Coupe/in.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--Audi A8 60 TFSIe-->
             <mark_id>Audi</mark_id>
             <folder_id>A8 60 TFSIe, IV (D5)</folder_id>
@@ -229,29 +183,6 @@
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_X6_x_Drive40i/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_X6_x_Drive40i/in.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--Porsche Panamera 4-->
-            <mark_id>Porsche</mark_id>
-            <folder_id>Panamera 4, II</folder_id>
-            <modification_id>3.0 АТ (330 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalPorsche_Panamera_4</url>
-            <body_type>лифтбек</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>42320</run>
-            <year>2020</year>
-            <price>90580</price>
-            <currency>USD</currency>
-            <vin>0000011</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Porsche_Panamera_4/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Panamera_4/in.png</image>
             </images>
         </car>
 
@@ -585,29 +516,6 @@
         </car>
 
         <car>
-            <!--Audi A8 Long 55TFSI-->
-            <mark_id>Audi</mark_id>
-            <folder_id>A8 Long 55TFS, IV (D5)</folder_id>
-            <modification_id>3.0 АТ (335 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_A8_Long_55TFSI_028</url>
-            <body_type>седан</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>30674</run>
-            <year>2020</year>
-            <price>70220</price>
-            <currency>USD</currency>
-            <vin>0000028</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI_028/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI_028/in.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--Audi Q7 45 TFSI-->
             <mark_id>Audi</mark_id>
             <folder_id>Q7 45 TFSI, II (4M) Рестайлинг</folder_id>
@@ -675,30 +583,6 @@
                 <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI/in.png</image>
             </images>
         </car>
-
-        <car>
-            <!--Audi Q8 55 TFSI-->
-            <mark_id>Audi</mark_id>
-            <folder_id>Q8 55 TFSI, I (4M)</folder_id>
-            <modification_id>3.0 АТ (335 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_Q8_55_TFSI_032</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>45389</run>
-            <year>2021</year>
-            <price>75700</price>
-            <currency>USD</currency>
-            <vin>0000032</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI_032/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI_032/in.png</image>
-            </images>
-        </car>
-
 
         <car>
             <!--Range Rover-->
@@ -1090,6 +974,10 @@
                 <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_049/in.png</image>
             </images>
         </car>
+
+
+        <!--Audi Q8 55 TFSI-->
+
 
     </cars>
 </data>

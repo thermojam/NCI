@@ -127,19 +127,19 @@ swiper2.controller.control = swiper1;
 // PRELOAD MODAL SLIDERS
 let modalIDs = [
     'modalMercedes-Benz_AMG_GT43', 'modalMercedes-Benz_S500_4M',
-    'modalBMW_740d_xDrive-M_Sport', 'modalMercedes-Benz_GLE_300d',
-    'modalMercedes-Benz_E220d_Coupe', 'modalAudi_A8_60_TFSIe',
+    'modalBMW_740d_xDrive-M_Sport',
+    'modalAudi_A8_60_TFSIe',
     'modalAudi_Q7_55_TFSIe_S-LINE', 'modalPorsche_Cayenne_grey',
     'modalBMW_750d_xDrive', 'modalBMW_X6_x_Drive40i',
-    'modalPorsche_Panamera_4', 'modalVolvo_XC40_B4', 'modalVolvo_S90',
+    'modalVolvo_XC40_B4', 'modalVolvo_S90',
     'modalRange_Rover_Sport', 'modalPorsche_Cayenne_black', 'modalBMW_840i_xDrive', 'Range_Rover_Velar',
     'modalJeep_Wrangler', 'modalMercedes-Benz_GLE_Black', 'modalBMW_X5_xDrive40i_2024', 'modalCadillac_Escalade',
     'modalPorsche_Cayenne_023', 'modalPorsche_Cayenne_024', 'modalPorsche_Panamera_025', 'modalPorsche_Panamera_026',
-    'modalAudi_A8_Long_55TFSI', 'modalAudi_A8_Long_55TFSI_028', 'modalAudi_Q7_45_TFSI', 'modalAudi_Q7_45_TFSI_030', 'modalAudi_Q8_55_TFSI',
-    'modalAudi_Q8_55_TFSI_032', 'modalRange_Rover_033', 'modalRange_Rover_034', 'modalRange_Rover_Sport_035', 'modalRange_Rover_Sport_036',
+    'modalAudi_A8_Long_55TFSI', 'modalAudi_Q7_45_TFSI', 'modalAudi_Q7_45_TFSI_030', 'modalAudi_Q8_55_TFSI',
+    'modalRange_Rover_033', 'modalRange_Rover_034', 'modalRange_Rover_Sport_035', 'modalRange_Rover_Sport_036',
     'modalMercedes-Benz_AMG_GT53_037', 'modalMercedes-Benz_GLE_350_038', 'modalMercedes-Benz_GLE_350_039', 'modalMercedes-Benz_GLS_450_040',
     'modalMercedes-Benz_GLS_450_041', 'modalBMW_740i_xDrive_042', 'modalBMW_740i_xDrive_043', 'modalBMW_X5_xDrive40i_044', 'modalBMW_X5_xDrive40i_045',
-    'modalBMW_X6_xDrive40i_046', 'modalBMW_X6_xDrive40i_047', 'modalBMW_X7_xDrive40i_048', 'modalBMW_X7_xDrive40i_049'];
+    'modalBMW_X6_xDrive40i_046', 'modalBMW_X6_xDrive40i_047', 'modalBMW_X7_xDrive40i_048', 'modalBMW_X7_xDrive40i_049', 'modalAudi_Q8_55_TFSI_050'];
 
 // Инициализация обработчика для каждого модального окна
 modalIDs.forEach(function (modalID) {
@@ -271,19 +271,19 @@ $(document).ready(function () {
     // Список идентификаторов модальных окон
     let modalIds = [
         '#modalMercedes-Benz_AMG_GT43', '#modalMercedes-Benz_S500_4M',
-        '#modalBMW_740d_xDrive-M_Sport', '#modalMercedes-Benz_GLE_300d',
-        '#modalMercedes-Benz_E220d_Coupe', '#modalAudi_A8_60_TFSIe',
+        '#modalBMW_740d_xDrive-M_Sport',
+        '#modalAudi_A8_60_TFSIe',
         '#modalAudi_Q7_55_TFSIe_S-LINE', '#modalPorsche_Cayenne_grey',
-        '#modalBMW_750d_xDrive', '#modalBMW_X6_x_Drive40i', '#modalPorsche_Panamera_4',
+        '#modalBMW_750d_xDrive', '#modalBMW_X6_x_Drive40i',
         '#modalVolvo_XC40_B4', '#modalVolvo_S90',
         '#modalRange_Rover_Sport', '#modalPorsche_Cayenne_black', '#modalBMW_840i_xDrive', '#modalRange_Rover_Velar',
         '#modalJeep_Wrangler', '#modalMercedes-Benz_GLE_Black', '#modalBMW_X5_xDrive40i_2024', '#modalCadillac_Escalade',
         '#modalPorsche_Cayenne_023', '#modalPorsche_Cayenne_023', '#modalPorsche_Panamera_025', '#modalPorsche_Panamera_026',
-        '#modalAudi_A8_Long_55TFSI', '#modalAudi_A8_Long_55TFSI_028', '#modalAudi_Q7_45_TFSI', '#modalAudi_Q7_45_TFSI_030', '#modalAudi_Q8_55_TFSI',
-        '#modalAudi_Q8_55_TFSI_032', '#modalRange_Rover_033', '#modalRange_Rover_034', '#modalRange_Rover_Sport_035', '#modalRange_Rover_Sport_036',
+        '#modalAudi_A8_Long_55TFSI', '#modalAudi_Q7_45_TFSI', '#modalAudi_Q7_45_TFSI_030', '#modalAudi_Q8_55_TFSI',
+        '#modalRange_Rover_033', '#modalRange_Rover_034', '#modalRange_Rover_Sport_035', '#modalRange_Rover_Sport_036',
         '#modalMercedes-Benz_AMG_GT53_037', '#modalMercedes-Benz_GLE_350_038', '#modalMercedes-Benz_GLE_350_039', '#modalMercedes-Benz_GLS_450_040',
         '#modalMercedes-Benz_GLS_450_041', '#modalBMW_740i_xDrive_042', '#modalBMW_740i_xDrive_043', '#modalBMW_X5_xDrive40i_044', '#modalBMW_X5_xDrive40i_045',
-        '#modalBMW_X6_xDrive40i_046', '#modalBMW_X6_xDrive40i_047', '#modalBMW_X7_xDrive40i_048', '#modalBMW_X7_xDrive40i_049'];
+        '#modalBMW_X6_xDrive40i_046', '#modalBMW_X6_xDrive40i_047', '#modalBMW_X7_xDrive40i_048', '#modalBMW_X7_xDrive40i_049', '#modalAudi_Q8_55_TFSI_050'];
 
     // Перебор всех идентификаторов
     modalIds.forEach(function (modalId) {
