@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Offer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,7 +288,8 @@
       <workItem from="1710429950194" duration="5511000" />
       <workItem from="1710442199921" duration="3735000" />
       <workItem from="1710486102920" duration="1069000" />
-      <workItem from="1710492278891" duration="199000" />
+      <workItem from="1710492278891" duration="976000" />
+      <workItem from="1710493498605" duration="1618000" />
     </task>
     <servers />
   </component>
