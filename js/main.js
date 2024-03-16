@@ -1,18 +1,7 @@
-// FORM-SEND
-// document.getElementById('callForm').addEventListener('submit', function(event) {
-//     event.preventDefault();
-//     ym(96622140, 'reachGoal', 'form_sended');
-// });
-//
-// document.getElementById('callForm').addEventListener('submit', function(event) {
-//     event.preventDefault();
-//     ym(96622140, 'reachGoal', 'form_sended');
-// });
-//
-// document.getElementById('orderForm').addEventListener('submit', function(event) {
-//     event.preventDefault();
-//     ym(96622140, 'reachGoal', 'form_sended');
-// });
+// LOADER
+window.addEventListener("load", function () {
+    document.getElementById("loaderContainer").style.display = "none";
+});
 
 // VALIDATION
 // modal-call
