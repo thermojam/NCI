@@ -116,11 +116,8 @@ swiper2.controller.control = swiper1;
 // PRELOAD MODAL SLIDERS
 let modalIDs = [
     'modalMercedes-Benz_AMG_GT43', 'modalMercedes-Benz_S500_4M',
-    'modalBMW_740d_xDrive-M_Sport',
-    'modalAudi_A8_60_TFSIe',
-    'modalAudi_Q7_55_TFSIe_S-LINE', 'modalPorsche_Cayenne_grey',
-    'modalBMW_X6_x_Drive40i',
-    'modalVolvo_XC40_B4', 'modalVolvo_S90',
+    'modalBMW_740d_xDrive-M_Sport', 'modalAudi_A8_60_TFSIe', 'modalAudi_Q7_55_TFSIe_S-LINE', 'modalPorsche_Cayenne_grey',
+    'modalBMW_X6_x_Drive40i', 'modalVolvo_XC40_B4', 'modalVolvo_S90',
     'modalRange_Rover_Sport', 'modalPorsche_Cayenne_black', 'modalBMW_840i_xDrive', 'Range_Rover_Velar',
     'modalJeep_Wrangler', 'modalMercedes-Benz_GLE_Black', 'modalBMW_X5_xDrive40i_2024', 'modalCadillac_Escalade',
     'modalPorsche_Cayenne_024', 'modalPorsche_Panamera_025',
@@ -129,7 +126,8 @@ let modalIDs = [
     'modalMercedes-Benz_AMG_GT53_037', 'modalMercedes-Benz_GLE_350_038', 'modalMercedes-Benz_GLE_350_039', 'modalMercedes-Benz_GLS_450_040',
     'modalBMW_740i_xDrive_042', 'modalBMW_X5_xDrive40i_044', 'modalBMW_X5_xDrive40i_045',
     'modalBMW_X6_xDrive40i_046', 'modalBMW_X6_xDrive40i_047', 'modalBMW_X7_xDrive40i_049',
-    'modalAudi_Q7_45_TFSI_50', 'modalAudi_Q8_55_TFSI_51', 'modalBMW_X7_xDrive40i_52', 'modalPorsche_Panamera_53'];
+    'modalAudi_Q7_45_TFSI_50', 'modalAudi_Q8_55_TFSI_51', 'modalBMW_X7_xDrive40i_52', 'modalPorsche_Panamera_53',
+    'modalMercedes-Benz_GLS_450_54', 'modalBMW_X7_xDrive40i_55'];
 
 // Инициализация обработчика для каждого модального окна
 modalIDs.forEach(function (modalID) {
@@ -261,11 +259,8 @@ $(document).ready(function () {
     // Список идентификаторов модальных окон
     let modalIds = [
         '#modalMercedes-Benz_AMG_GT43', '#modalMercedes-Benz_S500_4M',
-        '#modalBMW_740d_xDrive-M_Sport',
-        '#modalAudi_A8_60_TFSIe',
-        '#modalAudi_Q7_55_TFSIe_S-LINE', '#modalPorsche_Cayenne_grey',
-        '#modalBMW_X6_x_Drive40i',
-        '#modalVolvo_XC40_B4', '#modalVolvo_S90',
+        '#modalBMW_740d_xDrive-M_Sport', '#modalAudi_A8_60_TFSIe', '#modalAudi_Q7_55_TFSIe_S-LINE', '#modalPorsche_Cayenne_grey',
+        '#modalBMW_X6_x_Drive40i', '#modalVolvo_XC40_B4', '#modalVolvo_S90',
         '#modalRange_Rover_Sport', '#modalPorsche_Cayenne_black', '#modalBMW_840i_xDrive', '#modalRange_Rover_Velar',
         '#modalJeep_Wrangler', '#modalMercedes-Benz_GLE_Black', '#modalBMW_X5_xDrive40i_2024', '#modalCadillac_Escalade',
         '#modalPorsche_Cayenne_024', '#modalPorsche_Panamera_025',
@@ -274,7 +269,8 @@ $(document).ready(function () {
         '#modalMercedes-Benz_AMG_GT53_037', '#modalMercedes-Benz_GLE_350_038', '#modalMercedes-Benz_GLE_350_039', '#modalMercedes-Benz_GLS_450_040',
         '#modalBMW_740i_xDrive_042', '#modalBMW_X5_xDrive40i_044', '#modalBMW_X5_xDrive40i_045',
         '#modalBMW_X6_xDrive40i_046', '#modalBMW_X6_xDrive40i_047', '#modalBMW_X7_xDrive40i_049',
-        '#modalAudi_Q7_45_TFSI_50', '#modalAudi_Q8_55_TFSI_51', '#modalBMW_X7_xDrive40i_52', '#modalPorsche_Panamera_53'];
+        '#modalAudi_Q7_45_TFSI_50', '#modalAudi_Q8_55_TFSI_51', '#modalBMW_X7_xDrive40i_52', '#modalPorsche_Panamera_53',
+        '#modalMercedes-Benz_GLS_450_54', 'modalBMW_X7_xDrive40i_55'];
 
     // Перебор всех идентификаторов
     modalIds.forEach(function (modalId) {

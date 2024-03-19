@@ -292,27 +292,6 @@
         </car>
 
         <car>
-            <!--  New Jeep Wrangler  -->
-            <mark_id>Jeep</mark_id>
-            <folder_id>Wrangler, IV (GL)</folder_id>
-            <modification_id>2.0 АТ (375 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalJeep_Wrangler</url>
-            <images>
-                <image>https://ncimport.ru/images/cars/Jeep_Wrangler/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Jeep_Wrangler/in.png</image>
-            </images>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>голубой</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <year>2023</year>
-            <price>94160</price>
-            <currency>USD</currency>
-            <vin>0000019</vin>
-            <owners_number>Не было владельцев</owners_number>
-        </car>
-
-        <car>
             <!--  New  Mercedes-Benz GLE  -->
             <mark_id>Mercedes-Benz</mark_id>
             <folder_id>GLE, II (V167) Рестайлинг</folder_id>
@@ -337,7 +316,7 @@
             <!--  New  BMW X5 xDrive40i  -->
             <mark_id>BMW</mark_id>
             <folder_id>X5 xDrive40i, IV (G05/G18) Рестайлинг</folder_id>
-            <modification_id>3.0АТ (375 л.с.)</modification_id>
+            <modification_id>3.0 АТ (375 л.с.)</modification_id>
             <url>https://ncimport.ru/#modalBMW_X5_xDrive40i_2024</url>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_2024/front-double.png</image>
@@ -790,29 +769,6 @@
         </car>
 
         <car>
-            <!--  BMW X7 xDrive40i  -->
-            <mark_id>BMW</mark_id>
-            <folder_id>X7 xDrive40ii, I (G07)</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_X7_xDrive40i_049</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>74416</run>
-            <year>2019</year>
-            <price>66890</price>
-            <currency>USD</currency>
-            <vin>0000049</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_049/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_049/in.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--  Audi Q7 45 TFSI  -->
             <mark_id>Audi</mark_id>
             <folder_id>Q7 45 TFSI, II (4M) Рестайлинг</folder_id>
@@ -902,6 +858,48 @@
                 <image>https://ncimport.ru/images/cars/Porsche_Panamera_53/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/Porsche_Panamera_53/in.png</image>
             </images>
+        </car>
+
+        <car>
+            <!--  New  Mercedes-Benz GLS 450  -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLS 450, II (X167) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (375 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMercedes-Benz_GLS_450_54</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_54/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_54/in.png</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>155460</price>
+            <currency>USD</currency>
+            <vin>0000054</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--  New  BMW X7 xDrive40i  -->
+            <mark_id>BMW</mark_id>
+            <folder_id>X7 xDrive40i, I (G07) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (375 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW_X7_xDrive40i_55</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_55/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_55/in.png</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>144690</price>
+            <currency>USD</currency>
+            <vin>0000055</vin>
+            <owners_number>Не было владельцев</owners_number>
         </car>
 
     </cars>
