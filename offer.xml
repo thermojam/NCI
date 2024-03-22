@@ -631,29 +631,6 @@
         </car>
 
         <car>
-            <!--  Mercedes-Benz GLS 450  -->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>GLS 450, II (X167)</folder_id>
-            <modification_id>3.0 АТ (362 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_GLS_450_040</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>29755</run>
-            <year>2020</year>
-            <price>82290</price>
-            <currency>USD</currency>
-            <vin>0000040</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_040/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_040/in.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--  BMW 740i xDrive  -->
             <mark_id>BMW</mark_id>
             <folder_id>740i xDrive, VI (G11/G12) Рестайлинг</folder_id>
@@ -719,29 +696,6 @@
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_045/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_045/in.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--  BMW X6 xDrive40i  -->
-            <mark_id>BMW</mark_id>
-            <folder_id>X6 xDrive40i, III (G06)</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_X6_xDrive40i_046</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>49637</run>
-            <year>2020</year>
-            <price>80080</price>
-            <currency>USD</currency>
-            <vin>0000046</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_046/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_046/in.png</image>
             </images>
         </car>
 
@@ -942,6 +896,52 @@
             <currency>USD</currency>
             <vin>0000057</vin>
             <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--  Mercedes-Benz GLS 450  -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLS 450, II (X167)</folder_id>
+            <modification_id>3.0 АТ (362 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMercedes-Benz_GLS_450_58</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>синий</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>84486</run>
+            <year>2020</year>
+            <price>67200</price>
+            <currency>USD</currency>
+            <vin>0000058</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_58/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_58/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--  Mercedes-Benz GLS 450  -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLS 450, II (X167)</folder_id>
+            <modification_id>3.0 АТ (362 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMercedes-Benz_GLS_450_59</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>40683</run>
+            <year>2020</year>
+            <price>80295</price>
+            <currency>USD</currency>
+            <vin>0000059</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_59/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_59/in.png</image>
+            </images>
         </car>
 
     </cars>
