@@ -14,8 +14,8 @@
             <owners_number>один владелец</owners_number>
             <run>9774</run>
             <year>2020</year>
-            <price>112050</price>
-            <currency>EUR</currency>
+            <price>11080000</price>
+            <currency>RUR</currency>
             <vin>000001</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT43/front-double.png</image>
@@ -37,8 +37,8 @@
             <owners_number>один владелец</owners_number>
             <run>39297</run>
             <year>2020</year>
-            <price>102800</price>
-            <currency>EUR</currency>
+            <price>10095000</price>
+            <currency>RUR</currency>
             <vin>000002</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_S500_4M/front-double.png</image>
@@ -60,8 +60,8 @@
             <owners_number>один владелец</owners_number>
             <run>46000</run>
             <year>2019</year>
-            <price>80300</price>
-            <currency>EUR</currency>
+            <price>7940000</price>
+            <currency>RUR</currency>
             <vin>000003</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_740d_xDrive-M_Sport/front-double.png</image>
@@ -83,8 +83,8 @@
             <owners_number>один владелец</owners_number>
             <run>41654</run>
             <year>2020</year>
-            <price>75845</price>
-            <currency>EUR</currency>
+            <price>7450000</price>
+            <currency>RUR</currency>
             <vin>000006</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Audi_A8_60_TFSIe/front-double.png</image>
@@ -106,8 +106,8 @@
             <owners_number>один владелец</owners_number>
             <run>29904</run>
             <year>2020</year>
-            <price>77155</price>
-            <currency>EUR</currency>
+            <price>7575000</price>
+            <currency>RUR</currency>
             <vin>000007</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Audi_Q7_55_TFSIe_S-LINE/front-double.png</image>
@@ -129,8 +129,8 @@
             <owners_number>один владелец</owners_number>
             <run>22192</run>
             <year>2020</year>
-            <price>95390</price>
-            <currency>EUR</currency>
+            <price>9365000</price>
+            <currency>RUR</currency>
             <vin>000008</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Porsche_Cayenne_grey/front-double.png</image>
@@ -152,8 +152,8 @@
             <owners_number>один владелец</owners_number>
             <run>30800</run>
             <year>2020</year>
-            <price>81390</price>
-            <currency>USD</currency>
+            <price>7385000</price>
+            <currency>RUR</currency>
             <vin>0000010</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_X6_x_Drive40i/front-double.png</image>
@@ -176,8 +176,8 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2023</year>
-            <price>69250</price>
-            <currency>USD</currency>
+            <price>6255000</price>
+            <currency>RUR</currency>
             <vin>0000012</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
@@ -197,8 +197,8 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2023</year>
-            <price>87040</price>
-            <currency>USD</currency>
+            <price>7865000</price>
+            <currency>RUR</currency>
             <vin>0000013</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
@@ -218,8 +218,8 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2023</year>
-            <price>153600</price>
-            <currency>USD</currency>
+            <price>13875000</price>
+            <currency>RUR</currency>
             <vin>0000015</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
@@ -238,8 +238,8 @@
             <owners_number>один владелец</owners_number>
             <run>45635</run>
             <year>2020</year>
-            <price>80595</price>
-            <currency>USD</currency>
+            <price>7280000</price>
+            <currency>RUR</currency>
             <vin>0000016</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Porsche_Cayenne_black/front-double.png</image>
@@ -261,8 +261,8 @@
             <owners_number>один владелец</owners_number>
             <run>43529</run>
             <year>2020</year>
-            <price>79630</price>
-            <currency>USD</currency>
+            <price>7225000</price>
+            <currency>RUR</currency>
             <vin>0000017</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_840i_xDrive/front-double.png</image>
@@ -285,8 +285,8 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2023</year>
-            <price>114250</price>
-            <currency>USD</currency>
+            <price>10320000</price>
+            <currency>RUR</currency>
             <vin>0000018</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
@@ -306,8 +306,8 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>113815</price>
-            <currency>USD</currency>
+            <price>10320000</price>
+            <currency>RUR</currency>
             <vin>0000020</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
@@ -327,8 +327,8 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>117375</price>
-            <currency>USD</currency>
+            <price>10650000</price>
+            <currency>RUR</currency>
             <vin>0000021</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
@@ -348,8 +348,8 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>151500</price>
-            <currency>USD</currency>
+            <price>13690000</price>
+            <currency>RUR</currency>
             <vin>0000022</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
@@ -369,8 +369,8 @@
             <run>85090</run>
             <year>2020</year>
             <price>66300</price>
-            <currency>USD</currency>
-            <vin>0000024</vin>
+            <currency>RUR</currency>
+            <vin>6015000</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Porsche_Cayenne_024/front-double.png</image>
                 <image>https://ncimport.ru/images/cars/Porsche_Cayenne_024/in.png</image>
@@ -391,8 +391,8 @@
             <owners_number>один владелец</owners_number>
             <run>48141</run>
             <year>2020</year>
-            <price>88950</price>
-            <currency>USD</currency>
+            <price>8070000</price>
+            <currency>RUR</currency>
             <vin>0000025</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Porsche_Panamera_025/front-double.png</image>
@@ -414,8 +414,8 @@
             <owners_number>один владелец</owners_number>
             <run>56540</run>
             <year>2021</year>
-            <price>76780</price>
-            <currency>USD</currency>
+            <price>6970000</price>
+            <currency>RUR</currency>
             <vin>0000027</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI/front-double.png</image>
@@ -437,8 +437,8 @@
             <owners_number>один владелец</owners_number>
             <run>93760</run>
             <year>2020</year>
-            <price>48000</price>
-            <currency>USD</currency>
+            <price>4360000</price>
+            <currency>RUR</currency>
             <vin>0000030</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_030/front-double.png</image>
@@ -460,8 +460,8 @@
             <owners_number>один владелец</owners_number>
             <run>72245</run>
             <year>2020</year>
-            <price>67200</price>
-            <currency>USD</currency>
+            <price>6100000</price>
+            <currency>RUR</currency>
             <vin>0000031</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI_031/front-double.png</image>
@@ -483,8 +483,8 @@
             <owners_number>один владелец</owners_number>
             <run>44985</run>
             <year>2020</year>
-            <price>83900</price>
-            <currency>USD</currency>
+            <price>7600000</price>
+            <currency>RUR</currency>
             <vin>0000033</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Range_Rover_033/front-double.png</image>
@@ -506,8 +506,8 @@
             <owners_number>один владелец</owners_number>
             <run>93719</run>
             <year>2020</year>
-            <price>72380</price>
-            <currency>USD</currency>
+            <price>6560000</price>
+            <currency>RUR</currency>
             <vin>0000034</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Range_Rover_034/front-double.png</image>
@@ -529,8 +529,8 @@
             <owners_number>один владелец</owners_number>
             <run>36433</run>
             <year>2020</year>
-            <price>72890</price>
-            <currency>USD</currency>
+            <price>6600000</price>
+            <currency>RUR</currency>
             <vin>0000035</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Range_Rover_Sport_035/front-double.png</image>
@@ -552,8 +552,8 @@
             <owners_number>один владелец</owners_number>
             <run>91963</run>
             <year>2020</year>
-            <price>62580</price>
-            <currency>USD</currency>
+            <price>5670000</price>
+            <currency>RUR</currency>
             <vin>0000036</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Range_Rover_Sport_036/front-double.png</image>
@@ -575,8 +575,8 @@
             <owners_number>один владелец</owners_number>
             <run>41012</run>
             <year>2019</year>
-            <price>98980</price>
-            <currency>USD</currency>
+            <price>5670000</price>
+            <currency>RUR</currency>
             <vin>0000037</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT53_037/front-double.png</image>
@@ -598,8 +598,8 @@
             <owners_number>один владелец</owners_number>
             <run>92066</run>
             <year>2019</year>
-            <price>53900</price>
-            <currency>USD</currency>
+            <price>4885000</price>
+            <currency>RUR</currency>
             <vin>0000038</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_038/front-double.png</image>
@@ -621,8 +621,8 @@
             <owners_number>один владелец</owners_number>
             <run>47439</run>
             <year>2019</year>
-            <price>62510</price>
-            <currency>USD</currency>
+            <price>5665000</price>
+            <currency>RUR</currency>
             <vin>0000039</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_039/front-double.png</image>
@@ -644,8 +644,8 @@
             <owners_number>один владелец</owners_number>
             <run>43848</run>
             <year>2020</year>
-            <price>67900</price>
-            <currency>USD</currency>
+            <price>6170000</price>
+            <currency>RUR</currency>
             <vin>0000042</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_042/front-double.png</image>
@@ -667,8 +667,8 @@
             <owners_number>один владелец</owners_number>
             <run>32021</run>
             <year>2020</year>
-            <price>64690</price>
-            <currency>USD</currency>
+            <price>5880000</price>
+            <currency>RUR</currency>
             <vin>0000044</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_044/front-double.png</image>
@@ -690,8 +690,8 @@
             <owners_number>один владелец</owners_number>
             <run>32498</run>
             <year>2020</year>
-            <price>62980</price>
-            <currency>USD</currency>
+            <price>5725000</price>
+            <currency>RUR</currency>
             <vin>0000045</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_045/front-double.png</image>
@@ -713,8 +713,8 @@
             <owners_number>один владелец</owners_number>
             <run>68897</run>
             <year>2020</year>
-            <price>70600</price>
-            <currency>USD</currency>
+            <price>6415000</price>
+            <currency>RUR</currency>
             <vin>0000047</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_047/front-double.png</image>
@@ -736,8 +736,8 @@
             <owners_number>один владелец</owners_number>
             <run>48112</run>
             <year>2021</year>
-            <price>58139</price>
-            <currency>USD</currency>
+            <price>5340000</price>
+            <currency>RUR</currency>
             <vin>0000050</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_50/front-double.png</image>
@@ -759,8 +759,8 @@
             <owners_number>один владелец</owners_number>
             <run>37012</run>
             <year>2021</year>
-            <price>80775</price>
-            <currency>USD</currency>
+            <price>7420000</price>
+            <currency>RUR</currency>
             <vin>0000051</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI_51/front-double.png</image>
@@ -782,8 +782,8 @@
             <owners_number>один владелец</owners_number>
             <run>46827</run>
             <year>2021</year>
-            <price>83400</price>
-            <currency>USD</currency>
+            <price>7660000</price>
+            <currency>RUR</currency>
             <vin>0000052</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_52/front-double.png</image>
@@ -805,8 +805,8 @@
             <owners_number>один владелец</owners_number>
             <run>34090</run>
             <year>2020</year>
-            <price>91785</price>
-            <currency>USD</currency>
+            <price>8430000</price>
+            <currency>RUR</currency>
             <vin>0000053</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Porsche_Panamera_53/front-double.png</image>
@@ -829,8 +829,8 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>155460</price>
-            <currency>USD</currency>
+            <price>14300000</price>
+            <currency>RUR</currency>
             <vin>0000054</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
@@ -850,8 +850,8 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>144690</price>
-            <currency>USD</currency>
+            <price>13300000</price>
+            <currency>RUR</currency>
             <vin>0000055</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
@@ -871,8 +871,8 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>110200</price>
-            <currency>USD</currency>
+            <price>10160000</price>
+            <currency>RUR</currency>
             <vin>0000056</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
@@ -892,8 +892,8 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>194615</price>
-            <currency>USD</currency>
+            <price>17895000</price>
+            <currency>RUR</currency>
             <vin>0000057</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
@@ -912,8 +912,8 @@
             <owners_number>один владелец</owners_number>
             <run>84486</run>
             <year>2020</year>
-            <price>67200</price>
-            <currency>USD</currency>
+            <price>6180000</price>
+            <currency>RUR</currency>
             <vin>0000058</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_58/front-double.png</image>
@@ -935,8 +935,8 @@
             <owners_number>один владелец</owners_number>
             <run>40683</run>
             <year>2020</year>
-            <price>80295</price>
-            <currency>USD</currency>
+            <price>7380000</price>
+            <currency>RUR</currency>
             <vin>0000059</vin>
             <images>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_59/front-double.png</image>
