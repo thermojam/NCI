@@ -1,5 +1,6 @@
 <data>
     <cars>
+
         <car>
             <!--   Mercedes-Benz S500 4M   -->
             <mark_id>Mercedes-Benz</mark_id>
@@ -22,6 +23,7 @@
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_S500_4M/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   BMW 740d xDrive-M Sport   -->
             <mark_id>BMW</mark_id>
@@ -67,6 +69,7 @@
                 <image>https://ncimport.ru/images/cars/Audi_Q7_55_TFSIe_S-LINE/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   Porsche Cayenne   -->
             <mark_id>Porsche</mark_id>
@@ -89,6 +92,7 @@
                 <image>https://ncimport.ru/images/cars/Porsche_Cayenne_grey/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   BMW X6 xDrive40i   -->
             <mark_id>BMW</mark_id>
@@ -111,6 +115,7 @@
                 <image>https://ncimport.ru/images/cars/BMW_X6_x_Drive40i/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   New Volvo XC40 B4   -->
             <mark_id>Volvo</mark_id>
@@ -131,6 +136,7 @@
             <vin>0000012</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
+
         <car>
             <!--   New Volvo S90   -->
             <mark_id>Volvo</mark_id>
@@ -151,6 +157,7 @@
             <vin>0000013</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
+
         <car>
             <!--   New Range Rover Sport   -->
             <mark_id>Range Rover</mark_id>
@@ -171,6 +178,7 @@
             <vin>0000015</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
+
         <car>
             <!--   Porsche Cayenne   -->
             <mark_id>Porsche</mark_id>
@@ -193,6 +201,7 @@
                 <image>https://ncimport.ru/images/cars/Porsche_Cayenne_black/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   BMW 840i xDrive   -->
             <mark_id>BMW</mark_id>
@@ -215,6 +224,7 @@
                 <image>https://ncimport.ru/images/cars/BMW_840i_xDrive/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   New Range Rover Velar   -->
             <mark_id>Range Rover</mark_id>
@@ -235,6 +245,7 @@
             <vin>0000018</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
+
         <car>
             <!--   New  Mercedes-Benz GLE   -->
             <mark_id>Mercedes-Benz</mark_id>
@@ -255,6 +266,7 @@
             <vin>0000020</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
+
         <car>
             <!--   New  BMW X5 xDrive40i   -->
             <mark_id>BMW</mark_id>
@@ -275,6 +287,7 @@
             <vin>0000021</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
+
         <car>
             <!--   New  Cadillac Escalade   -->
             <mark_id>Cadillac</mark_id>
@@ -295,6 +308,7 @@
             <vin>0000022</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
+
         <car>
             <!--   Porsche Cayenne   -->
             <mark_id>Porsche</mark_id>
@@ -317,6 +331,7 @@
                 <image>https://ncimport.ru/images/cars/Porsche_Cayenne_024/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   Porsche Panamera   -->
             <mark_id>Porsche</mark_id>
@@ -339,6 +354,7 @@
                 <image>https://ncimport.ru/images/cars/Porsche_Panamera_025/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   Audi A8 Long 55TFSI   -->
             <mark_id>Audi</mark_id>
@@ -361,6 +377,7 @@
                 <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   Audi Q7 45 TFSI   -->
             <mark_id>Audi</mark_id>
@@ -383,6 +400,7 @@
                 <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_030/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   Audi Q8 55 TFSI   -->
             <mark_id>Audi</mark_id>
@@ -405,28 +423,7 @@
                 <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI_031/in.png</image>
             </images>
         </car>
-        <car>
-            <!--   Range Rover   -->
-            <mark_id>Range Rover</mark_id>
-            <folder_id>IV Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (395 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalRange_Rover_033</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>44985</run>
-            <year>2020</year>
-            <price>7600000</price>
-            <currency>RUR</currency>
-            <vin>0000033</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Range_Rover_033/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_033/in.png</image>
-            </images>
-        </car>
+
         <car>
             <!--   Range Rover   -->
             <mark_id>Range Rover</mark_id>
@@ -449,6 +446,7 @@
                 <image>https://ncimport.ru/images/cars/Range_Rover_034/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   Range Rover Sport   -->
             <mark_id>Range Rover</mark_id>
@@ -471,6 +469,7 @@
                 <image>https://ncimport.ru/images/cars/Range_Rover_Sport_035/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   Range Rover Sport   -->
             <mark_id>Range Rover</mark_id>
@@ -493,6 +492,7 @@
                 <image>https://ncimport.ru/images/cars/Range_Rover_Sport_036/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   Mercedes-Benz AMG GT53   -->
             <mark_id>Mercedes-Benz</mark_id>
@@ -515,6 +515,7 @@
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT53_037/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   Mercedes-Benz GLE 350   -->
             <mark_id>Mercedes-Benz</mark_id>
@@ -537,6 +538,7 @@
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_038/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   Mercedes-Benz GLE 350   -->
             <mark_id>Mercedes-Benz</mark_id>
@@ -559,6 +561,7 @@
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_039/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   BMW 740i xDrive   -->
             <mark_id>BMW</mark_id>
@@ -581,28 +584,7 @@
                 <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_042/in.png</image>
             </images>
         </car>
-        <car>
-            <!--   BMW X5 xDrive40i   -->
-            <mark_id>BMW</mark_id>
-            <folder_id>X5 xDrive40i, IV (G05)</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_X5_xDrive40i_044</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>32021</run>
-            <year>2020</year>
-            <price>5880000</price>
-            <currency>RUR</currency>
-            <vin>0000044</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_044/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_044/in.png</image>
-            </images>
-        </car>
+
         <car>
             <!--   BMW X5 xDrive40i   -->
             <mark_id>BMW</mark_id>
@@ -625,6 +607,7 @@
                 <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_045/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   BMW X6 xDrive40i   -->
             <mark_id>BMW</mark_id>
@@ -647,6 +630,7 @@
                 <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_047/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   Audi Q7 45 TFSI   -->
             <mark_id>Audi</mark_id>
@@ -669,6 +653,7 @@
                 <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_50/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   Audi Q8 55 TFSI   -->
             <mark_id>Audi</mark_id>
@@ -691,6 +676,7 @@
                 <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI_51/in.png</image>
             </images>
         </car>
+
         <car>
             <!--  BMW X7 xDrive40i   -->
             <mark_id>BMW</mark_id>
@@ -713,6 +699,7 @@
                 <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_52/in.png</image>
             </images>
         </car>
+
         <car>
             <!--  Porsche Panamera   -->
             <mark_id>Porsche</mark_id>
@@ -735,6 +722,7 @@
                 <image>https://ncimport.ru/images/cars/Porsche_Panamera_53/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   New Mercedes-Benz GLS 450   -->
             <mark_id>Mercedes-Benz</mark_id>
@@ -755,6 +743,7 @@
             <vin>0000054</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
+
         <car>
             <!--   New BMW X7 xDrive40i   -->
             <mark_id>BMW</mark_id>
@@ -775,6 +764,7 @@
             <vin>0000055</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
+
         <car>
             <!--   New Mercedes-Benz E350   -->
             <mark_id>Mercedes-Benz</mark_id>
@@ -795,6 +785,7 @@
             <vin>0000056</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
+
         <car>
             <!--   New Range Rover  -->
             <mark_id>Range Rover</mark_id>
@@ -815,6 +806,7 @@
             <vin>0000057</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
+
         <car>
             <!--   Mercedes-Benz GLS 450   -->
             <mark_id>Mercedes-Benz</mark_id>
@@ -837,6 +829,7 @@
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_58/in.png</image>
             </images>
         </car>
+
         <car>
             <!--   Mercedes-Benz GLS 450   -->
             <mark_id>Mercedes-Benz</mark_id>
@@ -859,5 +852,76 @@
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_59/in.png</image>
             </images>
         </car>
+
+        <car>
+            <!--   Volvo XC90   -->
+            <mark_id>Volvo</mark_id>
+            <folder_id>XC90, II Рестайлинг</folder_id>
+            <modification_id>2.0 АТ (250 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalVolvo_XC90_60</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>41972</run>
+            <year>2020</year>
+            <price>4750000</price>
+            <currency>RUR</currency>
+            <vin>0000060</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Volvo_XC90_60/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Volvo_XC90_60/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--   BMW X5 xDrive40i   -->
+            <mark_id>BMW</mark_id>
+            <folder_id>X5 xDrive40i, IV (G05)</folder_id>
+            <modification_id>3.0 АТ (340 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW_X5_xDrive40i_61</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>42815</run>
+            <year>2020</year>
+            <price>5860000</price>
+            <currency>RUR</currency>
+            <vin>0000061</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_61/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_61/in.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--   Range Rover  -->
+            <mark_id>Range Rover</mark_id>
+            <folder_id>IV Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (395 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalRange_Rover_62</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>голубой</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>40041</run>
+            <year>2020</year>
+            <price>8015000</price>
+            <currency>RUR</currency>
+            <vin>0000062</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Range_Rover_62/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_62/in.png</image>
+            </images>
+        </car>
+
     </cars>
+
 </data>

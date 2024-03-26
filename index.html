@@ -374,7 +374,8 @@
                             </svg>
                             <p class="form-text my-2">Отправьте заявку</p>
                         </div>
-                        <button type="submit" class="form-control calculation-button"  data-bs-toggle="modal" data-bs-target="#exampleModal"
+                        <button type="submit" class="form-control calculation-button" data-bs-toggle="modal"
+                                data-bs-target="#exampleModal"
                                 onclick="ym(96622140, 'reachGoal', 'form_sended'); return true;" value="Заказать">
                             Отправить заявку
                         </button>
@@ -394,6 +395,32 @@
         <!-- Swiper 1 -->
         <div class="swiper-container" id="swiper1">
             <div class="swiper-wrapper">
+
+                <!--Карточка автомобиля #24-->
+                <div class="swiper-slide">
+                    <div class="product-card">
+                        <div class=" ">
+                            <img src="images/cars/Range_Rover_62/front.png" class="img-fluid"
+                                 alt="Range_Rover_62">
+                        </div>
+                        <div class="card-body p-2 bg-white d-flex align-items-center justify-content-between">
+                            <div class="order-description">
+                                <h6 class="card-title">Range Rover</h6>
+                                <p class="from m-0">из CША (2020), 40 041 км</p>
+                                <p class="key-offer text-primary m-0"><span
+                                        class="euro-bold fw-bold">8 015 000 руб.</span>
+                                    -
+                                    цена под ключ</p>
+                            </div>
+                            <div class="catalog-btn">
+                                <button type="submit" class="card-btn" data-bs-toggle="modal"
+                                        data-bs-target="#modalRange_Rover_62">
+                                    Подробнее
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
                 <!--Карточка автомобиля #23-->
                 <div class="swiper-slide">
@@ -532,10 +559,12 @@
                 <!--Карточка автомобиля #18-->
                 <div class="swiper-slide">
                     <div class="product-card">
-                        <div class=" ">
-                            <img src="images/cars/BMW_X5_xDrive40i_044/front.png" class="img-fluid"
-                                 alt="BMW_X5_xDrive40i_044">
+                        <div class="sold-overlay">
+                            <div class="sold-text">Автомобиль продан</div>
                         </div>
+                        <img src="images/cars/BMW_X5_xDrive40i_044/front.png" class="img-fluid"
+                             alt="BMW_X5_xDrive40i_044">
+
                         <div class="card-body p-2 bg-white d-flex align-items-center justify-content-between">
                             <div class="order-description">
                                 <h6 class="card-title">BMW X5 xDrive40i</h6>
@@ -662,10 +691,12 @@
                 <!--Карточка автомобиля #13-->
                 <div class="swiper-slide">
                     <div class="product-card">
-                        <div class=" ">
-                            <img src="images/cars/Range_Rover_033/front.png" class="img-fluid"
-                                 alt="Range_Rover_033">
+                        <div class="sold-overlay">
+                            <div class="sold-text">Автомобиль продан</div>
                         </div>
+                        <img src="images/cars/Range_Rover_033/front.png" class="img-fluid"
+                             alt="Range_Rover_033">
+
                         <div class="card-body p-2 bg-white d-flex align-items-center justify-content-between">
                             <div class="order-description">
                                 <h6 class="card-title">Range Rover</h6>
@@ -928,8 +959,8 @@
                         <div class="sold-overlay">
                             <div class="sold-text">Автомобиль продан</div>
                         </div>
-                            <img src="images/cars/Audi_A8_60_TFSIe/front.png" class="img-fluid"
-                                 alt="Audi_A8_60_TFSIe">
+                        <img src="images/cars/Audi_A8_60_TFSIe/front.png" class="img-fluid"
+                             alt="Audi_A8_60_TFSIe">
 
                         <div class="card-body p-2 bg-white d-flex align-items-center justify-content-between">
                             <div class="order-description">
@@ -1002,6 +1033,206 @@
                     </div>
                 </div>
 
+            </div>
+        </div>
+
+        <!-- MODAL Range Rover -->
+        <div class="modal fade" id="modalRange_Rover_62" tabindex="-1" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title me-3">Range Rover из США (2020)</h5>
+                        <div class="sale text-primary">8 015 000 руб.</div>
+                        <button type="button" class="btn-close"
+                                data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+
+                    <div class="modal-body">
+                        <div class="row">
+                            <!-- Блок с характеристиками (lg и md 4 колонки) -->
+                            <div class="d-flex col-sm-12 col-md-4 col-lg-4 order-sm-last order-md-first">
+                                <div class="row scrollable-content w-auto">
+
+                                    <div class="col-4 characteristics text-secondary">
+                                        <p>Статус</p>
+                                        <p>Поколение</p>
+                                        <p>Год</p>
+                                        <p>Пробег</p>
+                                        <p>Кузов</p>
+                                        <p>Цвет</p>
+                                        <p>Двигатель</p>
+                                        <p>Коробка</p>
+                                        <p>Привод</p>
+                                        <p>Состояние</p>
+                                        <p>Владельцы</p>
+                                    </div>
+
+                                    <div class="col mt-lg-0 mt-md-0 mt-sm-0 characteristics">
+                                        <p>под заказ</p>
+                                        <p>IV Рестайлинг</p>
+                                        <p>2020</p>
+                                        <p>40 041</p>
+                                        <p>внедорожник 5 дв.</p>
+                                        <p>голубой</p>
+                                        <p>3.0 л / 395 л.с. / бензин</p>
+                                        <p>автоматическая</p>
+                                        <p>полный</p>
+                                        <p>без ДТП / без окрасов</p>
+                                        <p>1</p>
+                                    </div>
+
+                                    <div class="col-md-12 characteristics">
+                                        <p class="text-primary characteristics-title mb-2">Комплектация</p>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Активный круиз</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Электрорегулировка кресел с памятью</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Подогрев кресел</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Бесключевой доступ</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Навигация</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Камера 360</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Apple CarPlay</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Android Auto</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Bluetooth</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Панорамная крыша</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Премиальный звук</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система экстренного торможения</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">USB</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Би лэд фары</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Контроль слепых зон</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система контроля полосности</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система предупреждения ДТП</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Распознавание дорожных знаков</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Парковочный ассистент</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">И многое другое!</span>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="col-sm-12 col-md-8 col-lg-8 order-first">
+                                <!-- Swiper слайдер -->
+                                <div class="swiper-container slider-container main-swiper">
+                                    <!-- Основной слайдер с большими изображениями -->
+                                    <div class="swiper-container main-slider">
+                                        <div class="swiper-wrapper">
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Range_Rover_62/front-double.png"
+                                                    alt="Range_Rover_62"></div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Range_Rover_62/back.png"
+                                                    alt="Range_Rover_62">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Range_Rover_62/side.png"
+                                                    alt="Range_Rover_62">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Range_Rover_62/in.png"
+                                                    alt="Range_Rover_62">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Range_Rover_62/int.png"
+                                                    alt="Range_Rover_62">
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Слайдер с миниатюрами -->
+                                    <div class="swiper-container thumbnail-slider">
+                                        <div class="swiper-wrapper ">
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Range_Rover_62/front-double.png"
+                                                    alt="Range_Rover_62"></div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Range_Rover_62/back.png"
+                                                    alt="Range_Rover_62">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Range_Rover_62/side.png"
+                                                    alt="Range_Rover_62">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Range_Rover_62/in.png"
+                                                    alt="Range_Rover_62">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Range_Rover_62/int.png"
+                                                    alt="Range_Rover_62">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="modal-btn my-2 px-2 row">
+                                    <button class="order-btn col-sm-12 col-md-12 col-lg-12 " data-bs-toggle="modal"
+                                            data-bs-target="#orderModal">Заказать автомобиль
+                                    </button>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
             </div>
         </div>
 
@@ -1767,182 +1998,6 @@
                                             <div class="swiper-slide img-fluid"><img
                                                     src="images/cars/Audi_Q7_45_TFSI_50/int.png"
                                                     alt="Audi_Q7_45_TFSI_50">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="modal-btn my-2 px-2 row">
-                                    <button class="order-btn col-sm-12 col-md-12 col-lg-12 " data-bs-toggle="modal"
-                                            data-bs-target="#orderModal">Заказать автомобиль
-                                    </button>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
-
-        <!-- MODAL BMW X5 xDrive40i-->
-        <div class="modal fade" id="modalBMW_X5_xDrive40i_044" tabindex="-1" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title me-3">BMW X5 xDrive40i из США (2020)</h5>
-                        <div class="sale text-primary">5 880 000 руб.</div>
-                        <button type="button" class="btn-close"
-                                data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-
-                    <div class="modal-body">
-                        <div class="row">
-                            <!-- Блок с характеристиками (lg и md 4 колонки) -->
-                            <div class="d-flex col-sm-12 col-md-4 col-lg-4 order-sm-last order-md-first">
-                                <div class="row scrollable-content w-auto">
-
-                                    <div class="col-4 characteristics text-secondary">
-                                        <p>Статус</p>
-                                        <p>Поколение</p>
-                                        <p>Год</p>
-                                        <p>Пробег</p>
-                                        <p>Кузов</p>
-                                        <p>Цвет</p>
-                                        <p>Двигатель</p>
-                                        <p>Коробка</p>
-                                        <p>Привод</p>
-                                        <p>Состояние</p>
-                                        <p>Владельцы</p>
-                                    </div>
-
-                                    <div class="col mt-lg-0 mt-md-0 mt-sm-0 characteristics">
-                                        <p>под заказ</p>
-                                        <p>IV (G05)</p>
-                                        <p>2020</p>
-                                        <p>32 021</p>
-                                        <p>внедорожник 5 дв.</p>
-                                        <p>черный</p>
-                                        <p>3.0 л / 340 л.с. / бензин</p>
-                                        <p>автоматическая</p>
-                                        <p>полный</p>
-                                        <p>без ДТП / без окрасов</p>
-                                        <p>1</p>
-                                    </div>
-
-                                    <div class="col-md-12 characteristics">
-                                        <p class="text-primary characteristics-title mb-2">Комплектация</p>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Гарантия BMW Premium Selection</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Активный круиз</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Электрорегулировка кресел с памятью</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Подогрев кресел</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Беслкючевой доступ</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Навигация</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Камера 360</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Панорамная крыша</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Система экстренного торможения</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Би лэд фары</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Многозонный климат</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Датчик дождя/света</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Парковочный ассистент</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">И многое другое!</span>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            <div class="col-sm-12 col-md-8 col-lg-8 order-first">
-                                <!-- Swiper слайдер -->
-                                <div class="swiper-container slider-container main-swiper">
-                                    <!-- Основной слайдер с большими изображениями -->
-                                    <div class="swiper-container main-slider">
-                                        <div class="swiper-wrapper">
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/BMW_X5_xDrive40i_044/front-double.png"
-                                                    alt="BMW_X5_xDrive40i_044"></div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/BMW_X5_xDrive40i_044/back.png"
-                                                    alt="BMW_X5_xDrive40i_044">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/BMW_X5_xDrive40i_044/side.png"
-                                                    alt="BMW_X5_xDrive40i_044">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/BMW_X5_xDrive40i_044/in.png"
-                                                    alt="BMW_X5_xDrive40i_044">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/BMW_X5_xDrive40i_044/int.png"
-                                                    alt="BMW_X5_xDrive40i_044">
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Слайдер с миниатюрами -->
-                                    <div class="swiper-container thumbnail-slider">
-                                        <div class="swiper-wrapper ">
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/BMW_X5_xDrive40i_044/front-double.png"
-                                                    alt="BMW_X5_xDrive40i_044"></div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/BMW_X5_xDrive40i_044/back.png"
-                                                    alt="BMW_X5_xDrive40i_044">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/BMW_X5_xDrive40i_044/side.png"
-                                                    alt="BMW_X5_xDrive40i_044">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/BMW_X5_xDrive40i_044/in.png"
-                                                    alt="BMW_X5_xDrive40i_044">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/BMW_X5_xDrive40i_044/int.png"
-                                                    alt="BMW_X5_xDrive40i_044">
                                             </div>
                                         </div>
                                     </div>
@@ -2751,198 +2806,6 @@
                                             <div class="swiper-slide img-fluid"><img
                                                     src="images/cars/Range_Rover_Sport_035/int.png"
                                                     alt="Range_Rover_Sport_035">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="modal-btn my-2 px-2 row">
-                                    <button class="order-btn col-sm-12 col-md-12 col-lg-12 " data-bs-toggle="modal"
-                                            data-bs-target="#orderModal">Заказать автомобиль
-                                    </button>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-
-
-                </div>
-            </div>
-        </div>
-
-        <!-- MODAL Range Rover-->
-        <div class="modal fade" id="modalRange_Rover_033" tabindex="-1" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title me-3">Range Rover из США (2020)</h5>
-                        <div class="sale text-primary">7 600 000 руб.</div>
-                        <button type="button" class="btn-close"
-                                data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-
-                    <div class="modal-body">
-                        <div class="row">
-                            <!-- Блок с характеристиками (lg и md 4 колонки) -->
-                            <div class="d-flex col-sm-12 col-md-4 col-lg-4 order-sm-last order-md-first">
-                                <div class="row scrollable-content w-auto">
-
-                                    <div class="col-4 characteristics text-secondary">
-                                        <p>Статус</p>
-                                        <p>Поколение</p>
-                                        <p>Год</p>
-                                        <p>Пробег</p>
-                                        <p>Кузов</p>
-                                        <p>Цвет</p>
-                                        <p>Двигатель</p>
-                                        <p>Коробка</p>
-                                        <p>Привод</p>
-                                        <p>Состояние</p>
-                                        <p>Владельцы</p>
-                                    </div>
-
-                                    <div class="col mt-lg-0 mt-md-0 mt-sm-0 characteristics">
-                                        <p>под заказ</p>
-                                        <p>IV Рестайлинг</p>
-                                        <p>2020</p>
-                                        <p>44 985</p>
-                                        <p>внедорожник 5 дв.</p>
-                                        <p>белый</p>
-                                        <p>3.0 л / 395 л.с. / бензин</p>
-                                        <p>автоматическая</p>
-                                        <p>полный</p>
-                                        <p>без ДТП / без окрасов</p>
-                                        <p>1</p>
-                                    </div>
-
-                                    <div class="col-md-12 characteristics">
-                                        <p class="text-primary characteristics-title mb-2">Комплектация</p>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Активный круиз</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Электрорегулировка кресел с памятью</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Подогрев кресел</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Навигация</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Камера 360</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Apple CarPlay</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Android Auto</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Bluetooth</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">USB</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Панорамная крыша</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Система экстренного торможения</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Контроль слепых зон</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Би лэд фары</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Система контроля полосности</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Система предупреждения ДТП</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Парковочный ассистент</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Распознавание дорожных знаков</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">И многое другое!</span>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            <div class="col-sm-12 col-md-8 col-lg-8 order-first">
-                                <!-- Swiper слайдер -->
-                                <div class="swiper-container slider-container main-swiper">
-                                    <!-- Основной слайдер с большими изображениями -->
-                                    <div class="swiper-container main-slider">
-                                        <div class="swiper-wrapper">
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Range_Rover_033/front-double.png"
-                                                    alt="Range_Rover_033"></div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Range_Rover_033/back.png"
-                                                    alt="Range_Rover_033">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Range_Rover_033/side.png"
-                                                    alt="Range_Rover_033">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Range_Rover_033/in.png"
-                                                    alt="Range_Rover_033">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Range_Rover_033/int.png"
-                                                    alt="Range_Rover_033">
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Слайдер с миниатюрами -->
-                                    <div class="swiper-container thumbnail-slider">
-                                        <div class="swiper-wrapper ">
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Range_Rover_033/front-double.png"
-                                                    alt="Range_Rover_033"></div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Range_Rover_033/back.png"
-                                                    alt="Range_Rover_033">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Range_Rover_033/side.png"
-                                                    alt="Range_Rover_033">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Range_Rover_033/in.png"
-                                                    alt="Range_Rover_033">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Range_Rover_033/int.png"
-                                                    alt="Range_Rover_033">
                                             </div>
                                         </div>
                                     </div>
@@ -5151,7 +5014,59 @@
         <div class="swiper-container mt-4" id="swiper2">
             <div class="swiper-wrapper">
 
+                <!--Карточка автомобиля #24-->
+                <div class="swiper-slide">
+                    <div class="product-card">
+                        <div class=" ">
+                            <img src="images/cars/BMW_X5_xDrive40i_61/front.png" class="img-fluid"
+                                 alt="BMW_X5_xDrive40i_61">
+                        </div>
+                        <div class="card-body p-2 bg-white d-flex align-items-center justify-content-between">
+                            <div class="order-description">
+                                <h6 class="card-title">BMW X5 xDrive40i</h6>
+                                <p class="from m-0">из CША (2020), 42 815 км</p>
+                                <p class="key-offer text-primary m-0"><span
+                                        class="euro-bold fw-bold">5 860 000 руб.</span>
+                                    -
+                                    цена под ключ</p>
+                            </div>
+                            <div class="catalog-btn">
+                                <button type="submit" class="card-btn" data-bs-toggle="modal"
+                                        data-bs-target="#modalBMW_X5_xDrive40i_61">
+                                    Подробнее
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <!--Карточка автомобиля #23-->
+                <div class="swiper-slide">
+                    <div class="product-card">
+                        <div class=" ">
+                            <img src="images/cars/Volvo_XC90_60/front.png" class="img-fluid"
+                                 alt="Volvo_XC90_60">
+                        </div>
+                        <div class="card-body p-2 bg-white d-flex align-items-center justify-content-between">
+                            <div class="order-description">
+                                <h6 class="card-title">Volvo XC90</h6>
+                                <p class="from m-0">из CША (2020), 41 972 км</p>
+                                <p class="key-offer text-primary m-0"><span
+                                        class="euro-bold fw-bold">4 750 000 руб.</span>
+                                    -
+                                    цена под ключ</p>
+                            </div>
+                            <div class="catalog-btn">
+                                <button type="submit" class="card-btn" data-bs-toggle="modal"
+                                        data-bs-target="#modalVolvo_XC90_60">
+                                    Подробнее
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Карточка автомобиля #22-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5177,7 +5092,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #22-->
+                <!--Карточка автомобиля #21-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5204,7 +5119,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #21-->
+                <!--Карточка автомобиля #20-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5231,7 +5146,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #20-->
+                <!--Карточка автомобиля #19-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5259,7 +5174,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #19-->
+                <!--Карточка автомобиля #18-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5285,7 +5200,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #18-->
+                <!--Карточка автомобиля #17-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5311,7 +5226,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #17-->
+                <!--Карточка автомобиля #16-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class="sold-overlay">
@@ -5339,7 +5254,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #16-->
+                <!--Карточка автомобиля #15-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5365,7 +5280,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #15-->
+                <!--Карточка автомобиля #14-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5391,7 +5306,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #14-->
+                <!--Карточка автомобиля #13-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class="sold-overlay">
@@ -5419,7 +5334,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #13-->
+                <!--Карточка автомобиля #12-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5445,7 +5360,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #12-->
+                <!--Карточка автомобиля #11-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5471,7 +5386,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #11-->
+                <!--Карточка автомобиля #10-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5497,7 +5412,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #10-->
+                <!--Карточка автомобиля #9-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5523,7 +5438,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #9-->
+                <!--Карточка автомобиля #8-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5549,7 +5464,7 @@
                     </div>
                 </div>
 
-                <!--Карточка автомобиля #8-->
+                <!--Карточка автомобиля #7-->
                 <div class="swiper-slide">
                     <div class="product-card">
                         <div class=" ">
@@ -5569,35 +5484,6 @@
                             <div class="catalog-btn">
                                 <button type="submit" class="card-btn" data-bs-toggle="modal"
                                         data-bs-target="#modalCadillac_Escalade">
-                                    Подробнее
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!--Карточка автомобиля #7-->
-                <div class="swiper-slide">
-                    <div class="product-card">
-                        <div class="sold-overlay">
-                            <div class="sold-text">Автомобиль продан</div>
-                        </div>
-                        <img src="images/cars/Jeep_Wrangler/front.png" class="img-fluid"
-                             alt="Jeep_Wrangler">
-
-                        <div class="card-body p-2 bg-white d-flex align-items-center justify-content-between">
-                            <div class="order-description">
-                                <h6 class="card-title"><span class="new-car text-primary">Новый </span>Jeep Wrangler
-                                </h6>
-                                <p class="from m-0">из CША (2023)</p>
-                                <p class="key-offer text-primary m-0"><span
-                                        class="euro-bold fw-bold">8 505 000 руб.</span>
-                                    -
-                                    цена под ключ</p>
-                            </div>
-                            <div class="catalog-btn">
-                                <button type="submit" class="card-btn" data-bs-toggle="modal"
-                                        data-bs-target="#modalJeep_Wrangler">
                                     Подробнее
                                 </button>
                             </div>
@@ -5743,8 +5629,8 @@
                         <div class="sold-overlay">
                             <div class="sold-text">Автомобиль продан</div>
                         </div>
-                            <img src="images/cars/Mercedes-Benz_AMG_GT43/front.png" class="img-fluid"
-                                 alt="Mercedes-Benz_AMG_GT43">
+                        <img src="images/cars/Mercedes-Benz_AMG_GT43/front.png" class="img-fluid"
+                             alt="Mercedes-Benz_AMG_GT43">
 
                         <div class="card-body p-2 bg-white d-flex align-items-center justify-content-between">
                             <div class="order-description">
@@ -5765,6 +5651,410 @@
                     </div>
                 </div>
 
+            </div>
+        </div>
+
+        <!-- BMW X5 xDrive40i-->
+        <div class="modal fade" id="modalBMW_X5_xDrive40i_61" tabindex="-1" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title me-3">BMW X5 xDrive40i из США (2020)</h5>
+                        <div class="sale text-primary">5 860 000 руб.</div>
+                        <button type="button" class="btn-close"
+                                data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+
+                    <div class="modal-body">
+                        <div class="row">
+                            <!-- Блок с характеристиками (lg и md 4 колонки) -->
+                            <div class="d-flex col-sm-12 col-md-4 col-lg-4 order-sm-last order-md-first">
+                                <div class="row scrollable-content w-auto">
+
+                                    <div class="col-4 characteristics text-secondary">
+                                        <p>Статус</p>
+                                        <p>Поколение</p>
+                                        <p>Год</p>
+                                        <p>Пробег</p>
+                                        <p>Кузов</p>
+                                        <p>Цвет</p>
+                                        <p>Двигатель</p>
+                                        <p>Коробка</p>
+                                        <p>Привод</p>
+                                        <p>Состояние</p>
+                                        <p>Владельцы</p>
+                                    </div>
+
+                                    <div class="col mt-lg-0 mt-md-0 mt-sm-0 characteristics">
+                                        <p>под заказ</p>
+                                        <p>IV (G05)</p>
+                                        <p>2020</p>
+                                        <p>42 815</p>
+                                        <p>внедорожник 5 дв.</p>
+                                        <p>белый</p>
+                                        <p>3.0 л / 340 л.с. / бензин</p>
+                                        <p>автоматическая</p>
+                                        <p>полный</p>
+                                        <p>без ДТП / без окрасов</p>
+                                        <p>1</p>
+                                    </div>
+
+                                    <div class="col-md-12 characteristics">
+                                        <p class="text-primary characteristics-title mb-2">Комплектация</p>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Активный круиз</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Электрорегулировка кресел с памятью</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Подогрев кресел</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Навигация</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Камера 360</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Беслкючевой доступ</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Удаленный запуск</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Apple CarPlay</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Android Auto</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Bluetooth</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Премиальный звук</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Панорамная крыша</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система экстренного торможения</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Би лэд фары</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">USB</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Парковочный ассистент</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Распознавание дорожных знаков</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система предотвращения ДТП</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Контроль слепых зон</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система контроля полосности</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">И многое другое!</span>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="col-sm-12 col-md-8 col-lg-8 order-first">
+                                <!-- Swiper слайдер -->
+                                <div class="swiper-container slider-container main-swiper">
+                                    <!-- Основной слайдер с большими изображениями -->
+                                    <div class="swiper-container main-slider">
+                                        <div class="swiper-wrapper">
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/BMW_X5_xDrive40i_61/front-double.png"
+                                                    alt="BMW_X5_xDrive40i_61"></div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/BMW_X5_xDrive40i_61/back.png"
+                                                    alt="BMW_X5_xDrive40i_61">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/BMW_X5_xDrive40i_61/side.png"
+                                                    alt="BMW_X5_xDrive40i_61">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/BMW_X5_xDrive40i_61/in.png"
+                                                    alt="BMW_X5_xDrive40i_61">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/BMW_X5_xDrive40i_61/int.png"
+                                                    alt="BMW_X5_xDrive40i_61">
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Слайдер с миниатюрами -->
+                                    <div class="swiper-container thumbnail-slider">
+                                        <div class="swiper-wrapper ">
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/BMW_X5_xDrive40i_61/front-double.png"
+                                                    alt="BMW_X5_xDrive40i_61"></div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/BMW_X5_xDrive40i_61/back.png"
+                                                    alt="BMW_X5_xDrive40i_61">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/BMW_X5_xDrive40i_61/side.png"
+                                                    alt="BMW_X5_xDrive40i_61">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/BMW_X5_xDrive40i_61/in.png"
+                                                    alt="BMW_X5_xDrive40i_61">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/BMW_X5_xDrive40i_61/int.png"
+                                                    alt="BMW_X5_xDrive40i_61">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="modal-btn my-2 px-2 row">
+                                    <button class="order-btn col-sm-12 col-md-12 col-lg-12 " data-bs-toggle="modal"
+                                            data-bs-target="#orderModal">Заказать автомобиль
+                                    </button>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+
+        <!-- MODAL Volvo XC90-->
+        <div class="modal fade" id="modalVolvo_XC90_60" tabindex="-1" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title me-3">Volvo XC90 из США (2020)</h5>
+                        <div class="sale text-primary">4 750 000 руб.</div>
+                        <button type="button" class="btn-close"
+                                data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+
+                    <div class="modal-body">
+                        <div class="row">
+                            <!-- Блок с характеристиками (lg и md 4 колонки) -->
+                            <div class="d-flex col-sm-12 col-md-4 col-lg-4 order-sm-last order-md-first">
+                                <div class="row scrollable-content w-auto">
+
+                                    <div class="col-4 characteristics text-secondary">
+                                        <p>Статус</p>
+                                        <p>Поколение</p>
+                                        <p>Год</p>
+                                        <p>Пробег</p>
+                                        <p>Кузов</p>
+                                        <p>Цвет</p>
+                                        <p>Двигатель</p>
+                                        <p>Коробка</p>
+                                        <p>Привод</p>
+                                        <p>Состояние</p>
+                                        <p>Владельцы</p>
+                                    </div>
+
+                                    <div class="col mt-lg-0 mt-md-0 mt-sm-0 characteristics">
+                                        <p>под заказ</p>
+                                        <p>II Рестайлинг</p>
+                                        <p>2020</p>
+                                        <p>41 972</p>
+                                        <p>внедорожник 5 дв.</p>
+                                        <p>серый</p>
+                                        <p>2.0 л / 250 л.с. / бензин</p>
+                                        <p>автоматическая</p>
+                                        <p>полный</p>
+                                        <p>без ДТП / без окрасов</p>
+                                        <p>1</p>
+                                    </div>
+
+                                    <div class="col-md-12 characteristics">
+                                        <p class="text-primary characteristics-title mb-2">Комплектация</p>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Гарантия VOLVO SELEKT</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Активный круиз</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Apple CarPlay</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Android Auto</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Bluetooth</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система экстренного торможения</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Камера заднего вида</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Контроль слепых зон</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система экстренного торможения</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система контроля полосности</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Многозонный климат</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Панорамная крыша</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Премиальный звук</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Би лэд фары</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Датчик дождя/света</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Электрорегулировка кресел с памятью</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Подогрев кресел</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Бесключевой доступ</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Противоугонный комплекс</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">И многое другое!</span>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="col-sm-12 col-md-8 col-lg-8 order-first">
+                                <!-- Swiper слайдер -->
+                                <div class="swiper-container slider-container main-swiper">
+                                    <!-- Основной слайдер с большими изображениями -->
+                                    <div class="swiper-container main-slider">
+                                        <div class="swiper-wrapper">
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Volvo_XC90_60/front-double.png"
+                                                    alt="Volvo_XC90_60"></div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Volvo_XC90_60/back.png"
+                                                    alt="Volvo_XC90_60">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Volvo_XC90_60/side.png"
+                                                    alt="Volvo_XC90_60">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Volvo_XC90_60/in.png"
+                                                    alt="Volvo_XC90_60">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Volvo_XC90_60/int.png"
+                                                    alt="Volvo_XC90_60">
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Слайдер с миниатюрами -->
+                                    <div class="swiper-container thumbnail-slider">
+                                        <div class="swiper-wrapper ">
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Volvo_XC90_60/front-double.png"
+                                                    alt="Volvo_XC90_60"></div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Volvo_XC90_60/back.png"
+                                                    alt="Volvo_XC90_60">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Volvo_XC90_60/side.png"
+                                                    alt="Volvo_XC90_60">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Volvo_XC90_60/in.png"
+                                                    alt="Volvo_XC90_60">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Volvo_XC90_60/int.png"
+                                                    alt="Volvo_XC90_60">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="modal-btn my-2 px-2 row">
+                                    <button class="order-btn col-sm-12 col-md-12 col-lg-12 " data-bs-toggle="modal"
+                                            data-bs-target="#orderModal">Заказать автомобиль
+                                    </button>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
             </div>
         </div>
 
@@ -9512,7 +9802,8 @@
                             <input type="hidden" name="_captcha" value="false">
 
                             <div class="text-center mt-5">
-                                <button type="submit" class="calc-btn"  data-bs-toggle="modal" data-bs-target="#exampleModal"
+                                <button type="submit" class="calc-btn" data-bs-toggle="modal"
+                                        data-bs-target="#exampleModal"
                                         onclick="ym(96622140, 'reachGoal', 'form_sended'); return true;"
                                         value="Заказать">Отправить
                                 </button>
