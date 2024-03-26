@@ -1,28 +1,6 @@
 <data>
     <cars>
         <car>
-            <!--   Mercedes-Benz AMG GT43   -->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>AMG GT43, I Рестайлинг</folder_id>
-            <modification_id>3.0 AT (367 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_AMG_GT43</url>
-            <body_type>лифтбек</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>9774</run>
-            <year>2020</year>
-            <price>11080000</price>
-            <currency>RUR</currency>
-            <vin>000001</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT43/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT43/in.png</image>
-            </images>
-        </car>
-        <car>
             <!--   Mercedes-Benz S500 4M   -->
             <mark_id>Mercedes-Benz</mark_id>
             <folder_id>S500 4M, VII (W223)</folder_id>
@@ -66,28 +44,7 @@
                 <image>https://ncimport.ru/images/cars/BMW_740d_xDrive-M_Sport/in.png</image>
             </images>
         </car>
-        <car>
-            <!--   Audi A8 60 TFSIe   -->
-            <mark_id>Audi</mark_id>
-            <folder_id>A8 60 TFSIe, IV (D5)</folder_id>
-            <modification_id>3.0 АТ (449 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_A8_60_TFSIe</url>
-            <body_type>седан</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>41654</run>
-            <year>2020</year>
-            <price>7450000</price>
-            <currency>RUR</currency>
-            <vin>000006</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi_A8_60_TFSIe/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_A8_60_TFSIe/in.png</image>
-            </images>
-        </car>
+
         <car>
             <!--   Audi Q7 55 TFSIe S-LINE   -->
             <mark_id>Audi</mark_id>
