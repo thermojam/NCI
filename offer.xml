@@ -560,32 +560,6 @@
         </car>
 
         <car>
-            <!--     BMW 740i xDrive     -->
-            <mark_id>BMW</mark_id>
-            <folder_id>740i xDrive, VI (G11/G12) Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_740i_xDrive_042</url>
-            <body_type>седан</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>43848</run>
-            <year>2020</year>
-            <price>6170000</price>
-            <currency>RUR</currency>
-            <vin>0000042</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_042/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_042/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_042/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_042/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_042/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--     BMW X5 xDrive40i     -->
             <mark_id>BMW</mark_id>
             <folder_id>X5 xDrive40i, IV (G05)</folder_id>
@@ -686,32 +660,6 @@
                 <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_52/int.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_52/side.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_52/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--    Porsche Panamera     -->
-            <mark_id>Porsche</mark_id>
-            <folder_id>Panamera, II</folder_id>
-            <modification_id>3.0 АТ (330 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalPorsche_Panamera_53</url>
-            <body_type>лифтбек</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>34090</run>
-            <year>2020</year>
-            <price>8430000</price>
-            <currency>RUR</currency>
-            <vin>0000053</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Porsche_Panamera_53/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Panamera_53/in.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Panamera_53/int.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Panamera_53/side.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Panamera_53/back.png</image>
             </images>
         </car>
 
@@ -838,32 +786,6 @@
         </car>
 
         <car>
-            <!--     Mercedes-Benz GLS 450     -->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>GLS 450, II (X167)</folder_id>
-            <modification_id>3.0 АТ (362 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_GLS_450_59</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>40683</run>
-            <year>2020</year>
-            <price>7380000</price>
-            <currency>RUR</currency>
-            <vin>0000059</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_59/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_59/in.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_59/int.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_59/side.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_59/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--     Volvo XC90 T5    -->
             <mark_id>Volvo</mark_id>
             <folder_id>XC90 T5, II Рестайлинг</folder_id>
@@ -890,32 +812,6 @@
         </car>
 
         <car>
-            <!--     BMW X5 xDrive40i     -->
-            <mark_id>BMW</mark_id>
-            <folder_id>X5 xDrive40i, IV (G05)</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_X5_xDrive40i_61</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>42815</run>
-            <year>2020</year>
-            <price>5860000</price>
-            <currency>RUR</currency>
-            <vin>0000061</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_61/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_61/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_61/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_61/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_61/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--     Range Rover    -->
             <mark_id>Range Rover</mark_id>
             <folder_id>IV Рестайлинг</folder_id>
@@ -938,32 +834,6 @@
                 <image>https://ncimport.ru/images/cars/Range_Rover_62/int.png</image>
                 <image>https://ncimport.ru/images/cars/Range_Rover_62/side.png</image>
                 <image>https://ncimport.ru/images/cars/Range_Rover_62/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--     BMW X6 xDrive40i    -->
-            <mark_id>BMW</mark_id>
-            <folder_id>X6 xDrive40i, III (G06)</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_X6_xDrive40i_63</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>47224</run>
-            <year>2021</year>
-            <price>7410000</price>
-            <currency>RUR</currency>
-            <vin>0000063</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_63/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_63/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_63/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_63/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_63/back.png</image>
             </images>
         </car>
 
@@ -1044,5 +914,6 @@
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT43_66/back.png</image>
             </images>
         </car>
+
     </cars>
 </data>
