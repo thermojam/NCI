@@ -6,32 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_047/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_047/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_047/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_047/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_047/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_047/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_033/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_033/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_033/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_033/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_033/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_033/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_035/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_035/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_035/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_035/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_035/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_035/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_036/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_036/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_036/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_036/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_036/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_036/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -339,7 +313,8 @@
       <workItem from="1711828456228" duration="4745000" />
       <workItem from="1711864437532" duration="834000" />
       <workItem from="1711960408875" duration="412000" />
-      <workItem from="1712153079722" duration="8191000" />
+      <workItem from="1712153079722" duration="8678000" />
+      <workItem from="1712162433581" duration="2296000" />
     </task>
     <servers />
   </component>
