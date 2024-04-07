@@ -2,110 +2,6 @@
     <cars>
 
         <car>
-            <!--      Mercedes-Benz S500 4M      -->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>S500 4M, VII (W223)</folder_id>
-            <modification_id>3.0 AT (435 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_S500_4M</url>
-            <body_type>седан</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>39297</run>
-            <year>2020</year>
-            <price>10095000</price>
-            <currency>RUR</currency>
-            <vin>000002</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_S500_4M/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_S500_4M/in.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_S500_4M/int.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_S500_4M/side.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_S500_4M/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--      BMW 740d xDrive-M Sport      -->
-            <mark_id>BMW</mark_id>
-            <folder_id>740d xDrive-M Sport, VI (G11/G12) Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (320 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_740d_xDrive-M_Sport</url>
-            <body_type>седан</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>46000</run>
-            <year>2019</year>
-            <price>7940000</price>
-            <currency>RUR</currency>
-            <vin>000003</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_740d_xDrive-M_Sport/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740d_xDrive-M_Sport/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740d_xDrive-M_Sport/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740d_xDrive-M_Sport/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740d_xDrive-M_Sport/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--      Audi Q7 55 TFSIe S-LINE      -->
-            <mark_id>Audi</mark_id>
-            <folder_id>Q7 55 TFSIe S-LINE, II (4M) Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_Q7_55_TFSIe_S-LINE</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>29904</run>
-            <year>2020</year>
-            <price>7575000</price>
-            <currency>RUR</currency>
-            <vin>000007</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_55_TFSIe_S-LINE/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_55_TFSIe_S-LINE/in.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_55_TFSIe_S-LINE/int.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_55_TFSIe_S-LINE/side.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_55_TFSIe_S-LINE/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--      Porsche Cayenne      -->
-            <mark_id>Porsche</mark_id>
-            <folder_id>Cayenne, III</folder_id>
-            <modification_id>3.0 АТ (462 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalPorsche_Cayenne_grey</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>22192</run>
-            <year>2020</year>
-            <price>9365000</price>
-            <currency>RUR</currency>
-            <vin>000008</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_grey/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_grey/in.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_grey/int.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_grey/side.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_grey/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--      BMW X6 xDrive40i      -->
             <mark_id>BMW</mark_id>
             <folder_id>X6 xDrive40i, III (G06)</folder_id>
@@ -129,54 +25,6 @@
                 <image>https://ncimport.ru/images/cars/BMW_X6_x_Drive40i/side.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_X6_x_Drive40i/back.png</image>
             </images>
-        </car>
-
-        <car>
-            <!--      New Volvo XC40 B4      -->
-            <mark_id>Volvo</mark_id>
-            <folder_id>XC40 B4, I Рестайлинг</folder_id>
-            <modification_id>2.0 АТ (247 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalVolvo_XC40_B4</url>
-            <images>
-                <image>https://ncimport.ru/images/cars/Volvo_XC40_B4/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Volvo_XC40_B4/in.png</image>
-                <image>https://ncimport.ru/images/cars/Volvo_XC40_B4/int.png</image>
-                <image>https://ncimport.ru/images/cars/Volvo_XC40_B4/side.png</image>
-                <image>https://ncimport.ru/images/cars/Volvo_XC40_B4/back.png</image>
-            </images>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <year>2023</year>
-            <price>6255000</price>
-            <currency>RUR</currency>
-            <vin>0000012</vin>
-            <owners_number>Не было владельцев</owners_number>
-        </car>
-
-        <car>
-            <!--      New Volvo S90      -->
-            <mark_id>Volvo</mark_id>
-            <folder_id>S90, II Рестайлинг</folder_id>
-            <modification_id>2.0 АТ (295 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalVolvo_S90</url>
-            <images>
-                <image>https://ncimport.ru/images/cars/Volvo_S90/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Volvo_S90/in.png</image>
-                <image>https://ncimport.ru/images/cars/Volvo_S90/int.png</image>
-                <image>https://ncimport.ru/images/cars/Volvo_S90/side.png</image>
-                <image>https://ncimport.ru/images/cars/Volvo_S90/back.png</image>
-            </images>
-            <body_type>седан</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <year>2023</year>
-            <price>7865000</price>
-            <currency>RUR</currency>
-            <vin>0000013</vin>
-            <owners_number>Не было владельцев</owners_number>
         </car>
 
         <car>
@@ -456,32 +304,6 @@
         </car>
 
         <car>
-            <!--      Audi Q8 55 TFSI      -->
-            <mark_id>Audi</mark_id>
-            <folder_id>Q8 55 TFSI, I (4M)</folder_id>
-            <modification_id>3.0 АТ (335 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_Q8_55_TFSI_031</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>72245</run>
-            <year>2020</year>
-            <price>6100000</price>
-            <currency>RUR</currency>
-            <vin>0000031</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI_031/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI_031/in.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI_031/int.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI_031/side.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55_TFSI_031/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--      Range Rover      -->
             <mark_id>Range Rover</mark_id>
             <folder_id>IV Рестайлинг</folder_id>
@@ -736,30 +558,6 @@
         </car>
 
         <car>
-            <!--      New Range Rover     -->
-            <mark_id>Range Rover</mark_id>
-            <folder_id>V</folder_id>
-            <modification_id>3.0 АТ (395 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalRange_Rover_57</url>
-            <images>
-                <image>https://ncimport.ru/images/cars/Range_Rover_57/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_57/in.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_57/int.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_57/side.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_57/back.png</image>
-            </images>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <year>2024</year>
-            <price>17895000</price>
-            <currency>RUR</currency>
-            <vin>0000057</vin>
-            <owners_number>Не было владельцев</owners_number>
-        </car>
-
-        <car>
             <!--      Mercedes-Benz GLS 450      -->
             <mark_id>Mercedes-Benz</mark_id>
             <folder_id>GLS 450, II (X167)</folder_id>
@@ -782,58 +580,6 @@
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_58/int.png</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_58/side.png</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_58/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--      Volvo XC90 T5     -->
-            <mark_id>Volvo</mark_id>
-            <folder_id>XC90 T5, II Рестайлинг</folder_id>
-            <modification_id>2.0 АТ (250 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalVolvo_XC90_60</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>41972</run>
-            <year>2020</year>
-            <price>4750000</price>
-            <currency>RUR</currency>
-            <vin>0000060</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Volvo_XC90_60/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Volvo_XC90_60/in.png</image>
-                <image>https://ncimport.ru/images/cars/Volvo_XC90_60/int.png</image>
-                <image>https://ncimport.ru/images/cars/Volvo_XC90_60/side.png</image>
-                <image>https://ncimport.ru/images/cars/Volvo_XC90_60/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--      Range Rover     -->
-            <mark_id>Range Rover</mark_id>
-            <folder_id>IV Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (395 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalRange_Rover_62</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>голубой</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>40041</run>
-            <year>2020</year>
-            <price>8015000</price>
-            <currency>RUR</currency>
-            <vin>0000062</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Range_Rover_62/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_62/in.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_62/int.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_62/side.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_62/back.png</image>
             </images>
         </car>
 

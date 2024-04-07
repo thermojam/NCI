@@ -6,9 +6,34 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/adaptive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/adaptive.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adaptive.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_55_TFSIe_S-LINE/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_55_TFSIe_S-LINE/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_55_TFSIe_S-LINE/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_55_TFSIe_S-LINE/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_55_TFSIe_S-LINE/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_55_TFSIe_S-LINE/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740d_xDrive-M_Sport/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740d_xDrive-M_Sport/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740d_xDrive-M_Sport/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740d_xDrive-M_Sport/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740d_xDrive-M_Sport/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740d_xDrive-M_Sport/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_S500_4M/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_S500_4M/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_S500_4M/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_S500_4M/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_S500_4M/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_S500_4M/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Cayenne_grey/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Cayenne_grey/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Cayenne_grey/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Cayenne_grey/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Cayenne_grey/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Cayenne_grey/side.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,9 +94,9 @@
       <recent name="C:\Users\Susik\Desktop\NCI\images\reveiw" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Susik\Desktop\NCI\images\cars" />
       <recent name="C:\Users\Susik\Desktop\NCI\css" />
       <recent name="C:\Users\Susik\Desktop\NCI\fonts" />
-      <recent name="C:\Users\Susik\Desktop\NCI\images\cars" />
       <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Porsche_Cayenne_black" />
       <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Mercedes-Benz_S500_4M" />
     </key>
@@ -318,7 +343,12 @@
       <workItem from="1712153079722" duration="8678000" />
       <workItem from="1712162433581" duration="3000000" />
       <workItem from="1712294626637" duration="1768000" />
-      <workItem from="1712296479718" duration="338000" />
+      <workItem from="1712296479718" duration="862000" />
+      <workItem from="1712304620663" duration="48000" />
+      <workItem from="1712387787840" duration="1554000" />
+      <workItem from="1712394032791" duration="1460000" />
+      <workItem from="1712419798392" duration="3930000" />
+      <workItem from="1712467352444" duration="4340000" />
     </task>
     <servers />
   </component>
