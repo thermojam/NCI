@@ -1,4 +1,13 @@
 "use strict";
+//ORDER-CARS-INPUT-HIDDEN
+$(document).ready(function() {
+    $('.order-btn').click(function() {
+        let title = $(this).data('title');
+        $('#orderProduct').val(title);
+        $('#orderModal').modal('show');
+    });
+});
+
 // LOADER
 window.addEventListener("load", function () {
     document.getElementById("loaderContainer").style.display = "none";
