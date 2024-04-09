@@ -15,6 +15,9 @@ window.addEventListener("load", function () {
 
 // VALIDATION
 // modal-call
+let mobileCall = $ ('#mobile_call');
+mobileCall.inputmask({"mask": "+7(999)999-99-99"});
+
 document.getElementById('name_call').addEventListener('input', function () {
     this.value = this.value.replace(/[^A-Za-zА-Яа-яЁё\s]/g, '');
 });
@@ -23,6 +26,9 @@ document.getElementById('mobile_call').addEventListener('input', function () {
 });
 
 // order-modal
+let mobileTel = $ ('#mobile_tel');
+mobileTel.inputmask({"mask": "+7(999)999-99-99"});
+
 document.getElementById('name').addEventListener('input', function () {
     this.value = this.value.replace(/[^A-Za-zА-Яа-яЁё\s]/g, '');
 });
@@ -31,6 +37,9 @@ document.getElementById('mobile_tel').addEventListener('input', function () {
 });
 
 // calculation
+let mobilePhone = $ ('#mobile_phone');
+mobilePhone.inputmask({"mask": "+7(999)999-99-99"});
+
 document.getElementById('user_name').addEventListener('input', function () {
     this.value = this.value.replace(/[^A-Za-zА-Яа-яЁё\s]/g, '');
 });
