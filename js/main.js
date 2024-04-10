@@ -163,7 +163,6 @@ modalIDs.forEach(function (modalID) {
             containers.forEach(function (container) {
                 let mainSlider = new Swiper(container.querySelector('.main-slider'), {
                     spaceBetween: 10,
-                    allowTouchMove: false,
                     lazy: true,
                     speed: 1000,
                     autoplay: {
