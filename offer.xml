@@ -667,32 +667,6 @@
             <mark_id>BMW</mark_id>
             <folder_id>740i xDrive, VI (G11/G12) Рестайлинг</folder_id>
             <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_740i_xDrive_67</url>
-            <body_type>седан</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>24393</run>
-            <year>2021</year>
-            <price>7290000</price>
-            <currency>RUR</currency>
-            <vin>0000067</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_67/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_67/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_67/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_67/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_67/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--       BMW 740i xDrive      -->
-            <mark_id>BMW</mark_id>
-            <folder_id>740i xDrive, VI (G11/G12) Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
             <url>https://ncimport.ru/#modalBMW_740i_xDrive_68</url>
             <body_type>седан</body_type>
             <color>серый</color>
@@ -711,32 +685,6 @@
                 <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_68/int.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_68/side.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_68/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--       Mercedes-Benz GLS 450     -->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>GLS 450, II (X167)</folder_id>
-            <modification_id>3.0 АТ (362 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_GLS_450_69</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>26599</run>
-            <year>2021</year>
-            <price>8190000</price>
-            <currency>RUR</currency>
-            <vin>0000069</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_69/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_69/in.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_69/int.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_69/side.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_69/back.png</image>
             </images>
         </car>
 

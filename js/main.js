@@ -1,7 +1,7 @@
 "use strict";
 //ORDER-CARS-INPUT-HIDDEN
-$(document).ready(function() {
-    $('.order-btn').click(function() {
+$(document).ready(function () {
+    $('.order-btn').click(function () {
         let title = $(this).data('title');
         $('#orderProduct').val(title);
         $('#orderModal').modal('show');
@@ -13,9 +13,9 @@ window.addEventListener("load", function () {
     document.getElementById("loaderContainer").style.display = "none";
 });
 
-// VALIDATION
+// VALIDATION and Masks
 // modal-call
-let mobileCall = $ ('#mobile_call');
+let mobileCall = $('#mobile_call');
 mobileCall.inputmask({"mask": "+7(999)999-99-99"});
 
 document.getElementById('name_call').addEventListener('input', function () {
@@ -26,7 +26,7 @@ document.getElementById('mobile_call').addEventListener('input', function () {
 });
 
 // order-modal
-let mobileTel = $ ('#mobile_tel');
+let mobileTel = $('#mobile_tel');
 mobileTel.inputmask({"mask": "+7(999)999-99-99"});
 
 document.getElementById('name').addEventListener('input', function () {
@@ -37,7 +37,7 @@ document.getElementById('mobile_tel').addEventListener('input', function () {
 });
 
 // calculation
-let mobilePhone = $ ('#mobile_phone');
+let mobilePhone = $('#mobile_phone');
 mobilePhone.inputmask({"mask": "+7(999)999-99-99"});
 
 document.getElementById('user_name').addEventListener('input', function () {
@@ -146,10 +146,11 @@ let modalIDs = [
     'modalAudi_Q7_45_TFSI_50', 'modalAudi_Q8_55_TFSI_51', 'modalBMW_X7_xDrive40i_52',
     'modalMercedes-Benz_GLS_450_54', 'modalBMW_X7_xDrive40i_55', 'modalMercedes-Benz_E350_56',
     'modalMercedes-Benz_GLS_450_58',
-    'modalRange_Rover_Sport_64', 'modalRange_Rover_Sport_65', 'modalMercedes-Benz_AMG_GT43_66', 'modalBMW_740i_xDrive_67',
-    'modalBMW_740i_xDrive_68', 'modalMercedes-Benz_GLS_450_69', 'modalPorsche_Panamera_70', 'modalBMW_X6_xDrive40i_71',
-    'modalBMW_X5_xDrive40i_72', 'modalRange_Rover_73', 'modalMercedes-Benz_S500_74', 'modalVolvo_S90_T6_75', 'modalVolvo_XC90_T5_76'
-    , 'modalRange_Rover_77', 'modalAudi_Q8_55TFSI_78'];
+    'modalRange_Rover_Sport_64', 'modalRange_Rover_Sport_65', 'modalMercedes-Benz_AMG_GT43_66',
+    'modalBMW_740i_xDrive_68', 'modalPorsche_Panamera_70', 'modalBMW_X6_xDrive40i_71',
+    'modalBMW_X5_xDrive40i_72', 'modalRange_Rover_73', 'modalMercedes-Benz_S500_74', 'modalVolvo_S90_T6_75', 'modalVolvo_XC90_T5_76',
+    'modalRange_Rover_77', 'modalAudi_Q8_55TFSI_78', 'modalBentley_Bentayga_79', 'modalMaserati_Ghibli_S_Q4_80', 'modalMaserati_Levante_81',
+    'modalBMW_740i_xDrive_82', 'modalMercedes-Benz_GLS_450_83'];
 
 // Инициализация обработчика для каждого модального окна
 modalIDs.forEach(function (modalID) {
@@ -292,10 +293,11 @@ $(document).ready(function () {
         '#modalAudi_Q7_45_TFSI_50', '#modalAudi_Q8_55_TFSI_51', '#modalBMW_X7_xDrive40i_52',
         '#modalMercedes-Benz_GLS_450_54', 'modalBMW_X7_xDrive40i_55', '#modalMercedes-Benz_E350_56', '#modalRange_Rover_57',
         '#modalMercedes-Benz_GLS_450_58',
-        '#modalRange_Rover_Sport_64', '#modalRange_Rover_Sport_65', '#modalMercedes-Benz_AMG_GT43_66', '#modalBMW_740i_xDrive_67',
-        '#modalBMW_740i_xDrive_68', '#modalMercedes-Benz_GLS_450_69', '#modalPorsche_Panamera_70', '#modalBMW_X6_xDrive40i_71',
+        '#modalRange_Rover_Sport_64', '#modalRange_Rover_Sport_65', '#modalMercedes-Benz_AMG_GT43_66',
+        '#modalBMW_740i_xDrive_68', '#modalPorsche_Panamera_70', '#modalBMW_X6_xDrive40i_71',
         '#modalBMW_X5_xDrive40i_72', '#modalRange_Rover_73', '#modalMercedes-Benz_S500_74', '#modalVolvo_S90_T6_75', '#modalVolvo_XC90_T5_76',
-        '#modalRange_Rover_77', '#modalAudi_Q8_55TFSI_78'];
+        '#modalRange_Rover_77', '#modalAudi_Q8_55TFSI_78', '#modalBentley_Bentayga_79', '#modalMaserati_Ghibli_S_Q4_80', '#modalMaserati_Levante_81',
+        '#modalBMW_740i_xDrive_82', '#modalMercedes-Benz_GLS_450_83'];
 
     // Перебор всех идентификаторов
     modalIds.forEach(function (modalId) {
