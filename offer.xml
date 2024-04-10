@@ -3,7 +3,7 @@
     <cars>
 
         <car>
-            <!--       BMW X6 xDrive40i       -->
+            <!--        BMW X6 xDrive40i        -->
             <mark_id>BMW</mark_id>
             <folder_id>X6 xDrive40i, III (G06)</folder_id>
             <modification_id>3.0 АТ (340 л.с.)</modification_id>
@@ -29,7 +29,7 @@
         </car>
 
         <car>
-            <!--       New Range Rover Sport       -->
+            <!--        New Range Rover Sport        -->
             <mark_id>Range Rover</mark_id>
             <folder_id>Sport, III</folder_id>
             <modification_id>3.0 АТ (355 л.с.)</modification_id>
@@ -53,7 +53,7 @@
         </car>
 
         <car>
-            <!--       Porsche Cayenne       -->
+            <!--        Porsche Cayenne        -->
             <mark_id>Porsche</mark_id>
             <folder_id>Cayenne, III</folder_id>
             <modification_id>3.0 АТ (335 л.с.)</modification_id>
@@ -79,7 +79,7 @@
         </car>
 
         <car>
-            <!--       BMW 840i xDrive       -->
+            <!--        BMW 840i xDrive        -->
             <mark_id>BMW</mark_id>
             <folder_id>840i xDrive, II (G14/G15/G16)</folder_id>
             <modification_id>3.0 АТ (335 л.с.)</modification_id>
@@ -105,7 +105,7 @@
         </car>
 
         <car>
-            <!--       New Range Rover Velar       -->
+            <!--        New Range Rover Velar        -->
             <mark_id>Range Rover</mark_id>
             <folder_id>Velar, I Рестайлинг</folder_id>
             <modification_id>2.0 АТ (247 л.с.)</modification_id>
@@ -129,7 +129,7 @@
         </car>
 
         <car>
-            <!--       New  Mercedes-Benz GLE       -->
+            <!--        New  Mercedes-Benz GLE        -->
             <mark_id>Mercedes-Benz</mark_id>
             <folder_id>GLE, II (V167) Рестайлинг</folder_id>
             <modification_id>2.0 АТ (255 л.с.)</modification_id>
@@ -153,7 +153,7 @@
         </car>
 
         <car>
-            <!--       New  BMW X5 xDrive40i       -->
+            <!--        New  BMW X5 xDrive40i        -->
             <mark_id>BMW</mark_id>
             <folder_id>X5 xDrive40i, IV (G05/G18) Рестайлинг</folder_id>
             <modification_id>3.0 АТ (375 л.с.)</modification_id>
@@ -177,7 +177,7 @@
         </car>
 
         <car>
-            <!--       New  Cadillac Escalade       -->
+            <!--        New  Cadillac Escalade        -->
             <mark_id>Cadillac</mark_id>
             <folder_id>Escalade, V</folder_id>
             <modification_id>3.0 АТ (277 л.с.)</modification_id>
@@ -201,7 +201,7 @@
         </car>
 
         <car>
-            <!--       Porsche Cayenne       -->
+            <!--        Porsche Cayenne        -->
             <mark_id>Porsche</mark_id>
             <folder_id>Cayenne, III</folder_id>
             <modification_id>3.0 АТ (335 л.с.)</modification_id>
@@ -227,7 +227,7 @@
         </car>
 
         <car>
-            <!--       Porsche Panamera       -->
+            <!--        Porsche Panamera        -->
             <mark_id>Porsche</mark_id>
             <folder_id>Panamera, II</folder_id>
             <modification_id>3.0 АТ (330 л.с.)</modification_id>
@@ -253,7 +253,7 @@
         </car>
 
         <car>
-            <!--       Audi A8 Long 55TFSI       -->
+            <!--        Audi A8 Long 55TFSI        -->
             <mark_id>Audi</mark_id>
             <folder_id>A8 Long 55TFS, IV (D5)</folder_id>
             <modification_id>3.0 АТ (335 л.с.)</modification_id>
@@ -279,7 +279,7 @@
         </car>
 
         <car>
-            <!--       Audi Q7 45 TFSI       -->
+            <!--        Audi Q7 45 TFSI        -->
             <mark_id>Audi</mark_id>
             <folder_id>Q7 45 TFSI, II (4M) Рестайлинг</folder_id>
             <modification_id>2.0 АТ (248 л.с.)</modification_id>
@@ -305,7 +305,7 @@
         </car>
 
         <car>
-            <!--       Range Rover       -->
+            <!--        Range Rover        -->
             <mark_id>Range Rover</mark_id>
             <folder_id>IV Рестайлинг</folder_id>
             <modification_id>3.0 АТ (395 л.с.)</modification_id>
@@ -331,7 +331,7 @@
         </car>
 
         <car>
-            <!--       Mercedes-Benz GLE 350       -->
+            <!--        Mercedes-Benz GLE 350        -->
             <mark_id>Mercedes-Benz</mark_id>
             <folder_id>GLE 350, II (V167)</folder_id>
             <modification_id>2.0 АТ (255 л.с.)</modification_id>
@@ -357,7 +357,7 @@
         </car>
 
         <car>
-            <!--       Mercedes-Benz GLE 350       -->
+            <!--        Mercedes-Benz GLE 350        -->
             <mark_id>Mercedes-Benz</mark_id>
             <folder_id>GLE 350, II (V167)</folder_id>
             <modification_id>2.0 АТ (255 л.с.)</modification_id>
@@ -383,7 +383,7 @@
         </car>
 
         <car>
-            <!--       BMW X5 xDrive40i       -->
+            <!--        BMW X5 xDrive40i        -->
             <mark_id>BMW</mark_id>
             <folder_id>X5 xDrive40i, IV (G05)</folder_id>
             <modification_id>3.0 АТ (340 л.с.)</modification_id>
@@ -409,7 +409,7 @@
         </car>
 
         <car>
-            <!--       Audi Q7 45 TFSI       -->
+            <!--        Audi Q7 45 TFSI        -->
             <mark_id>Audi</mark_id>
             <folder_id>Q7 45 TFSI, II (4M) Рестайлинг</folder_id>
             <modification_id>2.0 АТ (248 л.с.)</modification_id>
@@ -435,7 +435,7 @@
         </car>
 
         <car>
-            <!--       Audi Q8 55 TFSI       -->
+            <!--        Audi Q8 55 TFSI        -->
             <mark_id>Audi</mark_id>
             <folder_id>Q8 55 TFSI, I (4M)</folder_id>
             <modification_id>3.0 АТ (335 л.с.)</modification_id>
@@ -461,7 +461,7 @@
         </car>
 
         <car>
-            <!--      BMW X7 xDrive40i       -->
+            <!--       BMW X7 xDrive40i        -->
             <mark_id>BMW</mark_id>
             <folder_id>X7 xDrive40i, I (G07)</folder_id>
             <modification_id>3.0 АТ (340 л.с.)</modification_id>
@@ -487,7 +487,7 @@
         </car>
 
         <car>
-            <!--       New Mercedes-Benz GLS 450       -->
+            <!--        New Mercedes-Benz GLS 450        -->
             <mark_id>Mercedes-Benz</mark_id>
             <folder_id>GLS 450, II (X167) Рестайлинг</folder_id>
             <modification_id>3.0 АТ (375 л.с.)</modification_id>
@@ -511,7 +511,7 @@
         </car>
 
         <car>
-            <!--       New BMW X7 xDrive40i       -->
+            <!--        New BMW X7 xDrive40i        -->
             <mark_id>BMW</mark_id>
             <folder_id>X7 xDrive40i, I (G07) Рестайлинг</folder_id>
             <modification_id>3.0 АТ (375 л.с.)</modification_id>
@@ -535,7 +535,7 @@
         </car>
 
         <car>
-            <!--       New Mercedes-Benz E350       -->
+            <!--        New Mercedes-Benz E350        -->
             <mark_id>Mercedes-Benz</mark_id>
             <folder_id>E350, VI (W214, S214)</folder_id>
             <modification_id>2.0 АТ (255 л.с.)</modification_id>
@@ -559,7 +559,7 @@
         </car>
 
         <car>
-            <!--       Mercedes-Benz GLS 450       -->
+            <!--        Mercedes-Benz GLS 450        -->
             <mark_id>Mercedes-Benz</mark_id>
             <folder_id>GLS 450, II (X167)</folder_id>
             <modification_id>3.0 АТ (362 л.с.)</modification_id>
@@ -585,7 +585,7 @@
         </car>
 
         <car>
-            <!--       Range Rover Sport      -->
+            <!--        Range Rover Sport       -->
             <mark_id>Range Rover</mark_id>
             <folder_id>Sport, II Рестайлинг</folder_id>
             <modification_id>3.0 АТ (355 л.с.)</modification_id>
@@ -611,7 +611,7 @@
         </car>
 
         <car>
-            <!--       Range Rover Sport      -->
+            <!--        Range Rover Sport       -->
             <mark_id>Range Rover</mark_id>
             <folder_id>Sport, II Рестайлинг</folder_id>
             <modification_id>3.0 АТ (355 л.с.)</modification_id>
@@ -637,7 +637,7 @@
         </car>
 
         <car>
-            <!--       Mercedes-Benz AMG GT43      -->
+            <!--        Mercedes-Benz AMG GT43       -->
             <mark_id>Mercedes-Benz</mark_id>
             <folder_id>AMG GT43, I Рестайлинг</folder_id>
             <modification_id>3.0 АТ (362 л.с.)</modification_id>
@@ -663,7 +663,7 @@
         </car>
 
         <car>
-            <!--       BMW 740i xDrive      -->
+            <!--        BMW 740i xDrive       -->
             <mark_id>BMW</mark_id>
             <folder_id>740i xDrive, VI (G11/G12) Рестайлинг</folder_id>
             <modification_id>3.0 АТ (340 л.с.)</modification_id>
@@ -689,7 +689,7 @@
         </car>
 
         <car>
-            <!--       Porsche Panamera     -->
+            <!--        Porsche Panamera      -->
             <mark_id>Porsche</mark_id>
             <folder_id>Panamera, II</folder_id>
             <modification_id>3.0 АТ (330 л.с.)</modification_id>
@@ -715,7 +715,7 @@
         </car>
 
         <car>
-            <!--       BMW X6 xDrive40i     -->
+            <!--        BMW X6 xDrive40i      -->
             <mark_id>BMW</mark_id>
             <folder_id>X6 xDrive40i, III (G06)</folder_id>
             <modification_id>3.0 АТ (340 л.с.)</modification_id>
@@ -741,7 +741,7 @@
         </car>
 
         <car>
-            <!--       BMW X5 xDrive40i     -->
+            <!--        BMW X5 xDrive40i      -->
             <mark_id>BMW</mark_id>
             <folder_id>X5 xDrive40i, IV (G05)</folder_id>
             <modification_id>3.0 АТ (340 л.с.)</modification_id>
@@ -767,7 +767,7 @@
         </car>
 
         <car>
-            <!--      Range Rover    -->
+            <!--       Range Rover     -->
             <mark_id>Range Rover</mark_id>
             <folder_id>IV Рестайлинг</folder_id>
             <modification_id>3.0 АТ (395 л.с.)</modification_id>
@@ -793,7 +793,7 @@
         </car>
 
         <car>
-            <!--      Mercedes-Benz S500    -->
+            <!--       Mercedes-Benz S500     -->
             <mark_id>Mercedes-Benz</mark_id>
             <folder_id>S500, VII (W223)</folder_id>
             <modification_id>3.0 АТ (429 л.с.)</modification_id>
@@ -819,7 +819,7 @@
         </car>
 
         <car>
-            <!--      Volvo S90 T6    -->
+            <!--       Volvo S90 T6     -->
             <mark_id>Volvo</mark_id>
             <folder_id>S90 T6, II Рестайлинг</folder_id>
             <modification_id>2.0 АТ (316 л.с.)</modification_id>
@@ -845,7 +845,7 @@
         </car>
 
         <car>
-            <!--      Volvo XC90 T5    -->
+            <!--       Volvo XC90 T5     -->
             <mark_id>Volvo</mark_id>
             <folder_id>XC90 T5, II Рестайлинг</folder_id>
             <modification_id>2.0 АТ (250 л.с.)</modification_id>
@@ -871,7 +871,7 @@
         </car>
 
         <car>
-            <!--       New Range Rover       -->
+            <!--        New Range Rover        -->
             <mark_id>Range Rover</mark_id>
             <folder_id>V</folder_id>
             <modification_id>3.0 АТ (395 л.с.)</modification_id>
@@ -895,7 +895,7 @@
         </car>
 
         <car>
-            <!--      Audi Q8 55TFSI    -->
+            <!--       Audi Q8 55TFSI     -->
             <mark_id>Audi</mark_id>
             <folder_id>Q8 55TFSI, I (4M)</folder_id>
             <modification_id>3.0 АТ (335 л.с.)</modification_id>
@@ -917,6 +917,136 @@
                 <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_78/int.png</image>
                 <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_78/side.png</image>
                 <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_78/back.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--       Bentley Bentayga    -->
+            <mark_id>Bentley</mark_id>
+            <folder_id>Bentayga, I</folder_id>
+            <modification_id>3.0 АТ (449 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBentley_Bentayga_79</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>24410</run>
+            <year>2020</year>
+            <price>13100000</price>
+            <currency>RUR</currency>
+            <vin>0000079</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Bentley_Bentayga_79/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Bentley_Bentayga_79/in.png</image>
+                <image>https://ncimport.ru/images/cars/Bentley_Bentayga_79/int.png</image>
+                <image>https://ncimport.ru/images/cars/Bentley_Bentayga_79/side.png</image>
+                <image>https://ncimport.ru/images/cars/Bentley_Bentayga_79/back.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--       Maserati Ghibli S Q4    -->
+            <mark_id>Maserati</mark_id>
+            <folder_id>Ghibli S Q4, III Рестайлинг 2</folder_id>
+            <modification_id>3.0 АТ (424 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMaserati_Ghibli_S_Q4_80</url>
+            <body_type>седан</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>27821</run>
+            <year>2020</year>
+            <price>6315000</price>
+            <currency>RUR</currency>
+            <vin>0000080</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Maserati_Ghibli_S_Q4_80/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Maserati_Ghibli_S_Q4_80/in.png</image>
+                <image>https://ncimport.ru/images/cars/Maserati_Ghibli_S_Q4_80/int.png</image>
+                <image>https://ncimport.ru/images/cars/Maserati_Ghibli_S_Q4_80/side.png</image>
+                <image>https://ncimport.ru/images/cars/Maserati_Ghibli_S_Q4_80/back.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--       Maserati Levante    -->
+            <mark_id>Maserati</mark_id>
+            <folder_id>Levante, I Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (345 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMaserati_Levante_81</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>27029</run>
+            <year>2020</year>
+            <price>7130000</price>
+            <currency>RUR</currency>
+            <vin>0000081</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Maserati_Levante_81/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Maserati_Levante_81/in.png</image>
+                <image>https://ncimport.ru/images/cars/Maserati_Levante_81/int.png</image>
+                <image>https://ncimport.ru/images/cars/Maserati_Levante_81/side.png</image>
+                <image>https://ncimport.ru/images/cars/Maserati_Levante_81/back.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--       BMW 740i xDrive    -->
+            <mark_id>BMW</mark_id>
+            <folder_id>740i xDrive, VI (G11/G12) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (340 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW_740i_xDrive_82</url>
+            <body_type>седан</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>29206</run>
+            <year>2021</year>
+            <price>6880000</price>
+            <currency>RUR</currency>
+            <vin>0000082</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_82/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_82/in.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_82/int.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_82/side.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_82/back.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--       Mercedes-Benz GLS 450    -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLS 450, II (X167)</folder_id>
+            <modification_id>3.0 АТ (362 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMercedes-Benz_GLS_450_83</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>27866</run>
+            <year>2021</year>
+            <price>8245000</price>
+            <currency>RUR</currency>
+            <vin>0000083</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_83/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_83/in.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_83/int.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_83/side.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_83/back.png</image>
             </images>
         </car>
 
