@@ -153,30 +153,6 @@
         </car>
 
         <car>
-            <!--        New  BMW X5 xDrive40i        -->
-            <mark_id>BMW</mark_id>
-            <folder_id>X5 xDrive40i, IV (G05/G18) Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (375 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_X5_xDrive40i_2024</url>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_2024/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_2024/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_2024/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_2024/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_2024/back.png</image>
-            </images>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <year>2024</year>
-            <price>10650000</price>
-            <currency>RUR</currency>
-            <vin>0000021</vin>
-            <owners_number>Не было владельцев</owners_number>
-        </car>
-
-        <car>
             <!--        New  Cadillac Escalade        -->
             <mark_id>Cadillac</mark_id>
             <folder_id>Escalade, V</folder_id>
@@ -227,32 +203,6 @@
         </car>
 
         <car>
-            <!--        Porsche Panamera        -->
-            <mark_id>Porsche</mark_id>
-            <folder_id>Panamera, II</folder_id>
-            <modification_id>3.0 АТ (330 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalPorsche_Panamera_025</url>
-            <body_type>лифтбек</body_type>
-            <color>синий</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>48141</run>
-            <year>2020</year>
-            <price>8070000</price>
-            <currency>RUR</currency>
-            <vin>0000025</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Porsche_Panamera_025/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Panamera_025/in.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Panamera_025/int.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Panamera_025/side.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Panamera_025/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--        Audi A8 Long 55TFSI        -->
             <mark_id>Audi</mark_id>
             <folder_id>A8 Long 55TFS, IV (D5)</folder_id>
@@ -275,32 +225,6 @@
                 <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI/int.png</image>
                 <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI/side.png</image>
                 <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--        Audi Q7 45 TFSI        -->
-            <mark_id>Audi</mark_id>
-            <folder_id>Q7 45 TFSI, II (4M) Рестайлинг</folder_id>
-            <modification_id>2.0 АТ (248 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_Q7_45_TFSI_030</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>93760</run>
-            <year>2020</year>
-            <price>4360000</price>
-            <currency>RUR</currency>
-            <vin>0000030</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_030/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_030/in.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_030/int.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_030/side.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_030/back.png</image>
             </images>
         </car>
 
@@ -353,32 +277,6 @@
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_038/int.png</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_038/side.png</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_038/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--        Mercedes-Benz GLE 350        -->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>GLE 350, II (V167)</folder_id>
-            <modification_id>2.0 АТ (255 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_GLE_350_039</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>47439</run>
-            <year>2019</year>
-            <price>5665000</price>
-            <currency>RUR</currency>
-            <vin>0000039</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_039/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_039/in.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_039/int.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_039/side.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_039/back.png</image>
             </images>
         </car>
 
@@ -535,30 +433,6 @@
         </car>
 
         <car>
-            <!--        New Mercedes-Benz E350        -->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>E350, VI (W214, S214)</folder_id>
-            <modification_id>2.0 АТ (255 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_E350_56</url>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_E350_56/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_E350_56/in.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_E350_56/int.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_E350_56/side.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_E350_56/back.png</image>
-            </images>
-            <body_type>седан</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <year>2024</year>
-            <price>10160000</price>
-            <currency>RUR</currency>
-            <vin>0000056</vin>
-            <owners_number>Не было владельцев</owners_number>
-        </car>
-
-        <car>
             <!--        Mercedes-Benz GLS 450        -->
             <mark_id>Mercedes-Benz</mark_id>
             <folder_id>GLS 450, II (X167)</folder_id>
@@ -659,32 +533,6 @@
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT43_66/int.png</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT43_66/side.png</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT43_66/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--        BMW 740i xDrive       -->
-            <mark_id>BMW</mark_id>
-            <folder_id>740i xDrive, VI (G11/G12) Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_740i_xDrive_68</url>
-            <body_type>седан</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>26365</run>
-            <year>2021</year>
-            <price>6985000</price>
-            <currency>RUR</currency>
-            <vin>0000068</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_68/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_68/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_68/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_68/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_68/back.png</image>
             </images>
         </car>
 
@@ -871,56 +719,6 @@
         </car>
 
         <car>
-            <!--        New Range Rover        -->
-            <mark_id>Range Rover</mark_id>
-            <folder_id>V</folder_id>
-            <modification_id>3.0 АТ (395 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalRange_Rover_77</url>
-            <images>
-                <image>https://ncimport.ru/images/cars/Range_Rover_77/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_77/in.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_77/int.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_77/side.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_77/back.png</image>
-            </images>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <year>2024</year>
-            <price>19340000</price>
-            <currency>RUR</currency>
-            <vin>0000077</vin>
-            <owners_number>Не было владельцев</owners_number>
-        </car>
-
-        <car>
-            <!--       Audi Q8 55TFSI     -->
-            <mark_id>Audi</mark_id>
-            <folder_id>Q8 55TFSI, I (4M)</folder_id>
-            <modification_id>3.0 АТ (335 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_Q8_55TFSI_78</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>52835</run>
-            <year>2020</year>
-            <price>6130000</price>
-            <currency>RUR</currency>
-            <vin>0000078</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_78/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_78/in.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_78/int.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_78/side.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_78/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--       Bentley Bentayga    -->
             <mark_id>Bentley</mark_id>
             <folder_id>Bentayga, I</folder_id>
@@ -995,32 +793,6 @@
                 <image>https://ncimport.ru/images/cars/Maserati_Levante_81/int.png</image>
                 <image>https://ncimport.ru/images/cars/Maserati_Levante_81/side.png</image>
                 <image>https://ncimport.ru/images/cars/Maserati_Levante_81/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--       BMW 740i xDrive    -->
-            <mark_id>BMW</mark_id>
-            <folder_id>740i xDrive, VI (G11/G12) Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_740i_xDrive_82</url>
-            <body_type>седан</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>29206</run>
-            <year>2021</year>
-            <price>6880000</price>
-            <currency>RUR</currency>
-            <vin>0000082</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_82/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_82/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_82/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_82/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_82/back.png</image>
             </images>
         </car>
 

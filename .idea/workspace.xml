@@ -6,7 +6,51 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_55_TFSI_031/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_55_TFSI_031/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_55_TFSI_031/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_55_TFSI_031/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_55_TFSI_031/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_55_TFSI_031/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_67/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_67/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_67/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_67/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_67/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_67/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_69/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_69/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_69/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_69/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_69/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_69/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_57/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_57/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_57/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_57/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_57/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_57/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_62/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_62/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_62/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_62/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_62/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_62/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_S90/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_S90/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_S90/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_S90/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_S90/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_S90/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_XC90_60/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_XC90_60/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_XC90_60/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_XC90_60/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_XC90_60/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_XC90_60/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +111,8 @@
       <recent name="C:\Users\Susik\Desktop\NCI\images\reveiw" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Bentley_Bentayga_79" />
       <recent name="C:\Users\Susik\Desktop\NCI\images\cars" />
+      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Bentley_Bentayga_79" />
       <recent name="C:\Users\Susik\Desktop\NCI\css" />
       <recent name="C:\Users\Susik\Desktop\NCI\fonts" />
       <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Porsche_Cayenne_black" />
@@ -328,7 +372,9 @@
       <workItem from="1712689371159" duration="2113000" />
       <workItem from="1712727306472" duration="1501000" />
       <workItem from="1712764182052" duration="7487000" />
-      <workItem from="1712777730672" duration="4798000" />
+      <workItem from="1712777730672" duration="5698000" />
+      <workItem from="1712819931518" duration="1299000" />
+      <workItem from="1713094132120" duration="15729000" />
     </task>
     <servers />
   </component>
