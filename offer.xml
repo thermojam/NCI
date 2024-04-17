@@ -53,32 +53,6 @@
         </car>
 
         <car>
-            <!--         Porsche Cayenne         -->
-            <mark_id>Porsche</mark_id>
-            <folder_id>Cayenne, III</folder_id>
-            <modification_id>3.0 АТ (335 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalPorsche_Cayenne_black</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>45635</run>
-            <year>2020</year>
-            <price>7280000</price>
-            <currency>RUR</currency>
-            <vin>0000016</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_black/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_black/in.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_black/int.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_black/side.png</image>
-                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_black/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--         BMW 840i xDrive         -->
             <mark_id>BMW</mark_id>
             <folder_id>840i xDrive, II (G14/G15/G16)</folder_id>
@@ -125,30 +99,6 @@
             <price>10320000</price>
             <currency>RUR</currency>
             <vin>0000018</vin>
-            <owners_number>Не было владельцев</owners_number>
-        </car>
-
-        <car>
-            <!--         New  Mercedes-Benz GLE         -->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>GLE, II (V167) Рестайлинг</folder_id>
-            <modification_id>2.0 АТ (255 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_GLE_Black</url>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_Black/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_Black/in.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_Black/int.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_Black/side.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_Black/back.png</image>
-            </images>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <year>2024</year>
-            <price>10280000</price>
-            <currency>RUR</currency>
-            <vin>0000020</vin>
             <owners_number>Не было владельцев</owners_number>
         </car>
 
@@ -385,30 +335,6 @@
         </car>
 
         <car>
-            <!--         New Mercedes-Benz GLS 450         -->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>GLS 450, II (X167) Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (375 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_GLS_450_54</url>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_54/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_54/in.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_54/int.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_54/side.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_54/back.png</image>
-            </images>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <year>2024</year>
-            <price>14300000</price>
-            <currency>RUR</currency>
-            <vin>0000054</vin>
-            <owners_number>Не было владельцев</owners_number>
-        </car>
-
-        <car>
             <!--         New BMW X7 xDrive40i         -->
             <mark_id>BMW</mark_id>
             <folder_id>X7 xDrive40i, I (G07) Рестайлинг</folder_id>
@@ -511,32 +437,6 @@
         </car>
 
         <car>
-            <!--         Mercedes-Benz AMG GT43        -->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>AMG GT43, I Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (362 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_AMG_GT43_66</url>
-            <body_type>лифтбек</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>21329</run>
-            <year>2020</year>
-            <price>9215000</price>
-            <currency>RUR</currency>
-            <vin>0000066</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT43_66/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT43_66/in.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT43_66/int.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT43_66/side.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_AMG_GT43_66/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--         Porsche Panamera       -->
             <mark_id>Porsche</mark_id>
             <folder_id>Panamera, II</folder_id>
@@ -611,32 +511,6 @@
                 <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_72/int.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_72/side.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_72/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--        Range Rover      -->
-            <mark_id>Range Rover</mark_id>
-            <folder_id>IV Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (395 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalRange_Rover_73</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>46956</run>
-            <year>2020</year>
-            <price>7490000</price>
-            <currency>RUR</currency>
-            <vin>0000073</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Range_Rover_73/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_73/in.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_73/int.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_73/side.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_73/back.png</image>
             </images>
         </car>
 
@@ -1027,7 +901,7 @@
             <mark_id>Audi</mark_id>
             <folder_id>Q8 55TFSI, I (4M)</folder_id>
             <modification_id>3.0 АТ (335 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_Q8_55TFSI_91Audi_Q8_55TFSI_91</url>
+            <url>https://ncimport.ru/#modalAudi_Q8_55TFSI_91</url>
             <body_type>внедорожник 5 дв.</body_type>
             <color>серый</color>
             <availability>на заказ</availability>
@@ -1046,6 +920,106 @@
                 <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_91/side.png</image>
                 <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_91/back.png</image>
             </images>
+        </car>
+
+        <car>
+            <!--        Porsche Cayenne    -->
+            <mark_id>Porsche</mark_id>
+            <folder_id>Cayenne, III</folder_id>
+            <modification_id>3.0 АТ (335 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalPorsche_Cayenne_92</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>48075</run>
+            <year>2020</year>
+            <price>6840000</price>
+            <currency>RUR</currency>
+            <vin>0000092</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_92/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_92/in.png</image>
+                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_92/int.png</image>
+                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_92/side.png</image>
+                <image>https://ncimport.ru/images/cars/Porsche_Cayenne_92/back.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--         New  Mercedes-Benz GLE 350       -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLE 350, II (V167) Рестайлинг</folder_id>
+            <modification_id>2.0 АТ (255 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMercedes-Benz_GLE_350_93</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_93/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_93/in.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_93/int.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_93/side.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_93/back.png</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>9230000</price>
+            <currency>RUR</currency>
+            <vin>0000093</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--        Range Rover    -->
+            <mark_id>Range Rover</mark_id>
+            <folder_id>IV Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (395 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalRange_Rover_94</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>54588</run>
+            <year>2020</year>
+            <price>6925000</price>
+            <currency>RUR</currency>
+            <vin>0000094</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Range_Rover_94/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_94/in.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_94/int.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_94/side.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_94/back.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--         New  Mercedes-Benz GLS 450      -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLS 450, II (X167) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (375 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMercedes-Benz_GLS_450_95</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_95/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_95/in.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_95/int.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_95/side.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLS_450_95/back.png</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>12415000</price>
+            <currency>RUR</currency>
+            <vin>0000095</vin>
+            <owners_number>Не было владельцев</owners_number>
         </car>
 
     </cars>
