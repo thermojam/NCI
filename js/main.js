@@ -134,18 +134,19 @@ swiper2.controller.control = swiper1;
 
 // PRELOAD MODAL SLIDERS
 let modalIDs = [
-    'modalBMW_X6_x_Drive40i',
-    'modalRange_Rover_Sport', 'modalBMW_840i_xDrive', 'Range_Rover_Velar',
+    'modalBMW_840i_xDrive',
     'modalCadillac_Escalade', 'modalPorsche_Cayenne_024', 'modalAudi_A8_Long_55TFSI',
-    'modalRange_Rover_034', 'modalMercedes-Benz_GLE_350_038', 'modalBMW_X5_xDrive40i_045',
+    'modalBMW_X5_xDrive40i_045',
     'modalBMW_X7_xDrive40i_049', 'modalAudi_Q7_45_TFSI_50', 'modalAudi_Q8_55_TFSI_51', 'modalBMW_X7_xDrive40i_52',
-    'modalBMW_X7_xDrive40i_55', 'modalMercedes-Benz_GLS_450_58', 'modalRange_Rover_Sport_64', 'modalRange_Rover_Sport_65',
+    'modalMercedes-Benz_GLS_450_58', 'modalRange_Rover_Sport_64', 'modalRange_Rover_Sport_65',
     'modalPorsche_Panamera_70', 'modalBMW_X6_xDrive40i_71',
     'modalBMW_X5_xDrive40i_72', 'modalMercedes-Benz_S500_74', 'modalVolvo_S90_T6_75', 'modalVolvo_XC90_T5_76',
     'modalBentley_Bentayga_79', 'modalMaserati_Ghibli_S_Q4_80', 'modalMaserati_Levante_81',
-    'modalMercedes-Benz_GLS_450_83', 'modalBMW_745e_xDrive_85', 'modalRange_Rover_86', 'modalAudi_Q7_45_TFSI_88',
+    'modalMercedes-Benz_GLS_450_83', 'modalRange_Rover_86', 'modalAudi_Q7_45_TFSI_88',
     'modalBMW_530i_xDrive_89', 'modalMercedes-Benz_GLE_350_90', 'modalBMW_740i_xDrive_77', 'modalBMW_X5_xDrive40i_84', 'modalMercedes-Benz_E350_87',
-    'modalAudi_Q8_55TFSI_91', 'modalPorsche_Cayenne_92', 'modalMercedes-Benz_GLE_350_93', 'modalRange_Rover_94', 'modalMercedes-Benz_GLS_450_95'];
+    'modalPorsche_Cayenne_92', 'modalMercedes-Benz_GLE_350_93', 'modalRange_Rover_94', 'modalMercedes-Benz_GLS_450_95',
+    'modalAudi_A6_allroad_96', 'modalRange_Rover_Sport_97', 'modalBMW_X6_xDrive40i_98', 'modalRange_Rover_Velar_99', 'modalAudi_Q8_55TFSI_1',
+    'modalAudi_Q8_55TFSI_2', 'modalBMW_X7_xDrive40i_3', 'modalRange_Rover_Westminster_4', 'modalMercedes-Benz_GLE_350_5'];
 
 // Инициализация обработчика для каждого модального окна
 modalIDs.forEach(function (modalID) {
@@ -276,18 +277,19 @@ let swiper6 = new Swiper("#swiper6", {
 $(document).ready(function () {
     // Список идентификаторов модальных окон
     let modalIds = [
-        '#modalBMW_X6_x_Drive40i',
-        '#modalRange_Rover_Sport', '#modalBMW_840i_xDrive', '#modalRange_Rover_Velar',
+        '#modalBMW_840i_xDrive',
         '#modalCadillac_Escalade', '#modalPorsche_Cayenne_024', '#modalAudi_A8_Long_55TFSI',
-        '#modalRange_Rover_034', '#modalMercedes-Benz_GLE_350_038', '#modalBMW_X5_xDrive40i_045', '#modalBMW_X7_xDrive40i_049',
+        '#modalBMW_X5_xDrive40i_045', '#modalBMW_X7_xDrive40i_049',
         '#modalAudi_Q7_45_TFSI_50', '#modalAudi_Q8_55_TFSI_51', '#modalBMW_X7_xDrive40i_52',
-        'modalBMW_X7_xDrive40i_55', '#modalRange_Rover_57', '#modalMercedes-Benz_GLS_450_58',
+        '#modalRange_Rover_57', '#modalMercedes-Benz_GLS_450_58',
         '#modalRange_Rover_Sport_64', '#modalRange_Rover_Sport_65', '#modalPorsche_Panamera_70', '#modalBMW_X6_xDrive40i_71',
         '#modalBMW_X5_xDrive40i_72', '#modalMercedes-Benz_S500_74', '#modalVolvo_S90_T6_75', '#modalVolvo_XC90_T5_76',
         '#modalBentley_Bentayga_79', '#modalMaserati_Ghibli_S_Q4_80', '#modalMaserati_Levante_81',
-        '#modalMercedes-Benz_GLS_450_83', '#modalBMW_745e_xDrive_85', '#modalRange_Rover_86', '#modalAudi_Q7_45_TFSI_88',
+        '#modalMercedes-Benz_GLS_450_83', '#modalRange_Rover_86', '#modalAudi_Q7_45_TFSI_88',
         '#modalBMW_530i_xDrive_89', '#modalMercedes-Benz_GLE_350_90', '#modalBMW_740i_xDrive_77', '#modalBMW_X5_xDrive40i_84', '#modalMercedes-Benz_E350_87',
-        '#modalAudi_Q8_55TFSI_91', '#modalPorsche_Cayenne_92', '#modalMercedes-Benz_GLE_350_93', '#modalRange_Rover_94', '#modalMercedes-Benz_GLS_450_95'];
+        '#modalPorsche_Cayenne_92', '#modalMercedes-Benz_GLE_350_93', '#modalRange_Rover_94', '#modalMercedes-Benz_GLS_450_95',
+        '#modalAudi_A6_allroad_96', '#modalRange_Rover_Sport_97', '#modalBMW_X6_xDrive40i_98', '#modalRange_Rover_Velar_99', '#modalAudi_Q8_55TFSI_1',
+        '#modalAudi_Q8_55TFSI_2', '#modalBMW_X7_xDrive40i_3', '#modalRange_Rover_Westminster_4', '#modalMercedes-Benz_GLE_350_5'];
 
     // Перебор всех идентификаторов
     modalIds.forEach(function (modalId) {

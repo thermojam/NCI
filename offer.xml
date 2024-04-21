@@ -3,56 +3,6 @@
     <cars>
 
         <car>
-            <!--          BMW X6 xDrive40i          -->
-            <mark_id>BMW</mark_id>
-            <folder_id>X6 xDrive40i, III (G06)</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_X6_x_Drive40i</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>30800</run>
-            <year>2020</year>
-            <price>7385000</price>
-            <currency>RUR</currency>
-            <vin>0000010</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_X6_x_Drive40i/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_x_Drive40i/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_x_Drive40i/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_x_Drive40i/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_x_Drive40i/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--          New Range Rover Sport          -->
-            <mark_id>Range Rover</mark_id>
-            <folder_id>Sport, III</folder_id>
-            <modification_id>3.0 АТ (355 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalRange_Rover_Sport</url>
-            <images>
-                <image>https://ncimport.ru/images/cars/Range_Rover_Sport/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_Sport/in.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_Sport/int.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_Sport/side.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_Sport/back.png</image>
-            </images>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <year>2023</year>
-            <price>13875000</price>
-            <currency>RUR</currency>
-            <vin>0000015</vin>
-            <owners_number>Не было владельцев</owners_number>
-        </car>
-
-        <car>
             <!--          BMW 840i xDrive          -->
             <mark_id>BMW</mark_id>
             <folder_id>840i xDrive, II (G14/G15/G16)</folder_id>
@@ -76,30 +26,6 @@
                 <image>https://ncimport.ru/images/cars/BMW_840i_xDrive/side.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_840i_xDrive/back.png</image>
             </images>
-        </car>
-
-        <car>
-            <!--          New Range Rover Velar          -->
-            <mark_id>Range Rover</mark_id>
-            <folder_id>Velar, I Рестайлинг</folder_id>
-            <modification_id>2.0 АТ (247 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalRange_Rover_Velar</url>
-            <images>
-                <image>https://ncimport.ru/images/cars/Range_Rover_Velar/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_Velar/in.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_Velar/int.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_Velar/side.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_Velar/back.png</image>
-            </images>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <year>2023</year>
-            <price>10320000</price>
-            <currency>RUR</currency>
-            <vin>0000018</vin>
-            <owners_number>Не было владельцев</owners_number>
         </car>
 
         <car>
@@ -175,58 +101,6 @@
                 <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI/int.png</image>
                 <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI/side.png</image>
                 <image>https://ncimport.ru/images/cars/Audi_A8_Long_55TFSI/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--          Range Rover          -->
-            <mark_id>Range Rover</mark_id>
-            <folder_id>IV Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (395 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalRange_Rover_034</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>93719</run>
-            <year>2020</year>
-            <price>6560000</price>
-            <currency>RUR</currency>
-            <vin>0000034</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Range_Rover_034/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_034/in.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_034/int.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_034/side.png</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_034/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--          Mercedes-Benz GLE 350          -->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>GLE 350, II (V167)</folder_id>
-            <modification_id>2.0 АТ (255 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_GLE_350_038</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>92066</run>
-            <year>2019</year>
-            <price>4885000</price>
-            <currency>RUR</currency>
-            <vin>0000038</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_038/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_038/in.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_038/int.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_038/side.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_038/back.png</image>
             </images>
         </car>
 
@@ -332,30 +206,6 @@
                 <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_52/side.png</image>
                 <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_52/back.png</image>
             </images>
-        </car>
-
-        <car>
-            <!--          New BMW X7 xDrive40i          -->
-            <mark_id>BMW</mark_id>
-            <folder_id>X7 xDrive40i, I (G07) Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (375 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_X7_xDrive40i_55</url>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_55/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_55/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_55/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_55/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_55/back.png</image>
-            </images>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <year>2024</year>
-            <price>13300000</price>
-            <currency>RUR</currency>
-            <vin>0000055</vin>
-            <owners_number>Не было владельцев</owners_number>
         </car>
 
         <car>
@@ -697,32 +547,6 @@
         </car>
 
         <car>
-            <!--        BMW 745e xDrive       -->
-            <mark_id>BMW</mark_id>
-            <folder_id>745e xDrive, VI (G11/G12) Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (280 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_745e_xDrive_85</url>
-            <body_type>седан</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>15632</run>
-            <year>2019</year>
-            <price>6315000</price>
-            <currency>RUR</currency>
-            <vin>0000085</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_745e_xDrive_85/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_745e_xDrive_85/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_745e_xDrive_85/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_745e_xDrive_85/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_745e_xDrive_85/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--          New  Range Rover          -->
             <mark_id>Range Rover</mark_id>
             <folder_id>V</folder_id>
@@ -897,32 +721,6 @@
         </car>
 
         <car>
-            <!--         Audi Q8 55TFSI     -->
-            <mark_id>Audi</mark_id>
-            <folder_id>Q8 55TFSI, I (4M)</folder_id>
-            <modification_id>3.0 АТ (335 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_Q8_55TFSI_91</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>48988</run>
-            <year>2021</year>
-            <price>6365000</price>
-            <currency>RUR</currency>
-            <vin>0000091</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_91/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_91/in.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_91/int.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_91/side.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_91/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--         Porsche Cayenne     -->
             <mark_id>Porsche</mark_id>
             <folder_id>Cayenne, III</folder_id>
@@ -1020,6 +818,232 @@
             <currency>RUR</currency>
             <vin>0000095</vin>
             <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--   Audi A6 allroad   -->
+            <mark_id>Audi</mark_id>
+            <folder_id>A6 allroad, IV (C8)</folder_id>
+            <modification_id>3.0 АТ (335 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalAudi_A6_allroad_96</url>
+            <body_type>универсал 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>42825</run>
+            <year>2020</year>
+            <price>6000000</price>
+            <currency>RUR</currency>
+            <vin>0000096</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_96/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_96/in.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_96/int.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_96/side.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_96/back.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--     New  Range Rover Sport    -->
+            <mark_id>Range Rover</mark_id>
+            <folder_id>Sport, III</folder_id>
+            <modification_id>3.0 АТ (355 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalRange_Rover_Sport_97</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Sport_97/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Sport_97/in.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Sport_97/int.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Sport_97/side.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Sport_97/back.png</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>11940000</price>
+            <currency>RUR</currency>
+            <vin>0000097</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--   BMW X6 xDrive40i   -->
+            <mark_id>BMW</mark_id>
+            <folder_id>X6 xDrive40i, III (G06)</folder_id>
+            <modification_id>3.0 АТ (340 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW_X6_xDrive40i_98</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>30362</run>
+            <year>2020</year>
+            <price>6700000</price>
+            <currency>RUR</currency>
+            <vin>0000098</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_98/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_98/in.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_98/int.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_98/side.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_98/back.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--     New  Range Rover Velar    -->
+            <mark_id>Range Rover</mark_id>
+            <folder_id>Velar, I Рестайлинг</folder_id>
+            <modification_id>2.0 АТ (247 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalRange_Rover_Velar_99</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Velar_99/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Velar_99/in.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Velar_99/int.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Velar_99/side.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Velar_99/back.png</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>синий</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>9275000</price>
+            <currency>RUR</currency>
+            <vin>0000099</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--     New  Audi Q8 55TFSI    -->
+            <mark_id>Audi</mark_id>
+            <folder_id>Q8 55TFSI, I (4M) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (335 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalAudi_Q8_55TFSI_1</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_1/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_1/in.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_1/int.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_1/side.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_1/back.png</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>белый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>10815000</price>
+            <currency>RUR</currency>
+            <vin>0000001</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--   Audi Q8 55TFSI  -->
+            <mark_id>Audi</mark_id>
+            <folder_id>Q8 55TFSI, I (4M)</folder_id>
+            <modification_id>3.0 АТ (335 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalAudi_Q8_55TFSI_2</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>46955</run>
+            <year>2020</year>
+            <price>6120000</price>
+            <currency>RUR</currency>
+            <vin>0000002</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_2/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_2/in.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_2/int.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_2/side.png</image>
+                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_2/back.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--     New  BMW X7 xDrive40i    -->
+            <mark_id>BMW</mark_id>
+            <folder_id>X7 xDrive40i, I (G07) Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (375 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW_X7_xDrive40i_3</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_3/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_3/in.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_3/int.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_3/side.png</image>
+                <image>https://ncimport.ru/images/cars/BMW_X7_xDrive40i_3/back.png</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>12070000</price>
+            <currency>RUR</currency>
+            <vin>0000003</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--  Range Rover Westminster  -->
+            <mark_id>Range Rover</mark_id>
+            <folder_id>Westminster, IV Рестайлинг</folder_id>
+            <modification_id>3.0 АТ (395 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalRange_Rover_Westminster_4</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>серый</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>21233</run>
+            <year>2021</year>
+            <price>8930000</price>
+            <currency>RUR</currency>
+            <vin>0000004</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Westminster_4/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Westminster_4/in.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Westminster_4/int.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Westminster_4/side.png</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_Westminster_4/back.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--  Mercedes-Benz GLE 350  -->
+            <mark_id>Mercedes-Benz</mark_id>
+            <folder_id>GLE 350, II (V167)</folder_id>
+            <modification_id>2.0 АТ (255 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalMercedes-Benz_GLE_350_5</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>58178</run>
+            <year>2020</year>
+            <price>5430000</price>
+            <currency>RUR</currency>
+            <vin>0000005</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_5/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_5/in.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_5/int.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_5/side.png</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_5/back.png</image>
+            </images>
         </car>
 
     </cars>
