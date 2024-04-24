@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/adaptive.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adaptive.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.inputmask.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Susik/Desktop/Collection/fun project/NCIMPORT/export-cars&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Susik/Desktop/Collection/fun project/NCIMPORT/NCI (car-fax test)&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -68,11 +70,11 @@
       <recent name="C:\Users\Susik\Desktop\NCI\images\reveiw" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Susik\Desktop\NCI\js" />
       <recent name="C:\Users\Susik\Desktop\NCI\images\cars" />
       <recent name="C:\Users\Susik\Desktop\NCI\car-fax" />
       <recent name="C:\Users\Susik\Desktop\NCI\carfax" />
       <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Bentley_Bentayga_79" />
-      <recent name="C:\Users\Susik\Desktop\NCI\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -345,7 +347,10 @@
       <workItem from="1713688350103" duration="5361000" />
       <workItem from="1713696356477" duration="147000" />
       <workItem from="1713696620703" duration="61000" />
-      <workItem from="1713713926914" duration="14855000" />
+      <workItem from="1713713926914" duration="15844000" />
+      <workItem from="1713772940595" duration="915000" />
+      <workItem from="1713978378157" duration="2700000" />
+      <workItem from="1713982463466" duration="1472000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-@media screen and (max-width: 3500px) {
+@media screen and (max-width: 3900px) {
     :root {
         --bg-offset-x: 0px;
         --bg-offset-y: -30px
@@ -216,6 +216,15 @@
     .characteristics {
         font-size: 10px
     }
+
+    .car-fax-one{
+        padding-left: 4px ;
+    }
+
+    .car-fax-two{
+        padding-right: 4px;
+    }
+
 }
 
 @media screen and (max-width: 767px) {
@@ -280,14 +289,6 @@
         overflow: hidden;
         margin-top: 10px;
         max-height: 920px
-    }
-
-    .car-fax-one{
-        padding-left: 4px ;
-    }
-
-    .car-fax-two{
-        padding-right: 4px;
     }
 
     .swiper-button-next {
