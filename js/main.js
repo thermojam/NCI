@@ -15,8 +15,9 @@ window.addEventListener("load", function () {
 });
 
 // VALIDATION and Masks
-
+$('.mask').mask('+7 (999) 999 99 99');
 // modal-call
+
 document.getElementById('name_call').addEventListener('input', function () {
     this.value = this.value.replace(/[^A-Za-zА-Яа-яЁё\s]/g, '');
 });

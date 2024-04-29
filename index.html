@@ -129,10 +129,7 @@
                 </div>
                 <div class="modal-body">
 
-                    <form id="callForm" class="row d-block mt-3 mb-5"
-                          target="_blank"
-                          action="https://formsubmit.co/ceo@ncimport.ru"
-                          method="POST">
+                    <form action="telegram.php" method="POST" id="callForm" class="row d-block mt-3 mb-5">
 
                         <div class="col-md-4 mt-3">
                             <input type="text" class="form-control modal-input" required placeholder="Ваше имя"
@@ -140,15 +137,9 @@
                         </div>
 
                         <div class="col-md-4 mt-3">
-                            <input type="tel" class="form-control modal-input" required placeholder="+7 (999) 999 99 99"
-                                   id="mobile_call" name="mobile_tel">
+                            <input type="tel" class="form-control modal-input mask" required placeholder="Ваш номер телефона"
+                                   id="mobile_call" name="phone">
                         </div>
-
-                        <input type="hidden" name="_cc" value="menskiyn@bk.ru">
-
-                        <input type="hidden" name="_captcha" value="false">
-
-                        <input type="hidden" name="_next" value="https://ncimport.ru/">
 
                         <div class="text-center mt-5">
                             <button type="submit" class="calc-btn"
@@ -292,9 +283,7 @@
     <div class="container">
         <h2 class="calculation-title text-center">Форма заказа автомобиля</h2>
 
-        <form id="calcForm" action="https://formsubmit.co/ceo@ncimport.ru"
-              method="POST"
-              target="_blank">
+        <form action="telegram.php" method="POST" id="calcForm">
 
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-12 mx-auto">
@@ -325,7 +314,7 @@
                             </svg>
                             <p class="form-text my-2">Ваш номер телефона</p>
                         </div>
-                        <input type="text" class="form-control calculation-input" required
+                        <input type="text" class="form-control calculation-input mask" required
                                placeholder="+7 (999) 999 99 99"
                                id="mobile_phone" name="mobile_phone">
                     </div>
@@ -347,12 +336,6 @@
                                id="info" name="info">
                     </div>
                 </div>
-
-                <input type="hidden" name="_cc" value="menskiyn@bk.ru">
-
-                <input type="hidden" name="_captcha" value="false">
-
-                <input type="hidden" name="_next" value="https://ncimport.ru/">
 
                 <div class="col-lg-3 col-md-6 col-sm-12 mx-auto">
 
@@ -5119,7 +5102,6 @@
                     </div>
                 </div>
 
-
             </div>
         </div>
 
@@ -8875,10 +8857,7 @@
                     </div>
                     <div class="modal-body">
 
-                        <form id="orderForm" class="row d-block mt-3 mb-5"
-                              target="_blank"
-                              action="https://formsubmit.co/ceo@ncimport.ru"
-                              method="POST">
+                        <form action="telegram.php" method="POST" id="orderForm" class="row d-block mt-3 mb-5">
 
                             <div class="col-md-4 mt-3">
                                 <input type="text" class="form-control modal-input" required placeholder="Ваше имя"
@@ -8886,21 +8865,15 @@
                             </div>
 
                             <div class="col-md-4 mt-3">
-                                <input type="tel" class="form-control modal-input" required
-                                       placeholder="+7 (999) 999 99 99"
+                                <input type="tel" class="form-control modal-input mask" required
+                                       placeholder="Ваш номер телефона"
                                        id="mobile_tel" name="mobile_tel">
                             </div>
 
                             <div class="col-md-4 mt-3">
                                 <input type="hidden" class="form-control modal-input" id="orderProduct"
-                                       name="orderProduct" readonly>
+                                       name="product" readonly>
                             </div>
-
-                            <input type="hidden" name="_cc" value="menskiyn@bk.ru">
-
-                            <input type="hidden" name="_captcha" value="false">
-
-                            <input type="hidden" name="_next" value="https://ncimport.ru/">
 
                             <div class="text-center mt-5">
                                 <button type="submit" class="calc-btn"
@@ -9610,6 +9583,8 @@
 
 
 <script src="js/jquery-3.6.3.min.js"></script>
+
+<script src="js/jquery.maskedinput.min.js"></script>
 
 <script src="js/bootstrap.min.js"></script>
 
