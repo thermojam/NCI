@@ -53,84 +53,6 @@
         </car>
 
         <car>
-            <!--            BMW X6 xDrive40i          -->
-            <mark_id>BMW</mark_id>
-            <folder_id>X6 xDrive40i, III (G06)</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_X6_xDrive40i_71</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>36943</run>
-            <year>2020</year>
-            <price>7195000</price>
-            <currency>RUR</currency>
-            <vin>0000071</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_71/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_71/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_71/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_71/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_71/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--            BMW X5 xDrive40i          -->
-            <mark_id>BMW</mark_id>
-            <folder_id>X5 xDrive40i, IV (G05)</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_X5_xDrive40i_72</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>27224</run>
-            <year>2021</year>
-            <price>6430000</price>
-            <currency>RUR</currency>
-            <vin>0000072</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_72/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_72/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_72/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_72/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_72/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--           Mercedes-Benz S500         -->
-            <mark_id>Mercedes-Benz</mark_id>
-            <folder_id>S500, VII (W223)</folder_id>
-            <modification_id>3.0 АТ (429 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalMercedes-Benz_S500_74</url>
-            <body_type>седан</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>9421</run>
-            <year>2021</year>
-            <price>9620000</price>
-            <currency>RUR</currency>
-            <vin>0000074</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_S500_74/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_S500_74/in.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_S500_74/int.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_S500_74/side.png</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz_S500_74/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--           Volvo S90 T6         -->
             <mark_id>Volvo</mark_id>
             <folder_id>S90 T6, II Рестайлинг</folder_id>
@@ -311,32 +233,6 @@
         </car>
 
         <car>
-            <!--         Audi Q7 45 TFSI         -->
-            <mark_id>Audi</mark_id>
-            <folder_id>Q7 45 TFSI, II (4M) Рестайлинг</folder_id>
-            <modification_id>2.0 АТ (248 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_Q7_45_TFSI_88</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>52166</run>
-            <year>2021</year>
-            <price>4870000</price>
-            <currency>RUR</currency>
-            <vin>0000088</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_88/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_88/in.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_88/int.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_88/side.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q7_45_TFSI_88/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--            New  BMW 530i xDrive            -->
             <mark_id>BMW</mark_id>
             <folder_id>530i xDrive, VIII (G60/G61/G68)</folder_id>
@@ -383,32 +279,6 @@
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_90/int.png</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_90/side.png</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz_GLE_350_90/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--           BMW 740i xDrive        -->
-            <mark_id>BMW</mark_id>
-            <folder_id>740i xDrive, VI (G11/G12) Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW_740i_xDrive_77</url>
-            <body_type>седан</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>57220</run>
-            <year>2020</year>
-            <price>5850000</price>
-            <currency>RUR</currency>
-            <vin>0000077</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_77/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_77/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_77/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_77/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW_740i_xDrive_77/back.png</image>
             </images>
         </car>
 
@@ -809,32 +679,6 @@
                 <image>https://ncimport.ru/images/cars/Porsche_Panamera_8/int.png</image>
                 <image>https://ncimport.ru/images/cars/Porsche_Panamera_8/side.png</image>
                 <image>https://ncimport.ru/images/cars/Porsche_Panamera_8/back.png</image>
-            </images>
-        </car>
-
-        <car>
-            <!--    Audi A6 allroad   -->
-            <mark_id>Audi</mark_id>
-            <folder_id>A6 allroad, IV (C8)</folder_id>
-            <modification_id>3.0 АТ (335 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_A6_allroad_9</url>
-            <body_type>универсал 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>26016</run>
-            <year>2020</year>
-            <price>6845000</price>
-            <currency>RUR</currency>
-            <vin>0000009</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_9/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_9/in.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_9/int.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_9/side.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_9/back.png</image>
             </images>
         </car>
 
