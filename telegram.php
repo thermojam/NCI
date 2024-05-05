@@ -1,12 +1,11 @@
 <?php
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $name = isset($_POST['name']) ? $_POST['name'] : '';
-    $phone = isset($_POST['phone']) ? $_POST['phone'] : '';
-    $info = isset($_POST['info']) ? $_POST['info'] : '';
-    $product = isset($_POST['product']) ? $_POST['product'] : '';
+    $name = $_POST['name'] ?? '';
+    $phone = $_POST['phone'] ?? '';
+    $info = $_POST['info'] ?? '';
+    $product = $_POST['product'] ?? '';
 
-    // Подготавливаем данные для отправки в Telegram
     $arr = array(
         'Имя: ' => $name,
         'Телефон: ' => $phone,
@@ -30,8 +29,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     } else {
         echo "Error";
     }
-} else {
-    echo "Ошибка";
 }
 
 ?>
