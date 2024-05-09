@@ -6,41 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Maserati_Ghibli_S_Q4_80/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Maserati_Ghibli_S_Q4_80/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Maserati_Ghibli_S_Q4_80/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Maserati_Ghibli_S_Q4_80/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Maserati_Ghibli_S_Q4_80/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Maserati_Ghibli_S_Q4_80/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Maserati_Levante_81/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Maserati_Levante_81/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Maserati_Levante_81/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Maserati_Levante_81/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Maserati_Levante_81/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Maserati_Levante_81/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_83/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_83/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_83/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_83/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_83/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_83/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_7/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_7/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_7/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_7/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_7/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_7/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_97/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_97/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_97/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_97/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_97/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_97/side.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegram.php" beforeDir="false" afterPath="$PROJECT_DIR$/telegram.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -426,7 +393,7 @@
       <workItem from="1715003107408" duration="10000" />
       <workItem from="1715091997285" duration="737000" />
       <workItem from="1715235609835" duration="8265000" />
-      <workItem from="1715263387515" duration="5014000" />
+      <workItem from="1715263387515" duration="9506000" />
     </task>
     <servers />
   </component>
