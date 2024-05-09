@@ -7,7 +7,7 @@
     flex-shrink: 0
 }
 
-.calc-btn:hover, .calculation-button:hover, .main-button:hover, .order-btn:hover, .phone-btn:hover {
+.calc-btn:hover, .calculation-button:hover, .main-button:hover, .order-btn:hover, .phone-btn:hover, .card-btn:hover {
     background: linear-gradient(90deg, #43a1d6 0, #9bdbfd 50%, #3d71a9 100%)
 }
 
@@ -336,10 +336,6 @@
     font-family: Evolventa-Oblique, sans-serif;
     font-weight: bolder;
     letter-spacing: 1px
-}
-
-.card-btn:hover {
-    color: #83ccff
 }
 
 .order-btn {

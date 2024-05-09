@@ -1,5 +1,4 @@
 <?php
-
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $name = $_POST['name'] ?? '';
     $phone = $_POST['phone'] ?? '';
@@ -7,10 +6,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $product = $_POST['product'] ?? '';
 
     $arr = array(
-        'Имя: ' => $name,
+        'Имя пользователя: ' => $name,
         'Телефон: ' => $phone,
         'Информация: ' => $info,
-        'Автомобиль: '  => $product
+        'Автомобиль:'  => $product
     );
 
     $token = "7045152900:AAFKAv-qFJEvvHwC_zEfQCkWjmP2jWiwNPE";
@@ -25,10 +24,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $sendToTelegram = fopen("https://api.telegram.org/bot{$token}/sendMessage?chat_id={$chat_id}&parse_mode=html&text={$txt}", "r");
 
     if ($sendToTelegram) {
-        header('Location: index.html');
+        echo '<script>alert("Ваша заявка отправлена!"); window.location.href = "index.html";</script>';
     } else {
-        echo "Error";
+        echo '<script>alert("Произошла ошибка при отправке заявки!"); window.location.href = "index.html";</script>';
     }
+    exit;
 }
-
 ?>
