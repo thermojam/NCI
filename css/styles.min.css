@@ -12,8 +12,7 @@
 }
 
 .fax-btn:hover {
-    background: linear-gradient(90deg, #ff1669 0, #ffa1c2 50%, #ff1669 100%)
-
+    background: linear-gradient(90deg, #7DFA67 0, #74BE67 50%, #0D5E23 100%)
 }
 
 .card-btn, .main-button, .main-slider {
@@ -351,7 +350,7 @@
 .fax-btn {
     border: 0;
     border-radius: 10px;
-    background: linear-gradient(90deg, #ec0054 5.08%, #7b002c 114.58%);
+    background: linear-gradient(90deg, #7DFA67 0%, #0D5E23 50%, #0D5E23 100%);
     height: 40px;
     box-sizing: border-box;
     flex-shrink: 0;
