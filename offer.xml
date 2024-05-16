@@ -120,7 +120,7 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>8530000</price>
+            <price>9440000</price>
             <currency>RUR</currency>
             <vin>0000089</vin>
             <owners_number>Не было владельцев</owners_number>
@@ -144,7 +144,7 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>9695000</price>
+            <price>10550000</price>
             <currency>RUR</currency>
             <vin>0000084</vin>
             <owners_number>Не было владельцев</owners_number>
@@ -168,7 +168,7 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>9165000</price>
+            <price>10150000</price>
             <currency>RUR</currency>
             <vin>0000087</vin>
             <owners_number>Не было владельцев</owners_number>
@@ -192,7 +192,7 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>9230000</price>
+            <price>9700000</price>
             <currency>RUR</currency>
             <vin>0000093</vin>
             <owners_number>Не было владельцев</owners_number>
@@ -216,7 +216,7 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>12415000</price>
+            <price>12900000</price>
             <currency>RUR</currency>
             <vin>0000095</vin>
             <owners_number>Не было владельцев</owners_number>
@@ -240,7 +240,7 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>11940000</price>
+            <price>12750000</price>
             <currency>RUR</currency>
             <vin>0000097</vin>
             <owners_number>Не было владельцев</owners_number>
@@ -290,7 +290,7 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>9275000</price>
+            <price>10070000</price>
             <currency>RUR</currency>
             <vin>0000099</vin>
             <owners_number>Не было владельцев</owners_number>
@@ -314,36 +314,10 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>10815000</price>
+            <price>11500000</price>
             <currency>RUR</currency>
             <vin>0000001</vin>
             <owners_number>Не было владельцев</owners_number>
-        </car>
-
-        <car>
-            <!--         Audi Q8 55TFSI        -->
-            <mark_id>Audi</mark_id>
-            <folder_id>Q8 55TFSI, I (4M)</folder_id>
-            <modification_id>3.0 АТ (335 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_Q8_55TFSI_2</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>46955</run>
-            <year>2020</year>
-            <price>6120000</price>
-            <currency>RUR</currency>
-            <vin>0000002</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_2/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_2/in.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_2/int.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_2/side.png</image>
-                <image>https://ncimport.ru/images/cars/Audi_Q8_55TFSI_2/back.png</image>
-            </images>
         </car>
 
         <car>
@@ -364,7 +338,7 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>12070000</price>
+            <price>12850000</price>
             <currency>RUR</currency>
             <vin>0000003</vin>
             <owners_number>Не было владельцев</owners_number>
@@ -490,7 +464,7 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>10355000</price>
+            <price>9900000</price>
             <currency>RUR</currency>
             <vin>00000013</vin>
             <owners_number>Не было владельцев</owners_number>
@@ -590,7 +564,7 @@
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>13000000</price>
+            <price>11500000</price>
             <currency>RUR</currency>
             <vin>00000017</vin>
             <owners_number>Не было владельцев</owners_number>
@@ -751,32 +725,6 @@
         </car>
 
         <car>
-            <!--        BMW X7 xDrive40i     -->
-            <mark_id>BMW</mark_id>
-            <folder_id>X7 xDrive40i, I (G07)</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW-X7-xDrive40i-25</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>33083</run>
-            <year>2019</year>
-            <price>7135000</price>
-            <currency>RUR</currency>
-            <vin>00000025</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-25/front-double.png</image>
-                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-25/in.png</image>
-                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-25/int.png</image>
-                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-25/side.png</image>
-                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-25/back.png</image>
-            </images>
-        </car>
-
-        <car>
             <!--        Mercedes-Benz GLS 450     -->
             <mark_id>Mercedes-Benz</mark_id>
             <folder_id>GLS 450, II (X167)</folder_id>
@@ -825,6 +773,82 @@
                 <image>https://ncimport.ru/images/cars/Range-Rover-27/int.png</image>
                 <image>https://ncimport.ru/images/cars/Range-Rover-27/side.png</image>
                 <image>https://ncimport.ru/images/cars/Range-Rover-27/back.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--         Audi Q8 55TFSI        -->
+            <mark_id>Audi</mark_id>
+            <folder_id>Q8 55TFSI, I (4M)</folder_id>
+            <modification_id>3.0 АТ (335 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalAudi-Q8-55TFSI-28</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>34759</run>
+            <year>2020</year>
+            <price>7110000</price>
+            <currency>RUR</currency>
+            <vin>00000028</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Audi-Q8-55TFSI-28/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Audi-Q8-55TFSI-28/in.png</image>
+                <image>https://ncimport.ru/images/cars/Audi-Q8-55TFSI-28/int.png</image>
+                <image>https://ncimport.ru/images/cars/Audi-Q8-55TFSI-28/side.png</image>
+                <image>https://ncimport.ru/images/cars/Audi-Q8-55TFSI-28/back.png</image>
+            </images>
+        </car>
+
+        <car>
+            <!--           New  Ford F-150 Raptor V8       -->
+            <mark_id>Ford</mark_id>
+            <folder_id>F-150 Raptor V8, XIV</folder_id>
+            <modification_id>5.2 АТ (700 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalFord-F-150-Raptor-V8-29</url>
+            <images>
+                <image>https://ncimport.ru/images/cars/Ford-F-150-Raptor-V8-29/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/Ford-F-150-Raptor-V8-29/in.png</image>
+                <image>https://ncimport.ru/images/cars/Ford-F-150-Raptor-V8-29/int.png</image>
+                <image>https://ncimport.ru/images/cars/Ford-F-150-Raptor-V8-29/side.png</image>
+                <image>https://ncimport.ru/images/cars/Ford-F-150-Raptor-V8-29/back.png</image>
+            </images>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <year>2024</year>
+            <price>18500000</price>
+            <currency>RUR</currency>
+            <vin>00000029</vin>
+            <owners_number>Не было владельцев</owners_number>
+        </car>
+
+        <car>
+            <!--         BMW X7 xDrive40i        -->
+            <mark_id>BMW</mark_id>
+            <folder_id>X7 xDrive40i,  I (G07)</folder_id>
+            <modification_id>3.0 АТ (340 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalBMW-X7-xDrive40i-30</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>синий</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>47901</run>
+            <year>2021</year>
+            <price>7060000</price>
+            <currency>RUR</currency>
+            <vin>00000030</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-30/front-double.png</image>
+                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-30/in.png</image>
+                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-30/int.png</image>
+                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-30/side.png</image>
+                <image>https://ncimport.ru/images/cars/BMW-X7-xDrive40i-30/back.png</image>
             </images>
         </car>
 
