@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git" />
+    <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carfax/Range-Rover-27.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +57,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Susik/Desktop/NCI&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Susik/Desktop/NCI/carfax&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -65,16 +71,16 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Susik\Desktop\NCI\carfax" />
       <recent name="C:\Users\Susik\Desktop\NCI" />
       <recent name="C:\Users\Susik\Desktop\NCI\js" />
       <recent name="C:\Users\Susik\Desktop\NCI\images\cars" />
       <recent name="C:\Users\Susik\Desktop\NCI\images" />
-      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\review" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Volvo-XC90-31" />
       <recent name="C:\Users\Susik\Desktop\NCI\carfax" />
       <recent name="C:\Users\Susik\Desktop\NCI\images\cars" />
+      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Volvo-XC90-31" />
       <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Audi_A6 _llroad" />
       <recent name="C:\Users\Susik\Desktop\NCI\js" />
     </key>
@@ -406,7 +412,9 @@
       <workItem from="1715892716504" duration="5011000" />
       <workItem from="1715937864091" duration="376000" />
       <workItem from="1715942821498" duration="123000" />
-      <workItem from="1716203888348" duration="5517000" />
+      <workItem from="1716203888348" duration="6244000" />
+      <workItem from="1716229928129" duration="791000" />
+      <workItem from="1716440068907" duration="3623000" />
     </task>
     <servers />
   </component>
@@ -456,8 +464,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>8140</line>
-          <properties lambdaOrdinal="-1" />
+          <line>8404</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
