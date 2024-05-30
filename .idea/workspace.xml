@@ -6,30 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carfax/Audi_Q7_45_TFSI_4.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carfax/BMW-X7-xDrive40i-30.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carfax/Mercedes-Benz-GLS-450-26.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carfax/Porsche-Cayenne-24.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carfax/Range_Rover_Sport_18.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carfax/Volvo_S90_T6_75.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_S500_15/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_S500_15/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_S500_15/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_S500_15/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_S500_15/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_S500_15/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-27/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-27/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-27/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-27/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-27/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-27/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_XC90_T5_76/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_XC90_T5_76/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_XC90_T5_76/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_XC90_T5_76/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_XC90_T5_76/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Volvo_XC90_T5_76/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/adaptive.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adaptive.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
@@ -445,6 +423,7 @@
       <workItem from="1716805919657" duration="4354000" />
       <workItem from="1716814198588" duration="902000" />
       <workItem from="1716835379053" duration="2638000" />
+      <workItem from="1717057516409" duration="3761000" />
     </task>
     <servers />
   </component>
@@ -494,7 +473,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>8459</line>
+          <line>8709</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

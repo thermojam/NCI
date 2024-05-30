@@ -5,7 +5,7 @@
     <title>ncimport</title>
     <link rel="preload" href="css/styles.min.css" as="style">
     <link rel="preload" href="css/adaptive.min.css" as="style">
-    <link rel="stylesheet" href="css/styles.min.css?v=5.8">
+    <link rel="stylesheet" href="css/styles.min.css?v=5.9">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/swiper-bundle.min.css">
     <link rel="stylesheet" href="css/styles.min.css">
@@ -371,6 +371,32 @@
         <div class="swiper-container" id="swiper1">
             <div class="swiper-wrapper">
 
+                <!--Карточка автомобиля #21-->
+                <div class="swiper-slide">
+                    <div class="product-card">
+
+                        <img src="images/cars/Bentley-Bentayga-41/front.png" class="img-fluid"
+                             alt="Bentley-Bentayga-41">
+
+                        <div class="card-body p-2 bg-white d-flex align-items-center justify-content-between">
+                            <div class="order-description">
+                                <h6 class="card-title">Bentley Bentayga</h6>
+                                <p class="from m-0">из CША (2021), 47 326 км</p>
+                                <p class="key-offer text-primary m-0"><span
+                                        class="euro-bold fw-bold">17 075 000 руб.</span>
+                                    -
+                                    цена под ключ</p>
+                            </div>
+                            <div class="catalog-btn">
+                                <button type="submit" class="card-btn" data-bs-toggle="modal"
+                                        data-bs-target="#modalBentley-Bentayga-41">
+                                    Подробнее
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <!--Карточка автомобиля #20-->
                 <div class="swiper-slide">
                     <div class="product-card">
@@ -530,7 +556,9 @@
                 <!--Карточка автомобиля #14-->
                 <div class="swiper-slide">
                     <div class="product-card">
-
+                        <div class="sold-overlay">
+                            <div class="sold-text">Автомобиль продан</div>
+                        </div>
                         <img src="images/cars/Audi-Q8-55TFSI-28/front.png" class="img-fluid"
                              alt="Audi-Q8-55TFSI-28">
 
@@ -542,12 +570,6 @@
                                         class="euro-bold fw-bold">7 110 000 руб.</span>
                                     -
                                     цена под ключ</p>
-                            </div>
-                            <div class="catalog-btn">
-                                <button type="submit" class="card-btn" data-bs-toggle="modal"
-                                        data-bs-target="#modalAudi-Q8-55TFSI-28">
-                                    Подробнее
-                                </button>
                             </div>
                         </div>
                     </div>
@@ -614,7 +636,7 @@
                                 </h6>
                                 <p class="from m-0">из CША (2024)</p>
                                 <p class="key-offer text-primary m-0"><span
-                                        class="euro-bold fw-bold">9 490 000 руб.</span>
+                                        class="euro-bold fw-bold">10 400 000 руб.</span>
                                     -
                                     цена под ключ</p>
                             </div>
@@ -898,6 +920,221 @@
                     </div>
                 </div>
 
+            </div>
+        </div>
+
+        <!-- Bentley Bentayga -->
+        <div class="modal fade" id="modalBentley-Bentayga-41" tabindex="-1" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title me-3">Bentley Bentayga из США (2021)</h5>
+                        <div class="sale text-primary">17 075 000 руб.</div>
+                        <button type="button" class="btn-close"
+                                data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+
+                    <div class="modal-body">
+                        <div class="row">
+                            <!-- Блок с характеристиками (lg и md 4 колонки) -->
+                            <div class="d-flex col-sm-12 col-md-4 col-lg-4 order-sm-last order-md-first">
+                                <div class="row scrollable-content w-auto">
+
+                                    <div class="col-4 characteristics text-secondary">
+                                        <p>Статус</p>
+                                        <p>Поколение</p>
+                                        <p>Год</p>
+                                        <p>VIN</p>
+                                        <p>Пробег</p>
+                                        <p>Кузов</p>
+                                        <p>Цвет</p>
+                                        <p>Двигатель</p>
+                                        <p>Коробка</p>
+                                        <p>Привод</p>
+                                        <p>Состояние</p>
+                                        <p>Владельцы</p>
+                                    </div>
+
+                                    <div class="col mt-lg-0 mt-md-0 mt-sm-0 characteristics">
+                                        <p>под заказ</p>
+                                        <p>I Рестайлинг</p>
+                                        <p>2021</p>
+                                        <p>SJAAJ2ZVXMC036831</p>
+                                        <p>47 326</p>
+                                        <p>внедорожник 5 дв.</p>
+                                        <p>синий</p>
+                                        <p>3.0 л / 443 л.с. / бензин (гибрид)</p>
+                                        <p>автоматическая</p>
+                                        <p>полный</p>
+                                        <p>без ДТП / без окрасов</p>
+                                        <p>1</p>
+                                    </div>
+
+                                    <div class="col-md-12 characteristics">
+                                        <p class="text-primary characteristics-title mb-2">Комплектация</p>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Активный круиз</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Электрорегулировка кресел с памятью</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Подогрев кресел</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Вентиляция кресел</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Подогрев руля</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Беслкючевой доступ</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Навигация</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Камера 360</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Apple CarPlay</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Android Auto</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Bluetooth</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">USB</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Премиальный звук</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Панорамная крыша</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Би лэд фары</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система контроля полосности</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система экстренного торможения</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система предупреждения ДТП</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Контроль слепых зон</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Парковочный ассистент</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">И многое другое!</span>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="col-sm-12 col-md-8 col-lg-8 order-first">
+                                <!-- Swiper слайдер -->
+                                <div class="swiper-container slider-container main-swiper">
+                                    <!-- Основной слайдер с большими изображениями -->
+                                    <div class="swiper-container main-slider">
+                                        <div class="swiper-wrapper">
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Bentley-Bentayga-41/front-double.png"
+                                                    alt="Bentley-Bentayga-41"></div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Bentley-Bentayga-41/back.png"
+                                                    alt="Bentley-Bentayga-41">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Bentley-Bentayga-41/side.png"
+                                                    alt="Bentley-Bentayga-41">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Bentley-Bentayga-41/in.png"
+                                                    alt="Bentley-Bentayga-41">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Bentley-Bentayga-41/int.png"
+                                                    alt="Bentley-Bentayga-41">
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Слайдер с миниатюрами -->
+                                    <div class="swiper-container thumbnail-slider">
+                                        <div class="swiper-wrapper ">
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Bentley-Bentayga-41/front-double.png"
+                                                    alt="Bentley-Bentayga-41"></div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Bentley-Bentayga-41/back.png"
+                                                    alt="Bentley-Bentayga-41">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Bentley-Bentayga-41/side.png"
+                                                    alt="Bentley-Bentayga-41">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Bentley-Bentayga-41/in.png"
+                                                    alt="Bentley-Bentayga-41">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Bentley-Bentayga-41/int.png"
+                                                    alt="Bentley-Bentayga-41">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="modal-btn my-2">
+                                    <div class="row">
+                                        <div class="car-fax-one col-lg-6 col-md-6 col-sm-12">
+                                            <a class="text-decoration-none fax-btn btn w-100 d-flex justify-content-center align-items-center"
+                                               href="./carfax/Bentley-Bentayga-41.pdf" download>Отчет carfax</a>
+                                        </div>
+                                        <div class="car-fax-two col-lg-6 col-md-6 col-sm-12 mt-2 mt-md-0">
+                                            <button class="order-btn btn w-100"
+                                                    data-title="Bentley Bentayga (17 075 000 руб.)" data-bs-toggle="modal"
+                                                    data-bs-target="#orderModal">Заказать автомобиль
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
             </div>
         </div>
 
@@ -2139,219 +2376,6 @@
             </div>
         </div>
 
-        <!-- Audi Q8 55TFSI-->
-        <div class="modal fade" id="modalAudi-Q8-55TFSI-28" tabindex="-1" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title me-3">Audi Q8 55TFSI из США (2020)</h5>
-                        <div class="sale text-primary">7 110 000 руб.</div>
-                        <button type="button" class="btn-close"
-                                data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-
-                    <div class="modal-body">
-                        <div class="row">
-                            <!-- Блок с характеристиками (lg и md 4 колонки) -->
-                            <div class="d-flex col-sm-12 col-md-4 col-lg-4 order-sm-last order-md-first">
-                                <div class="row scrollable-content w-auto">
-
-                                    <div class="col-4 characteristics text-secondary">
-                                        <p>Статус</p>
-                                        <p>Поколение</p>
-                                        <p>Год</p>
-                                        <p>VIN</p>
-                                        <p>Пробег</p>
-                                        <p>Кузов</p>
-                                        <p>Цвет</p>
-                                        <p>Двигатель</p>
-                                        <p>Коробка</p>
-                                        <p>Привод</p>
-                                        <p>Состояние</p>
-                                        <p>Владельцы</p>
-                                    </div>
-
-                                    <div class="col mt-lg-0 mt-md-0 mt-sm-0 characteristics">
-                                        <p>под заказ</p>
-                                        <p>I (4M)</p>
-                                        <p>2020</p>
-                                        <p>WA1BVAF13MD013835</p>
-                                        <p>34 759</p>
-                                        <p>внедорожник 5 дв.</p>
-                                        <p>черный</p>
-                                        <p>3.0 л / 335 л.с. / бензин</p>
-                                        <p>автоматическая</p>
-                                        <p>полный</p>
-                                        <p>без ДТП / без окрасов</p>
-                                        <p>1</p>
-                                    </div>
-
-                                    <div class="col-md-12 characteristics">
-                                        <p class="text-primary characteristics-title mb-2">Комплектация</p>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Активный круиз</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Электрорегулировка кресел с памятью</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Подогрев кресел</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Подогрев руля</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Вентиляция кресел</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Бесключевой доступ</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Навигация</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Камера 360</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Контроль слепых зон</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Премиальный звук</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Панорамная крыша</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Система экстренного торможения</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Система предупреждения о ДТП</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Би лэд фары</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Additional popular features:</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Seating</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Leather Seats</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Memory Seat</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Stability Control</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">Парковочный ассистент</span>
-                                        <br>
-                                        <span class="me-2 characteristics-icon">
-                                            <img src="images/checkmark.svg" alt="icon"></span><span
-                                            class="characteristics-title">И многое другое!</span>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            <div class="col-sm-12 col-md-8 col-lg-8 order-first">
-                                <!-- Swiper слайдер -->
-                                <div class="swiper-container slider-container main-swiper">
-                                    <!-- Основной слайдер с большими изображениями -->
-                                    <div class="swiper-container main-slider">
-                                        <div class="swiper-wrapper">
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Audi-Q8-55TFSI-28/front-double.png"
-                                                    alt="Audi-Q8-55TFSI-28"></div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Audi-Q8-55TFSI-28/back.png"
-                                                    alt="Audi-Q8-55TFSI-28">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Audi-Q8-55TFSI-28/side.png"
-                                                    alt="Audi-Q8-55TFSI-28">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Audi-Q8-55TFSI-28/in.png"
-                                                    alt="Audi-Q8-55TFSI-28">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Audi-Q8-55TFSI-28/int.png"
-                                                    alt="Audi-Q8-55TFSI-28">
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Слайдер с миниатюрами -->
-                                    <div class="swiper-container thumbnail-slider">
-                                        <div class="swiper-wrapper ">
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Audi-Q8-55TFSI-28/front-double.png"
-                                                    alt="Audi-Q8-55TFSI-28"></div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Audi-Q8-55TFSI-28/back.png"
-                                                    alt="Audi-Q8-55TFSI-28">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Audi-Q8-55TFSI-28/side.png"
-                                                    alt="Audi-Q8-55TFSI-28">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Audi-Q8-55TFSI-28/in.png"
-                                                    alt="Audi-Q8-55TFSI-28">
-                                            </div>
-                                            <div class="swiper-slide img-fluid"><img
-                                                    src="images/cars/Audi-Q8-55TFSI-28/int.png"
-                                                    alt="Audi-Q8-55TFSI-28">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="modal-btn my-2">
-                                    <div class="row">
-                                        <div class="car-fax-one col-lg-6 col-md-6 col-sm-12">
-                                            <a class="text-decoration-none fax-btn btn w-100 d-flex justify-content-center align-items-center"
-                                               href="./carfax/Audi-Q8-55TFSI-28.pdf" download>Отчет carfax</a>
-                                        </div>
-                                        <div class="car-fax-two col-lg-6 col-md-6 col-sm-12 mt-2 mt-md-0">
-                                            <button class="order-btn btn w-100"
-                                                    data-title="Audi Q8 55TFSI (7 110 000 руб.)" data-bs-toggle="modal"
-                                                    data-bs-target="#orderModal">Заказать автомобиль
-                                            </button>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
         <!-- Audi A8 Long 60TFSIe-->
         <div class="modal fade" id="modalAudi-A8-Long-60TFSIe-23" tabindex="-1" aria-hidden="true">
             <div class="modal-dialog">
@@ -2554,7 +2578,7 @@
                         <h5 class="modal-title me-3"><span class="new-car text-primary">Новый </span>Toyota LC 250
                             из США
                             (2024)</h5>
-                        <div class="sale text-primary">9 490 000 руб.</div>
+                        <div class="sale text-primary">10 400 000 руб.</div>
                         <button type="button" class="btn-close"
                                 data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
@@ -2699,7 +2723,7 @@
 
                                 <div class="modal-btn my-2 px-2 row">
                                     <button class="order-btn col-sm-12 col-md-12 col-lg-12"
-                                            data-title="Новый Toyota LC 250 (9 490 000 руб.)" data-bs-toggle="modal"
+                                            data-title="Новый Toyota LC 250 (10 400 000 руб.)" data-bs-toggle="modal"
                                             data-bs-target="#orderModal">Заказать автомобиль
                                     </button>
                                 </div>
@@ -4713,6 +4737,32 @@
         <div class="swiper-container mt-4" id="swiper2">
             <div class="swiper-wrapper">
 
+                <!--Карточка автомобиля #21-->
+                <div class="swiper-slide">
+                    <div class="product-card">
+
+                        <img src="images/cars/Audi-Q8-55TFSI-40/front.png" class="img-fluid"
+                             alt="Audi-Q8-55TFSI-40">
+
+                        <div class="card-body p-2 bg-white d-flex align-items-center justify-content-between">
+                            <div class="order-description">
+                                <h6 class="card-title">Audi Q8 55TFSI</h6>
+                                <p class="from m-0">из CША (2021), 16 292 км</p>
+                                <p class="key-offer text-primary m-0"><span
+                                        class="euro-bold fw-bold">7 120 000 руб.</span>
+                                    -
+                                    цена под ключ</p>
+                            </div>
+                            <div class="catalog-btn">
+                                <button type="submit" class="card-btn" data-bs-toggle="modal"
+                                        data-bs-target="#modalAudi-Q8-55TFSI-40">
+                                    Подробнее
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <!--Карточка автомобиля #20-->
                 <div class="swiper-slide">
                     <div class="product-card">
@@ -4826,7 +4876,7 @@
                                 </h6>
                                 <p class="from m-0">из CША (2024)</p>
                                 <p class="key-offer text-primary m-0"><span
-                                        class="euro-bold fw-bold">18 500 000 руб.</span>
+                                        class="euro-bold fw-bold">20 350 000 руб.</span>
                                     -
                                     цена под ключ</p>
                             </div>
@@ -5187,7 +5237,7 @@
                                 </h6>
                                 <p class="from m-0">из CША (2024)</p>
                                 <p class="key-offer text-primary m-0"><span
-                                        class="euro-bold fw-bold">17 600 000 руб.</span>
+                                        class="euro-bold fw-bold">18 500 000 руб.</span>
                                     -
                                     цена под ключ</p>
                             </div>
@@ -5214,7 +5264,7 @@
                                 </h6>
                                 <p class="from m-0">из CША (2024)</p>
                                 <p class="key-offer text-primary m-0"><span
-                                        class="euro-bold fw-bold">13 690 000 руб.</span>
+                                        class="euro-bold fw-bold">14 600 000 руб.</span>
                                     -
                                     цена под ключ</p>
                             </div>
@@ -5228,6 +5278,206 @@
                     </div>
                 </div>
 
+            </div>
+        </div>
+
+        <!-- Audi Q8 55TFSI -->
+        <div class="modal fade" id="modalAudi-Q8-55TFSI-40" tabindex="-1" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title me-3">Audi Q8 55TFSI из США (2021)</h5>
+                        <div class="sale text-primary">7 120 000 руб.</div>
+                        <button type="button" class="btn-close"
+                                data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+
+                    <div class="modal-body">
+                        <div class="row">
+                            <!-- Блок с характеристиками (lg и md 4 колонки) -->
+                            <div class="d-flex col-sm-12 col-md-4 col-lg-4 order-sm-last order-md-first">
+                                <div class="row scrollable-content w-auto">
+
+                                    <div class="col-4 characteristics text-secondary">
+                                        <p>Статус</p>
+                                        <p>Поколение</p>
+                                        <p>Год</p>
+                                        <p>VIN</p>
+                                        <p>Пробег</p>
+                                        <p>Кузов</p>
+                                        <p>Цвет</p>
+                                        <p>Двигатель</p>
+                                        <p>Коробка</p>
+                                        <p>Привод</p>
+                                        <p>Состояние</p>
+                                        <p>Владельцы</p>
+                                    </div>
+
+                                    <div class="col mt-lg-0 mt-md-0 mt-sm-0 characteristics">
+                                        <p>под заказ</p>
+                                        <p>I (4M)</p>
+                                        <p>2021</p>
+                                        <p>WA1AVAF12MD028354</p>
+                                        <p>16 292</p>
+                                        <p>внедорожник 5 дв.</p>
+                                        <p>черный</p>
+                                        <p>3.0 л / 335 л.с. / бензин</p>
+                                        <p>автоматическая</p>
+                                        <p>полный</p>
+                                        <p>без ДТП / без окрасов</p>
+                                        <p>1</p>
+                                    </div>
+
+                                    <div class="col-md-12 characteristics">
+                                        <p class="text-primary characteristics-title mb-2">Комплектация</p>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Активный круиз</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Электрорегулировка кресел с памятью</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Подогрев кресел</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Подогрев руля</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Вентиляция кресел</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Навигация</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Камера 360</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Беслкючевой доступ</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Премиальный звук</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Панорамная крыша</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Контроль слепых зон</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система экстренного торможения</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Би лэд фары</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система контроля полосности</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Система предупреждения ДТП</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">Парковочный ассистент</span>
+                                        <br>
+                                        <span class="me-2 characteristics-icon">
+                                            <img src="images/checkmark.svg" alt="icon"></span><span
+                                            class="characteristics-title">И многое другое!</span>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="col-sm-12 col-md-8 col-lg-8 order-first">
+                                <!-- Swiper слайдер -->
+                                <div class="swiper-container slider-container main-swiper">
+                                    <!-- Основной слайдер с большими изображениями -->
+                                    <div class="swiper-container main-slider">
+                                        <div class="swiper-wrapper">
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Audi-Q8-55TFSI-40/front-double.png"
+                                                    alt="Audi-Q8-55TFSI-40"></div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Audi-Q8-55TFSI-40/back.png"
+                                                    alt="Audi-Q8-55TFSI-40">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Audi-Q8-55TFSI-40/side.png"
+                                                    alt="Audi-Q8-55TFSI-40">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Audi-Q8-55TFSI-40/in.png"
+                                                    alt="Audi-Q8-55TFSI-40">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Audi-Q8-55TFSI-40/int.png"
+                                                    alt="Audi-Q8-55TFSI-40">
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Слайдер с миниатюрами -->
+                                    <div class="swiper-container thumbnail-slider">
+                                        <div class="swiper-wrapper ">
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Audi-Q8-55TFSI-40/front-double.png"
+                                                    alt="Audi-Q8-55TFSI-40"></div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Audi-Q8-55TFSI-40/back.png"
+                                                    alt="Audi-Q8-55TFSI-40">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Audi-Q8-55TFSI-40/side.png"
+                                                    alt="Audi-Q8-55TFSI-40">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Audi-Q8-55TFSI-40/in.png"
+                                                    alt="Audi-Q8-55TFSI-40">
+                                            </div>
+                                            <div class="swiper-slide img-fluid"><img
+                                                    src="images/cars/Audi-Q8-55TFSI-40/int.png"
+                                                    alt="Audi-Q8-55TFSI-40">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="modal-btn my-2">
+                                    <div class="row">
+                                        <div class="car-fax-one col-lg-6 col-md-6 col-sm-12">
+                                            <a class="text-decoration-none fax-btn btn w-100 d-flex justify-content-center align-items-center"
+                                               href="./carfax/Audi-Q8-55TFSI-40.pdf" download>Отчет carfax</a>
+                                        </div>
+                                        <div class="car-fax-two col-lg-6 col-md-6 col-sm-12 mt-2 mt-md-0">
+                                            <button class="order-btn btn w-100"
+                                                    data-title="Audi Q8 55TFSI (7 120 000 руб.)"
+                                                    data-bs-toggle="modal"
+                                                    data-bs-target="#orderModal">Заказать автомобиль
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
             </div>
         </div>
 
@@ -5895,7 +6145,7 @@
                         <h5 class="modal-title me-3"><span class="new-car text-primary">Новый </span>Ford F-150 Raptor V8
                             из США
                             (2024)</h5>
-                        <div class="sale text-primary">18 500 000 руб.</div>
+                        <div class="sale text-primary">20 350 000 руб.</div>
                         <button type="button" class="btn-close"
                                 data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
@@ -6040,7 +6290,7 @@
 
                                 <div class="modal-btn my-2 px-2 row">
                                     <button class="order-btn col-sm-12 col-md-12 col-lg-12"
-                                            data-title="Новый Ford F-150 Raptor V8 (18 500 000 руб.)" data-bs-toggle="modal"
+                                            data-title="Новый Ford F-150 Raptor V8 (20 350 000 руб.)" data-bs-toggle="modal"
                                             data-bs-target="#orderModal">Заказать автомобиль
                                     </button>
                                 </div>
@@ -8043,7 +8293,7 @@
                         <h5 class="modal-title me-3"><span class="new-car text-primary">Новый </span>Range Rover
                             из США
                             (2024)</h5>
-                        <div class="sale text-primary">17 600 000 руб.</div>
+                        <div class="sale text-primary">18 500 000 руб.</div>
                         <button type="button" class="btn-close"
                                 data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
@@ -8072,7 +8322,7 @@
                                         <p>под заказ</p>
                                         <p>V</p>
                                         <p>2024</p>
-                                        <p>SALKP9FU8RA240531</p>
+                                        <p>SALKP9FU0RA227451</p>
                                         <p>новый без пробега</p>
                                         <p>внедорожник 5 дв.</p>
                                         <p>черный</p>
@@ -8208,7 +8458,7 @@
 
                                 <div class="modal-btn my-2 px-2 row">
                                     <button class="order-btn col-sm-12 col-md-12 col-lg-12"
-                                            data-title="Новый Range Rover (17 600 000 руб.)" data-bs-toggle="modal"
+                                            data-title="Новый Range Rover (18 500 000 руб.)" data-bs-toggle="modal"
                                             data-bs-target="#orderModal">Заказать автомобиль
                                     </button>
                                 </div>
@@ -8229,7 +8479,7 @@
                             из
                             США
                             (2024)</h5>
-                        <div class="sale text-primary">13 690 000 руб.</div>
+                        <div class="sale text-primary">14 600 000 руб.</div>
                         <button type="button" class="btn-close"
                                 data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
@@ -8402,7 +8652,7 @@
 
                                 <div class="modal-btn my-2 px-2 row">
                                     <button class="order-btn col-sm-12 col-md-12 col-lg-12"
-                                            data-title="Новый Cadillac Escalade (13 690 000 руб.)"
+                                            data-title="Новый Cadillac Escalade (14 600 000 руб.)"
                                             data-bs-toggle="modal"
                                             data-bs-target="#orderModal">Заказать автомобиль
                                     </button>
