@@ -6,7 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carfax/Audi-Q8-55TFSI-40.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carfax/BMW-X7-xDrive40i-36.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carfax/Mercedes-Benz-GLE-350-22.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Panamera_8/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Panamera_8/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Panamera_8/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Panamera_8/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Panamera_8/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Panamera_8/side.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,26 +57,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Susik/Desktop/NCI",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Susik/Desktop/NCI&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Susik\Desktop\NCI\carfax" />
@@ -423,7 +433,10 @@
       <workItem from="1717057516409" duration="3761000" />
       <workItem from="1717083619011" duration="112000" />
       <workItem from="1717093784763" duration="577000" />
-      <workItem from="1717346942672" duration="9092000" />
+      <workItem from="1717346942672" duration="10925000" />
+      <workItem from="1717398265599" duration="1685000" />
+      <workItem from="1717594099252" duration="2734000" />
+      <workItem from="1717737402705" duration="4567000" />
     </task>
     <servers />
   </component>
@@ -473,7 +486,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>9060</line>
+          <line>9543</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
