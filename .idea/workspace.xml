@@ -6,15 +6,27 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carfax/Audi-Q8-55TFSI-40.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carfax/BMW-X7-xDrive40i-36.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carfax/Mercedes-Benz-GLE-350-22.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Panamera_8/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Panamera_8/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Panamera_8/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Panamera_8/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Panamera_8/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Porsche_Panamera_8/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carfax/BMW_X6_xDrive40i_98.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carfax/Porsche-Cayenne-39.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carfax/Porsche-Panamera-43.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q8-55TFSI-40/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q8-55TFSI-40/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q8-55TFSI-40/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q8-55TFSI-40/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q8-55TFSI-40/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q8-55TFSI-40/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLE-350-22/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLE-350-22/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLE-350-22/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLE-350-22/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLE-350-22/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLE-350-22/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-Sport-37/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-Sport-37/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-Sport-37/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-Sport-37/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-Sport-37/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-Sport-37/side.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
@@ -436,7 +448,11 @@
       <workItem from="1717346942672" duration="10925000" />
       <workItem from="1717398265599" duration="1685000" />
       <workItem from="1717594099252" duration="2734000" />
-      <workItem from="1717737402705" duration="4567000" />
+      <workItem from="1717737402705" duration="5300000" />
+      <workItem from="1717761135778" duration="704000" />
+      <workItem from="1717913940804" duration="14000" />
+      <workItem from="1717959096608" duration="451000" />
+      <workItem from="1717996799855" duration="4399000" />
     </task>
     <servers />
   </component>
@@ -486,7 +502,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>9543</line>
+          <line>9540</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
