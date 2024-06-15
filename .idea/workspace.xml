@@ -6,30 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carfax/Audi_A6_allroad_16.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carfax/BMW-X6-xDrive40i-51.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carfax/Porsche-911-Carrera-33.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X7-xDrive40i-36/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X7-xDrive40i-36/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X7-xDrive40i-36/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X7-xDrive40i-36/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X7-xDrive40i-36/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X7-xDrive40i-36/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_98/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_98/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_98/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_98/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_98/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_98/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-39/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-39/front-double.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-39/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-39/in.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-39/int.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-39/side.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -455,7 +431,7 @@
       <workItem from="1717996799855" duration="4777000" />
       <workItem from="1718011857337" duration="325000" />
       <workItem from="1718256393546" duration="447000" />
-      <workItem from="1718442881336" duration="4385000" />
+      <workItem from="1718442881336" duration="4841000" />
     </task>
     <servers />
   </component>
