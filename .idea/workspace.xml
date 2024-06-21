@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carfax/BMW-X6-xDrive40i-55.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carfax/BMW-X7-xDrive40i-46.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carfax/Bentley_Bentayga_79.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -432,6 +438,10 @@
       <workItem from="1718011857337" duration="325000" />
       <workItem from="1718256393546" duration="447000" />
       <workItem from="1718442881336" duration="4841000" />
+      <workItem from="1718454562081" duration="1011000" />
+      <workItem from="1718482342274" duration="864000" />
+      <workItem from="1718862305485" duration="2868000" />
+      <workItem from="1718976595074" duration="3129000" />
     </task>
     <servers />
   </component>
@@ -481,7 +491,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>9539</line>
+          <line>10098</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
