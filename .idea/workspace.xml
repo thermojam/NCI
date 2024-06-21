@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Volvo-XC90-B5-Plus-59/back.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +74,11 @@
       <recent name="C:\Users\Susik\Desktop\NCI\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Volvo-XC90-B5-Plus-59" />
       <recent name="C:\Users\Susik\Desktop\NCI\images\cars" />
       <recent name="C:\Users\Susik\Desktop\NCI\carfax" />
       <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Volvo-XC90-31" />
       <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Audi_A6 _llroad" />
-      <recent name="C:\Users\Susik\Desktop\NCI\js" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -438,7 +435,7 @@
       <workItem from="1718454562081" duration="1011000" />
       <workItem from="1718482342274" duration="864000" />
       <workItem from="1718862305485" duration="2868000" />
-      <workItem from="1718976595074" duration="4830000" />
+      <workItem from="1718976595074" duration="5201000" />
     </task>
     <servers />
   </component>
