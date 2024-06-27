@@ -5,7 +5,270 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-60TFSIe-23/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-60TFSIe-23/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-60TFSIe-23/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-60TFSIe-23/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-60TFSIe-23/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-60TFSIe-23/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q7-45-TFSI-35/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q7-45-TFSI-35/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q7-45-TFSI-35/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q7-45-TFSI-35/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q7-45-TFSI-35/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q7-45-TFSI-35/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q8-55TFSI-47/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q8-55TFSI-47/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q8-55TFSI-47/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q8-55TFSI-47/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q8-55TFSI-47/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-Q8-55TFSI-47/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_A6_allroad_54/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_A6_allroad_54/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_A6_allroad_54/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_A6_allroad_54/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_A6_allroad_54/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_A6_allroad_54/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_45TFSI_13/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_45TFSI_13/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_45TFSI_13/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_45TFSI_13/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_45TFSI_13/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q7_45TFSI_13/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_55TFSI_1/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_55TFSI_1/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_55TFSI_1/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_55TFSI_1/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_55TFSI_1/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi_Q8_55TFSI_1/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X5-xDrive40i-21/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X5-xDrive40i-21/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X5-xDrive40i-21/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X5-xDrive40i-21/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X5-xDrive40i-21/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X5-xDrive40i-21/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X5M-Competition-48/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X5M-Competition-48/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X5M-Competition-48/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X5M-Competition-48/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X5M-Competition-48/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X5M-Competition-48/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X6-xDrive40i-60/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X6-xDrive40i-60/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X6-xDrive40i-60/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X6-xDrive40i-60/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X6-xDrive40i-60/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X6-xDrive40i-60/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X7-xDrive40i-61/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X7-xDrive40i-61/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X7-xDrive40i-61/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X7-xDrive40i-61/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X7-xDrive40i-61/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW-X7-xDrive40i-61/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_530i_xDrive_89/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_530i_xDrive_89/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_530i_xDrive_89/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_530i_xDrive_89/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_530i_xDrive_89/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_530i_xDrive_89/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_11/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_11/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_11/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_11/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_11/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_740i_xDrive_11/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X5_xDrive40i_84/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X5_xDrive40i_84/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X5_xDrive40i_84/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X5_xDrive40i_84/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X5_xDrive40i_84/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X5_xDrive40i_84/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_17/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_17/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_17/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_17/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_17/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X6_xDrive40i_17/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X7_xDrive40i_3/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X7_xDrive40i_3/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X7_xDrive40i_3/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X7_xDrive40i_3/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X7_xDrive40i_3/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/BMW_X7_xDrive40i_3/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Bentley-Bentayga-41/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Bentley-Bentayga-41/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Bentley-Bentayga-41/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Bentley-Bentayga-41/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Bentley-Bentayga-41/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Bentley-Bentayga-41/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Cadillac_Escalade/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Cadillac_Escalade/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Cadillac_Escalade/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Cadillac_Escalade/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Cadillac_Escalade/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Cadillac_Escalade/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Ford-F-150-Raptor-V8-29/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Ford-F-150-Raptor-V8-29/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Ford-F-150-Raptor-V8-29/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Ford-F-150-Raptor-V8-29/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Ford-F-150-Raptor-V8-29/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Ford-F-150-Raptor-V8-29/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Jeep-Grand-Cherokee-57/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Jeep-Grand-Cherokee-57/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Jeep-Grand-Cherokee-57/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Jeep-Grand-Cherokee-57/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Jeep-Grand-Cherokee-57/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Jeep-Grand-Cherokee-57/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Jeep-Wrangler-58/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Jeep-Wrangler-58/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Jeep-Wrangler-58/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Jeep-Wrangler-58/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Jeep-Wrangler-58/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Jeep-Wrangler-58/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_GX_550_12/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_GX_550_12/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_GX_550_12/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_GX_550_12/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_GX_550_12/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Lexus_GX_550_12/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/MB-AMG-GLE53-49/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/MB-AMG-GLE53-49/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/MB-AMG-GLE53-49/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/MB-AMG-GLE53-49/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/MB-AMG-GLE53-49/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/MB-AMG-GLE53-49/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-AMG-GLE53-Coupe-44/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-AMG-GLE53-Coupe-44/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-AMG-GLE53-Coupe-44/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-AMG-GLE53-Coupe-44/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-AMG-GLE53-Coupe-44/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-AMG-GLE53-Coupe-44/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-G550-45/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-G550-45/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-G550-45/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-G550-45/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-G550-45/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-G550-45/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLE-350-50/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLE-350-50/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLE-350-50/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLE-350-50/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLE-350-50/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLE-350-50/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-38/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-38/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-38/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-38/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-38/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-38/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-S580-32/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-S580-32/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-S580-32/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-S580-32/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-S580-32/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-S580-32/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_E350_87/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_E350_87/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_E350_87/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_E350_87/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_E350_87/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_E350_87/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLC_300_14/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLC_300_14/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLC_300_14/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLC_300_14/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLC_300_14/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLC_300_14/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLE_350_93/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLE_350_93/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLE_350_93/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLE_350_93/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLE_350_93/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLE_350_93/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_95/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_95/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_95/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_95/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_95/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz_GLS_450_95/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-911-Carrera-S-56/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-911-Carrera-S-56/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-911-Carrera-S-56/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-911-Carrera-S-56/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-911-Carrera-S-56/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-911-Carrera-S-56/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-52/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-52/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-52/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-52/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-52/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-52/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Panamera-53/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Panamera-53/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Panamera-53/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Panamera-53/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Panamera-53/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Panamera-53/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-HSE-34/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-HSE-34/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-HSE-34/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-HSE-34/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-HSE-34/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-HSE-34/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-Sport-42/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-Sport-42/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-Sport-42/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-Sport-42/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-Sport-42/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-Sport-42/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_86/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_86/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_86/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_86/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_86/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_86/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_97/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_97/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_97/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_97/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_97/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Sport_97/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Velar_99/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Velar_99/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Velar_99/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Velar_99/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Velar_99/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Range_Rover_Velar_99/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Toyota_LC_250_20/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Toyota_LC_250_20/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Toyota_LC_250_20/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Toyota_LC_250_20/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Toyota_LC_250_20/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Toyota_LC_250_20/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo-XC90-31/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo-XC90-31/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo-XC90-31/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo-XC90-31/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo-XC90-31/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo-XC90-31/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo-XC90-B5-Plus-59/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo-XC90-B5-Plus-59/front-double.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo-XC90-B5-Plus-59/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo-XC90-B5-Plus-59/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo-XC90-B5-Plus-59/int.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Volvo-XC90-B5-Plus-59/side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/end.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/main-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/review/slide_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/review/slide_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/review/slide_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/screen/screen-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/screen/screen-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/screen/screen-3.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +337,11 @@
       <recent name="C:\Users\Susik\Desktop\NCI\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Volvo-XC90-B5-Plus-59" />
       <recent name="C:\Users\Susik\Desktop\NCI\images\cars" />
-      <recent name="C:\Users\Susik\Desktop\NCI\carfax" />
-      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Volvo-XC90-31" />
-      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Audi_A6 _llroad" />
+      <recent name="C:\Users\Susik\Desktop\NCI\images" />
+      <recent name="C:\Users\Susik\Desktop\NCI\images\review" />
+      <recent name="C:\Users\Susik\Desktop\NCI\images\screen" />
+      <recent name="C:\Users\Susik\Desktop\NCI\images\cars\Volvo-XC90-B5-Plus-59" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -435,7 +698,9 @@
       <workItem from="1718454562081" duration="1011000" />
       <workItem from="1718482342274" duration="864000" />
       <workItem from="1718862305485" duration="2868000" />
-      <workItem from="1718976595074" duration="5201000" />
+      <workItem from="1718976595074" duration="5888000" />
+      <workItem from="1719466629466" duration="2978000" />
+      <workItem from="1719477256977" duration="10123000" />
     </task>
     <servers />
   </component>
@@ -485,7 +750,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>10098</line>
+          <line>10095</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
