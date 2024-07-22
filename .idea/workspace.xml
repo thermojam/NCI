@@ -6,13 +6,35 @@
   <component name="ChangeListManager">
     <list default="true" id="8f9fb249-c992-45b6-aaa1-323c7dfe1139" name="Changes" comment="NCI push to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carfax/Mercedes-Benz-GLS-450-38.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-38/back.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-38/front-double.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-38/in.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-38/int.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-38/side.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cars/Range-Rover-HSE-65/front.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carfax/Porsche-911-Carrera-S-56.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/carfax/Porsche-Cayenne-52.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-55-TFSI-63/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-55-TFSI-63/front-double.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-55-TFSI-63/in.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-55-TFSI-63/int.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-55-TFSI-63/side.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-55-TFSI-74/back.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-55-TFSI-74/front-double.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-55-TFSI-74/front.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-55-TFSI-74/in.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-55-TFSI-74/int.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Audi-A8-Long-55-TFSI-74/side.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-73/back.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-73/front-double.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-73/front.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-73/in.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-73/int.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Mercedes-Benz-GLS-450-73/side.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-911-Carrera-S-56/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-911-Carrera-S-56/front-double.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-911-Carrera-S-56/in.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-911-Carrera-S-56/int.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-911-Carrera-S-56/side.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-52/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-52/front-double.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-52/in.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-52/int.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cars/Porsche-Cayenne-52/side.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/offer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/offer.xml" afterDir="false" />
@@ -55,26 +77,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Susik/Desktop/NCI/carfax",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Susik/Desktop/NCI/carfax&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Susik\Desktop\NCI\carfax" />
@@ -459,7 +481,8 @@
       <workItem from="1721381770181" duration="28000" />
       <workItem from="1721554675825" duration="1939000" />
       <workItem from="1721557307993" duration="58000" />
-      <workItem from="1721624980710" duration="4493000" />
+      <workItem from="1721624980710" duration="4968000" />
+      <workItem from="1721645332891" duration="3039000" />
     </task>
     <servers />
   </component>

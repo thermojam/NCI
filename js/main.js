@@ -142,11 +142,11 @@ let modalIDs = [
     'modalRange-Rover-Sport-42',
     'modalMercedes-Benz-AMG-GLE53-Coupe-44', 'modalMercedes-Benz-G550-45', 'modalAudi-Q8-55TFSI-47',
     'modalBMW-X5M-Competition-48', 'modalMB-AMG-GLE53-49', 'modalMercedes-Benz-GLE-350-50',
-    'modalPorsche-Cayenne-52', 'modalAudi_A6_allroad_54', 'modalPorsche-911-Carrera-S-56',
+    'modalAudi_A6_allroad_54',
     'modalJeep-Grand-Cherokee-57', 'modalJeep-Wrangler-58', 'modalVolvo-XC90-B5-Plus-59', 'modalBMW-X7-xDrive40i-61',
-    'modalAudi-A8-Long-55-TFSI-63', 'modalBentley-Bentayga-64', 'modalMercedes-Benz-S500-66',
+    'modalBentley-Bentayga-64', 'modalMercedes-Benz-S500-66',
     'modalVolvo-XC90-T5-67', 'modalPorsche-Panamera-68', 'modalAudi-Q7-45-TFSI-69', 'modalBMW-X5-xDrive40i-70', 'modalRange-Rover-HSE-71',
-    'modalBMW-X6-xDrive40i-72', 'modalMercedes-Benz-GLS-450-73', 'modalAudi-A8-Long-55-TFSI-74'];
+    'modalBMW-X6-xDrive40i-72', 'modalMercedes-Benz-GLS-450-73', 'modalAudi-A8-Long-55-TFSI-74', 'modalPorsche-Cayenne-75'];
 
 // Инициализация обработчика для каждого модального окна
 modalIDs.forEach(function (modalID) {
@@ -290,11 +290,11 @@ $(document).ready(function () {
         '#modalRange-Rover-Sport-42',
         '#modalMercedes-Benz-AMG-GLE53-Coupe-44', '#modalMercedes-Benz-G550-45', '#modalAudi-Q8-55TFSI-47',
         '#modalBMW-X5M-Competition-48', '#modalMB-AMG-GLE53-49', '#modalMercedes-Benz-GLE-350-50',
-        '#modalPorsche-Cayenne-52', '#modalAudi_A6_allroad_54', '#modalPorsche-911-Carrera-S-56',
+        '#modalAudi_A6_allroad_54',
         '#modalJeep-Grand-Cherokee-57', '#modalJeep-Wrangler-58', '#modalVolvo-XC90-B5-Plus-59', '#modalBMW-X7-xDrive40i-61',
-        '#modalAudi-A8-Long-55-TFSI-63', '#modalBentley-Bentayga-64', '#modalMercedes-Benz-S500-66',
+        '#modalBentley-Bentayga-64', '#modalMercedes-Benz-S500-66',
         '#modalVolvo-XC90-T5-67', '#modalPorsche-Panamera-68', '#modalAudi-Q7-45-TFSI-69', '#modalBMW-X5-xDrive40i-70', '#modalRange-Rover-HSE-71',
-        '#modalBMW-X6-xDrive40i-72', '#modalMercedes-Benz-GLS-450-73', '#modalAudi-A8-Long-55-TFSI-74'];
+        '#modalBMW-X6-xDrive40i-72', '#modalMercedes-Benz-GLS-450-73', '#modalAudi-A8-Long-55-TFSI-74', '#modalPorsche-Cayenne-75'];
 
     modalIds.forEach(function (modalId) {
         if (window.location.href.indexOf(modalId) !== -1) {

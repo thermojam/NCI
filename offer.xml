@@ -611,32 +611,6 @@
         </car>
 
         <car>
-            <!--                  Porsche Cayenne                 -->
-            <mark_id>Porsche</mark_id>
-            <folder_id>Cayenne, III</folder_id>
-            <modification_id>3.0 АТ (335 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalPorsche-Cayenne-52</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>коричневый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>46449</run>
-            <year>2021</year>
-            <price>7480000</price>
-            <currency>RUR</currency>
-            <vin>00000052</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-52/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-52/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-52/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-52/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-52/back.jpg</image>
-            </images>
-        </car>
-
-        <car>
             <!--                  Audi A6 allroad                -->
             <mark_id>Audi</mark_id>
             <folder_id>A6 allroad, IV (C8)</folder_id>
@@ -659,32 +633,6 @@
                 <image>https://ncimport.ru/images/cars/Audi_A6_allroad_54/int.jpg</image>
                 <image>https://ncimport.ru/images/cars/Audi_A6_allroad_54/side.jpg</image>
                 <image>https://ncimport.ru/images/cars/Audi_A6_allroad_54/back.jpg</image>
-            </images>
-        </car>
-
-        <car>
-            <!--                  Porsche 911 Carrera S               -->
-            <mark_id>Porsche</mark_id>
-            <folder_id>911 Carrera S, VIII (992)</folder_id>
-            <modification_id>3.0 АТ (443 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalPorsche-911-Carrera-S-56</url>
-            <body_type>кабриолет</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>10052</run>
-            <year>2020</year>
-            <price>17365000</price>
-            <currency>RUR</currency>
-            <vin>00000056</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Porsche-911-Carrera-S-56/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/Porsche-911-Carrera-S-56/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/Porsche-911-Carrera-S-56/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/Porsche-911-Carrera-S-56/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/Porsche-911-Carrera-S-56/back.jpg</image>
             </images>
         </car>
 
@@ -787,32 +735,6 @@
         </car>
 
         <car>
-            <!--                  Audi A8 Long 55 TFSI                -->
-            <mark_id>Audi</mark_id>
-            <folder_id>A8 Long 55 TFSI, IV (D5)</folder_id>
-            <modification_id>3.0 АТ (335 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi-A8-Long-55-TFSI-63</url>
-            <body_type>седан</body_type>
-            <color>бордовый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>12285</run>
-            <year>2020</year>
-            <price>7405000</price>
-            <currency>RUR</currency>
-            <vin>00000063</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-63/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-63/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-63/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-63/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-63/back.jpg</image>
-            </images>
-        </car>
-
-        <car>
             <!--                  Bentley Bentayga                -->
             <mark_id>Bentley</mark_id>
             <folder_id>Bentayga, I</folder_id>
@@ -891,9 +813,9 @@
         </car>
 
         <car>
-            <!--                  Porsche Porsche              -->
+            <!--                  Porsche Panamera              -->
             <mark_id>Porsche</mark_id>
-            <folder_id>Porsche, II Рестайлинг</folder_id>
+            <folder_id>Panamera, II Рестайлинг</folder_id>
             <modification_id>3.0 АТ (330 л.с.)</modification_id>
             <url>https://ncimport.ru/#modalPorsche-Panamera-68</url>
             <body_type>лифтбек</body_type>
@@ -1038,11 +960,11 @@
             <currency>RUR</currency>
             <vin>00000073</vin>
             <images>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLS-450-73/front-double.avif</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLS-450-73/in.avif</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLS-450-73/int.avif</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLS-450-73/side.avif</image>
-                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLS-450-73/back.avif</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLS-450-73/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLS-450-73/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLS-450-73/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLS-450-73/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLS-450-73/back.jpg</image>
             </images>
         </car>
 
@@ -1064,11 +986,37 @@
             <currency>RUR</currency>
             <vin>00000074</vin>
             <images>
-                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-74/front-double.avif</image>
-                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-74/in.avif</image>
-                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-74/int.avif</image>
-                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-74/side.avif</image>
-                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-74/back.avif</image>
+                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-74/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-74/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-74/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-74/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Audi-A8-Long-55-TFSI-74/back.jpg</image>
+            </images>
+        </car>
+
+        <car>
+            <!--                  Porsche Cayenne              -->
+            <mark_id>Porsche</mark_id>
+            <folder_id>Cayenne, III</folder_id>
+            <modification_id>3.0 АТ (335 л.с.)</modification_id>
+            <url>https://ncimport.ru/#modalPorsche-Cayenne-75</url>
+            <body_type>внедорожник 5 дв.</body_type>
+            <color>черный</color>
+            <availability>на заказ</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>один владелец</owners_number>
+            <run>46195</run>
+            <year>2021</year>
+            <price>6970000</price>
+            <currency>RUR</currency>
+            <vin>00000075</vin>
+            <images>
+                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-75/front-double.jpg</image>
+                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-75/in.jpg</image>
+                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-75/int.jpg</image>
+                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-75/side.jpg</image>
+                <image>https://ncimport.ru/images/cars/Porsche-Cayenne-75/back.jpg</image>
             </images>
         </car>
 
