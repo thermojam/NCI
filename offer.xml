@@ -9,11 +9,11 @@
             <modification_id>3.0 АТ (277 л.с.)</modification_id>
             <url>https://ncimport.ru/#modalCadillac_Escalade</url>
             <images>
-                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/back.jpg</image>
+                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/front-double.avif</image>
+                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/in.avif</image>
+                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/int.avif</image>
+                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/side.avif</image>
+                <image>https://ncimport.ru/images/cars/Cadillac_Escalade/back.avif</image>
             </images>
             <body_type>внедорожник 5 дв.</body_type>
             <color>черный</color>
@@ -33,11 +33,11 @@
             <modification_id>3.0 АТ (395 л.с.)</modification_id>
             <url>https://ncimport.ru/#modalRange_Rover_86</url>
             <images>
-                <image>https://ncimport.ru/images/cars/Range_Rover_86/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_86/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_86/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_86/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/Range_Rover_86/back.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_86/front-double.avif</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_86/in.avif</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_86/int.avif</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_86/side.avif</image>
+                <image>https://ncimport.ru/images/cars/Range_Rover_86/back.avif</image>
             </images>
             <body_type>внедорожник 5 дв.</body_type>
             <color>черный</color>
@@ -57,11 +57,11 @@
             <modification_id>2.0 АТ (255 л.с.)</modification_id>
             <url>https://ncimport.ru/#modalBMW_530i_xDrive_89</url>
             <images>
-                <image>https://ncimport.ru/images/cars/BMW_530i_xDrive_89/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW_530i_xDrive_89/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW_530i_xDrive_89/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW_530i_xDrive_89/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW_530i_xDrive_89/back.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW_530i_xDrive_89/front-double.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW_530i_xDrive_89/in.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW_530i_xDrive_89/int.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW_530i_xDrive_89/side.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW_530i_xDrive_89/back.avif</image>
             </images>
             <body_type>седан</body_type>
             <color>черный</color>
@@ -81,11 +81,11 @@
             <modification_id>3.0 АТ (375 л.с.)</modification_id>
             <url>https://ncimport.ru/#modalBMW_X5_xDrive40i_84</url>
             <images>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_84/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_84/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_84/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_84/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_84/back.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_84/front-double.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_84/in.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_84/int.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_84/side.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW_X5_xDrive40i_84/back.avif</image>
             </images>
             <body_type>внедорожник 5 дв.</body_type>
             <color>белый</color>
@@ -299,18 +299,18 @@
             <modification_id>3.4 АТ (349 л.с.)</modification_id>
             <url>https://ncimport.ru/#modalLexus_GX_550_12</url>
             <images>
-                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/back.jpg</image>
+                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/front-double.avif</image>
+                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/in.avif</image>
+                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/int.avif</image>
+                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/side.avif</image>
+                <image>https://ncimport.ru/images/cars/Lexus_GX_550_12/back.avif</image>
             </images>
             <body_type>внедорожник 5 дв.</body_type>
             <color>серый</color>
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>13000000</price>
+            <price>12600000</price>
             <currency>RUR</currency>
             <vin>00000012</vin>
             <owners_number>Не было владельцев</owners_number>
@@ -371,11 +371,11 @@
             <modification_id>3.0 АТ (375 л.с.)</modification_id>
             <url>https://ncimport.ru/#modalBMW_X6_xDrive40i_17</url>
             <images>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_17/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_17/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_17/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_17/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_17/back.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_17/front-double.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_17/in.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_17/int.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_17/side.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW_X6_xDrive40i_17/back.avif</image>
             </images>
             <body_type>внедорожник 5 дв.</body_type>
             <color>серый</color>
@@ -450,15 +450,15 @@
             <owners_number>один владелец</owners_number>
             <run>24337</run>
             <year>2020</year>
-            <price>6716000</price>
+            <price>6010000</price>
             <currency>RUR</currency>
             <vin>00000042</vin>
             <images>
-                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-42/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-42/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-42/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-42/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-42/back.jpg</image>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-42/front-double.avif</image>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-42/in.avif</image>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-42/int.avif</image>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-42/side.avif</image>
+                <image>https://ncimport.ru/images/cars/Range-Rover-Sport-42/back.avif</image>
             </images>
         </car>
 
@@ -543,18 +543,18 @@
             <modification_id>4.4 АТ (617 л.с.)</modification_id>
             <url>https://ncimport.ru/#modalBMW-X5M-Competition-48</url>
             <images>
-                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-48/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-48/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-48/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-48/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-48/back.jpg</image>
+                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-48/front-double.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-48/in.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-48/int.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-48/side.avif</image>
+                <image>https://ncimport.ru/images/cars/BMW-X5M-Competition-48/back.avif</image>
             </images>
             <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
+            <color>черный</color>
             <availability>на заказ</availability>
             <custom>растаможен</custom>
             <year>2024</year>
-            <price>21060000</price>
+            <price>19445000</price>
             <currency>RUR</currency>
             <vin>00000048</vin>
             <owners_number>Не было владельцев</owners_number>
@@ -607,32 +607,6 @@
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLE-350-50/int.jpg</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLE-350-50/side.jpg</image>
                 <image>https://ncimport.ru/images/cars/Mercedes-Benz-GLE-350-50/back.jpg</image>
-            </images>
-        </car>
-
-        <car>
-            <!--                  Audi A6 allroad                -->
-            <mark_id>Audi</mark_id>
-            <folder_id>A6 allroad, IV (C8)</folder_id>
-            <modification_id>3.0 АТ (335 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi_A6_allroad_54</url>
-            <body_type>универсал 5 дв.</body_type>
-            <color>черный</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>37418</run>
-            <year>2020</year>
-            <price>6933000</price>
-            <currency>RUR</currency>
-            <vin>00000054</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_54/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_54/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_54/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_54/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/Audi_A6_allroad_54/back.jpg</image>
             </images>
         </car>
 
@@ -813,84 +787,6 @@
         </car>
 
         <car>
-            <!--                  Porsche Panamera              -->
-            <mark_id>Porsche</mark_id>
-            <folder_id>Panamera, II Рестайлинг</folder_id>
-            <modification_id>3.0 АТ (330 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalPorsche-Panamera-68</url>
-            <body_type>лифтбек</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>два владельца</owners_number>
-            <run>25570</run>
-            <year>2021</year>
-            <price>9170000</price>
-            <currency>RUR</currency>
-            <vin>00000068</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Porsche-Panamera-68/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/Porsche-Panamera-68/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/Porsche-Panamera-68/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/Porsche-Panamera-68/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/Porsche-Panamera-68/back.jpg</image>
-            </images>
-        </car>
-
-        <car>
-            <!--                  Audi Q7 45 TFSI              -->
-            <mark_id>Audi</mark_id>
-            <folder_id>Q7 45 TFSI, II (4M) Рестайлинг</folder_id>
-            <modification_id>2.0 АТ (248 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalAudi-Q7-45-TFSI-69</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>серый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>49545</run>
-            <year>2021</year>
-            <price>5230000</price>
-            <currency>RUR</currency>
-            <vin>00000069</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/Audi-Q7-45-TFSI-69/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/Audi-Q7-45-TFSI-69/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/Audi-Q7-45-TFSI-69/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/Audi-Q7-45-TFSI-69/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/Audi-Q7-45-TFSI-69/back.jpg</image>
-            </images>
-        </car>
-
-        <car>
-            <!--                  BMW X5 xDrive40i              -->
-            <mark_id>BMW</mark_id>
-            <folder_id>X5 xDrive40i, IV (G05)</folder_id>
-            <modification_id>3.0 АТ (340 л.с.)</modification_id>
-            <url>https://ncimport.ru/#modalBMW-X5-xDrive40i-70</url>
-            <body_type>внедорожник 5 дв.</body_type>
-            <color>белый</color>
-            <availability>на заказ</availability>
-            <custom>растаможен</custom>
-            <state>отличное</state>
-            <owners_number>один владелец</owners_number>
-            <run>51201</run>
-            <year>2020</year>
-            <price>5767000</price>
-            <currency>RUR</currency>
-            <vin>00000070</vin>
-            <images>
-                <image>https://ncimport.ru/images/cars/BMW-X5-xDrive40i-70/front-double.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW-X5-xDrive40i-70/in.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW-X5-xDrive40i-70/int.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW-X5-xDrive40i-70/side.jpg</image>
-                <image>https://ncimport.ru/images/cars/BMW-X5-xDrive40i-70/back.jpg</image>
-            </images>
-        </car>
-
-        <car>
             <!--                 Range Rover HSE              -->
             <mark_id>Range Rover</mark_id>
             <folder_id>HSE, IV Рестайлинг</folder_id>
@@ -1019,6 +915,8 @@
                 <image>https://ncimport.ru/images/cars/Porsche-Cayenne-75/back.jpg</image>
             </images>
         </car>
+
+
 
     </cars>
 
